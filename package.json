@@ -1,0 +1,36 @@
+{
+  "name": "ai-search",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "tsx scripts/writeVersion.ts && tsx scripts/generateOg.ts && tsx scripts/generateApi.ts",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "crawl": "tsx scripts/crawl.ts",
+    "crawl:github": "tsx scripts/crawlGithub.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "fast-xml-parser": "4.4.1",
+    "framer-motion": "^13.0.0",
+    "minisearch": "^7.1.0",
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "@types/sharp": "^0.31.1",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "sharp": "^0.34.5",
+    "tailwindcss": "3.4.6",
+    "tsx": "4.16.2",
+    "typescript": "5.5.3",
+    "vitest": "^4.1.7"
+  }
+}

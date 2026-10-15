@@ -1,0 +1,156 @@
+export type CategoryKey =
+  | "ai-models"
+  | "ai-products"
+  | "industry"
+  | "paper"
+  | "tip";
+
+export type Mode = "selected" | "all";
+
+export type DataSourceMode = "auto" | "local" | "aihot" | "mock";
+
+export type DataOrigin = "local" | "aihot" | "mock";
+
+export interface Category {
+  key: CategoryKey;
+  label: string;
+  desc: string;
+}
+
+export type EventType =
+  | "model-release"
+  | "capability"
+  | "funding"
+  | "policy"
+  | "opensource"
+  | "other";
+
+export interface Significance {
+  /** 0-100 显著性评分。 */
+  score: number;
+  /** 事件类型标签。 */
+  type: EventType;
+  /** 一句话中文影响点评，≤ 60 字。 */
+  reason: string;
+  /** 分流结果，避免每次渲染重复比较阈值。 */
+  verdict: "milestone" | "daily";
+  /** 打分方式，便于排查与回溯。 */
+  method: "ai" | "rule";
+  /** 打分所用模型，规则打分时为 null。 */
+  model?: string | null;
+  /** 打分时间（ISO）。 */
+  scoredAt: string;
+}
+export interface AIItem {
+  id: string;
+  title: string;
+  titleEn?: string | null;
+  summary: string | null;
+  source: string;
+  sourceUrl: string;
+  category: CategoryKey | null;
+  publishedAt: string | null;
+  tags?: string[];
+  /** Unified 0-100 score: tier base + in-source engagement percentile × freshness decay. */
+  heat?: number;
+  /** Raw engagement count from the source (GitHub stars / HN points / HF upvotes). */
+  engagement?: number;
+  /** Source credibility tier: 1 = first-party/official, 2 = media/community, 3 = aggregator. */
+  tier?: 1 | 2 | 3;
+  aiSelected?: boolean;
+  /** Adapter that produced this item, e.g. "hf-papers" / "github" / "rss:36kr". */
+  origin?: string;
+  /** When the crawler fetched this item (ISO). */
+  fetchedAt?: string | null;
+  /** First time this system saw the item (ISO) — from snapshot diff, drives NEW/freshness. */
+  firstSeen?: string | null;
+  /** One-sentence AI take, generated at build time (cached). Null when unavailable. */
+  aiNote?: string | null;
+  /** Cover image URL (extracted from the feed item, if any). */
+  image?: string | null;
+  /** AI 显著性评分；规则兜底时也会写入。 */
+  significance?: Significance | null;
+  /** Set at build time when the item is about a repo on /github (GitHub AI 趋势). */
+  ghTrend?: { repo: string; gained: number; period: "daily" | "weekly" | "monthly" } | null;
+}
+
+export interface ItemsQuery {
+  mode?: Mode;
+  category?: CategoryKey | "all";
+  source?: string;
+  page?: number;
+  pageSize?: number;
+  keyword?: string;
+  since?: string;
+  sort?: "heat" | "latest";
+}
+
+export interface PaginatedResult<T> {
+  items: T[];
+  total: number;
+  page: number;
+  pageSize: number;
+  totalPages: number;
+  source: DataOrigin;
+  fallbackReason?: string;
+}
+
+export interface DailyReport {
+  date: string;
+  generatedAt: string;
+  windowStart: string;
+  windowEnd: string;
+  /** 当日新收录总数（未截断）—— 供客户端按当前语言组装导语。 */
+  newCount?: number;
+  lead: { title: string; leadParagraph: string } | null;
+  /** 今日精选 —— 跨板块的当日重点条目。 */
+  featured?: {
+    id?: string;
+    title: string;
+    summary: string | null;
+    aiNote?: string | null;
+    sourceUrl: string;
+    sourceName: string;
+    category: CategoryKey | null;
+  }[];
+  sections: {
+    label: string;
+    items: {
+      id?: string;
+      title: string;
+      summary: string | null;
+      aiNote?: string | null;
+      sourceUrl: string;
+      sourceName: string;
+    }[];
+  }[];
+  flashes?: {
+    title: string;
+    sourceName: string;
+    sourceUrl: string;
+    publishedAt: string;
+  }[];
+}
+
+export interface DailyIndexItem {
+  date: string;
+  generatedAt: string;
+  leadTitle: string | null;
+}
+
+export interface DigestPick {
+  title: string;
+  sourceUrl: string;
+  source: string;
+  reason: string;
+}
+
+/** "AI 每日必读" — a few must-reads picked from the day's content (built daily). */
+export interface Digest {
+  date: string; // BJ date, e.g. 2026-05-29
+  generatedAt: string;
+  picks: DigestPick[];
+  /** Short AI summary of what's hot this week (shown under 本周最热). */
+  trendSummary?: string;
+}
+

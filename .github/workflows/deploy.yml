@@ -1,0 +1,126 @@
+name: Build & Deploy to GitHub Pages
+
+# Crawls fresh AI data, builds the static site, and publishes it to GitHub Pages.
+# Runs on every push to main, daily on a schedule, and on manual dispatch — so the
+# public site at https://aisearches.cc/ always serves real data
+# with zero servers to run.
+#
+# Two jobs with least privilege each:
+#   crawl — touches third-party feed content; the ONLY job with contents:write.
+#   deploy — builds and publishes; read-only checkout + pages permissions.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 22 * * *" # daily ~22:17 UTC (off-peak minute)
+  workflow_dispatch: {}
+
+# Never run two Pages deploys at once; let an in-flight one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # commit the refreshed snapshot back to the repo
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci # reproducible install strictly from package-lock.json
+
+      - name: Run tests
+        run: npm test
+
+      - name: Crawl AI sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # raises GitHub API rate limit
+          CRAWL_ARXIV: "1"
+          # LLM key drives AI notes + significance scoring; skipped when unset (falls back to rule scoring).
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }} # legacy fallback key (optional)
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          SIGNIFICANCE_THRESHOLD: ${{ vars.SIGNIFICANCE_THRESHOLD }}
+          SIGNIFICANCE_MAX: ${{ vars.SIGNIFICANCE_MAX }}
+          SIGNIFICANCE_CONCURRENCY: ${{ vars.SIGNIFICANCE_CONCURRENCY }}
+          SIGNIFICANCE_TIMEOUT_MS: ${{ vars.SIGNIFICANCE_TIMEOUT_MS }}
+        run: npm run crawl || echo "crawl reported issues; building with the last good snapshot"
+
+      - name: Commit refreshed snapshot (best-effort)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/items.json data/meta.json data/digest.json data/archive data/weekly-insight.json data/weekly-insights || true
+          # Separate: a missing trends snapshot must not abort staging the rest.
+          git add data/github-trending.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No snapshot changes."
+          else
+            git commit -m "chore(data): refresh crawled snapshot [skip ci]"
+            git push || echo "snapshot push skipped"
+          fi
+
+      - name: Upload snapshot for the deploy job
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-snapshot
+          path: data/
+          retention-days: 1
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write # publish to GitHub Pages
+      id-token: write # OIDC token required by deploy-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Use the freshly crawled snapshot
+        uses: actions/download-artifact@v4
+        with:
+          name: data-snapshot
+          path: data/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+        with:
+          enablement: true # auto-enable Pages (source = GitHub Actions) on first run
+
+      - name: Install CJK fonts (share posters render Chinese text)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+
+      - name: Build static export
+        env:
+          NEXT_PUBLIC_ASK_AI_URL: ${{ vars.ASK_AI_URL }}
+          DATA_SOURCE: local
+          # Threshold affects which items render as milestones in the static export.
+          SIGNIFICANCE_THRESHOLD: ${{ vars.SIGNIFICANCE_THRESHOLD }}
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./out
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v5

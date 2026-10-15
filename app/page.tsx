@@ -1,0 +1,43 @@
+import HomeClient from "@/components/HomeClient";
+import { readDigest, readLocalItems, readStoreMeta } from "@/lib/localStore";
+import { normalizeItems } from "@/lib/classify";
+import { MOCK_ITEMS } from "@/lib/mockData";
+import { attachGhTrend, readGhTrending } from "@/lib/ghTrendingStore";
+import { SITE_DESC, SITE_NAME, SITE_URL, jsonLdScript } from "@/lib/seo";
+import { resolveThreshold } from "@/lib/significance";
+
+// Static export: the snapshot is read at build time and baked into the page;
+// all filtering/search/pagination then happens client-side in the browser.
+export default function Home() {
+  const raw = readLocalItems();
+  const items = attachGhTrend(normalizeItems(raw.length > 0 ? raw : MOCK_ITEMS), readGhTrending());
+  const meta = readStoreMeta();
+  // Computed once at build and serialized into props (stable across SSR + client,
+  // so NEW/今日新增 windows don't cause hydration mismatch).
+  const now = meta?.fetchedAt ? new Date(meta.fetchedAt).getTime() : Date.now();
+  // Threshold flows into the milestone cut-off; invalid env values fall back to the default.
+  const threshold = resolveThreshold(process.env.SIGNIFICANCE_THRESHOLD);
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      { "@type": "WebSite", name: SITE_NAME, url: SITE_URL, description: SITE_DESC, inLanguage: "zh-CN" },
+      {
+        "@type": "ItemList",
+        itemListElement: items.slice(0, 20).map((it, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          url: it.sourceUrl,
+          name: it.title,
+        })),
+      },
+    ],
+  };
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdScript(jsonLd) }} />
+      <HomeClient items={items} meta={meta} now={now} digest={readDigest()} threshold={threshold} />
+    </>
+  );
+}
