@@ -460,7 +460,16 @@
     "heat": 31,
     "firstSeen": "2026-09-01T01:19:08.067Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-6a6bdcd7f2",
@@ -528,7 +537,16 @@
     "heat": 31,
     "firstSeen": "2026-09-01T01:19:08.067Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-09c8fe5e8e",
@@ -825,7 +843,16 @@
     "heat": 22,
     "firstSeen": "2026-09-01T01:19:08.067Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-0f95b9ba87",
@@ -3054,7 +3081,16 @@
     "heat": 31,
     "firstSeen": "2026-09-02T00:17:12.892Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "model-release",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-9b92a1dab6",
@@ -3245,7 +3281,16 @@
     "heat": 31,
     "firstSeen": "2026-09-02T00:17:12.892Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-e9ed6baa98",
@@ -3414,7 +3459,16 @@
     "heat": 31,
     "firstSeen": "2026-09-02T00:17:12.892Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:simonwillison-f632cad25f",
@@ -3622,7 +3676,16 @@
     "heat": 31,
     "firstSeen": "2026-09-02T00:17:12.892Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-a1bcccbde5",
@@ -3834,7 +3897,16 @@
     "heat": 22,
     "firstSeen": "2026-09-02T00:17:12.892Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-681c02d6b6",
@@ -6555,7 +6627,16 @@
     "heat": 31,
     "firstSeen": "2026-09-03T00:18:40.874Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-57b5118179",
@@ -6597,7 +6678,16 @@
     "heat": 30,
     "firstSeen": "2026-09-03T00:18:40.874Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-71656b2e31",
@@ -9733,7 +9823,16 @@
     "heat": 31,
     "firstSeen": "2026-09-04T00:12:24.864Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-0ab3b0e32f",
@@ -9928,7 +10027,16 @@
     "heat": 31,
     "firstSeen": "2026-09-04T00:12:24.864Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bensbites-e07839d045",
@@ -9945,7 +10053,16 @@
     "heat": 22,
     "firstSeen": "2026-09-04T00:12:24.864Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-fc5286d71a",
@@ -10471,7 +10588,16 @@
     "heat": 31,
     "firstSeen": "2026-09-04T00:12:24.864Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:hf-blog-86b47b47cb",
@@ -12676,7 +12802,16 @@
     "heat": 22,
     "firstSeen": "2026-09-05T00:08:36.862Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-7e4db382f3",
@@ -16610,7 +16745,16 @@
     "heat": 22,
     "firstSeen": "2026-09-08T00:26:42.674Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-6f154428a9",
@@ -18827,7 +18971,16 @@
     "heat": 31,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:meta-ai-8d1d3c63a9",
@@ -19291,10 +19444,19 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-09T00:17:30.368Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-97c166136f",
@@ -19332,7 +19494,16 @@
     "heat": 31,
     "firstSeen": "2026-09-09T00:17:30.368Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "funding",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-235e7b1262",
@@ -19418,10 +19589,19 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-09T00:17:30.368Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-aaada63e99",
@@ -19472,7 +19652,16 @@
     "heat": 31,
     "firstSeen": "2026-09-09T00:17:30.368Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "opensource",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-305f03a4aa",
@@ -19866,7 +20055,16 @@
     "heat": 22,
     "firstSeen": "2026-09-09T00:17:30.368Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.04382",
@@ -21151,7 +21349,16 @@
     "heat": 31,
     "firstSeen": "2026-09-10T00:17:09.236Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:google-ai-e8269fc9a1",
@@ -21168,7 +21375,16 @@
     "heat": 31,
     "firstSeen": "2026-09-10T00:17:09.236Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-ff21891e60",
@@ -21682,7 +21898,16 @@
     "heat": 31,
     "firstSeen": "2026-09-10T00:17:09.236Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:raschka-4408428714",
@@ -21699,7 +21924,16 @@
     "heat": 23,
     "firstSeen": "2026-09-10T00:17:09.236Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:interconnects-af4f922db5",
@@ -21716,7 +21950,16 @@
     "heat": 23,
     "firstSeen": "2026-09-10T00:17:09.236Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-8b769129aa",
@@ -24764,7 +25007,16 @@
     "heat": 31,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-fbed16dcfc",
@@ -24853,7 +25105,16 @@
     "heat": 23,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-a2424edff1",
@@ -25073,7 +25334,16 @@
     "heat": 23,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:nvidia-ed5ac5e67a",
@@ -25294,7 +25564,16 @@
     "heat": 31,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-ea07adc076",
@@ -25557,7 +25836,16 @@
     "heat": 30,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-24a82fd5be",
@@ -25798,7 +26086,16 @@
     "heat": 31,
     "firstSeen": "2026-09-11T00:12:57.459Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:tldr-ai-37a755d43d",
@@ -28262,7 +28559,16 @@
     "heat": 30,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bensbites-6ce3499b54",
@@ -28279,7 +28585,16 @@
     "heat": 23,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-499c7eee1e",
@@ -28330,7 +28645,16 @@
     "heat": 23,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-ce5263883a",
@@ -28623,10 +28947,19 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:qbitai-9d7474c27c",
@@ -28678,10 +29011,19 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:qbitai-ff323aefee",
@@ -28812,7 +29154,16 @@
     "heat": 15,
     "firstSeen": "2026-09-12T00:20:23.191Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:apple-ml-70f569c99e",
@@ -31153,7 +31504,16 @@
     "heat": 23,
     "firstSeen": "2026-09-13T00:01:28.233Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-coder543-minnow",
@@ -31192,10 +31552,19 @@
     "aiSelected": true,
     "origin": "rss:smol-ainews",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-13T00:01:28.233Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:smol-ainews-a8dcf5b86d",
@@ -31212,7 +31581,16 @@
     "heat": 22,
     "firstSeen": "2026-09-13T00:01:28.233Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:smol-ainews-f699c937c3",
@@ -31229,7 +31607,16 @@
     "heat": 22,
     "firstSeen": "2026-09-13T00:01:28.233Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-op7418-guizang-yingzao-skill",
@@ -32806,10 +33193,19 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "谷歌研究高管对话女航天员，科技如何助力深空探索值得关注。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techreview-ai-d834d734a1",
@@ -33029,7 +33425,16 @@
     "heat": 21,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:latentspace-0f1f17c815",
@@ -33060,10 +33465,19 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techreview-ai-f23ae65b53",
@@ -34514,7 +34928,16 @@
     "heat": 31,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.12036",
@@ -35419,7 +35842,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-34fe49b404",
@@ -35614,7 +36046,16 @@
     "heat": 29,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-f2ad97ad48",
@@ -35822,7 +36263,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:google-ai-18592959ad",
@@ -35839,7 +36289,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:google-ai-b86d9a766f",
@@ -35856,7 +36315,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:google-ai-a243976a4a",
@@ -35873,7 +36341,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-9b1c20e232",
@@ -36144,7 +36621,16 @@
     "heat": 23,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:google-ai-00e29a681a",
@@ -36161,7 +36647,16 @@
     "heat": 32,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "funding",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-a671e6c21d",
@@ -39028,7 +39523,16 @@
     "heat": 25,
     "firstSeen": "2026-09-17T00:34:39.015Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:mistral-b558fe0be3",
@@ -39045,7 +39549,16 @@
     "heat": 32,
     "firstSeen": "2026-09-17T00:34:39.015Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-5f7e182a53",
@@ -39853,10 +40366,19 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-09-17T00:34:39.015Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-839e9e23b2",
@@ -41083,7 +41605,16 @@
     "heat": 32,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-92c0e3ced2",
@@ -41189,7 +41720,16 @@
     "heat": 32,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "model-release",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-c70b5555d0",
@@ -41864,7 +42404,16 @@
     "heat": 21,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bensbites-567faa349d",
@@ -41881,7 +42430,16 @@
     "heat": 23,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-d9fd0496b4",
@@ -42343,7 +42901,16 @@
     "heat": 23,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-452167c2a0",
@@ -42449,7 +43016,16 @@
     "heat": 23,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-1f5f976388",
@@ -43554,7 +44130,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-0e3fc748cb",
@@ -43571,7 +44156,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:anthropic-564268dbdb",
@@ -43605,7 +44199,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-3f6c58621a",
@@ -43622,7 +44225,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-b63023bfb9",
@@ -43639,7 +44251,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-988e365297",
@@ -43656,7 +44277,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-b5a755e51d",
@@ -43673,7 +44303,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-d16aba586a",
@@ -43690,7 +44329,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bair-e2aca7c0bd",
@@ -43707,7 +44355,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:meta-ai-65d0e1a59e",
@@ -43741,7 +44398,16 @@
     "heat": 30,
     "firstSeen": "2026-09-18T00:22:03.995Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:meta-ai-9ea9ecee6e",
@@ -44212,7 +44878,16 @@
     "heat": 23,
     "firstSeen": "2026-09-19T00:22:43.918Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-1f6df86b0f",
@@ -44785,7 +45460,16 @@
     "heat": 32,
     "firstSeen": "2026-09-19T00:22:43.918Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-046abd252b",
@@ -44925,7 +45609,16 @@
     "heat": 32,
     "firstSeen": "2026-09-19T00:22:43.918Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-5e29b7c746",
@@ -45358,7 +46051,16 @@
     "heat": 23,
     "firstSeen": "2026-09-19T00:22:43.918Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-2b087dd134",
@@ -45417,7 +46119,16 @@
     "heat": 32,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-8c54552093",
@@ -45813,10 +46524,19 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-19T00:22:43.918Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.19656",
@@ -46229,10 +46949,19 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-21T00:17:52.990Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.19499",
@@ -46729,10 +47458,19 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": "真正通用智能仍遥远，行业需警惕过度炒作与安全风险。",
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-20T00:09:37.242Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-66fb6faf12",
@@ -47306,10 +48044,19 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-20T00:09:37.242Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-a193c15e98",
@@ -47364,7 +48111,16 @@
     "heat": 24,
     "firstSeen": "2026-09-20T00:09:37.242Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-53650f6807",
@@ -48583,7 +49339,7 @@
       "llm",
       "Python"
     ],
-    "engagement": 2316,
+    "engagement": 2346,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -48591,7 +49347,16 @@
     "heat": 30,
     "firstSeen": "2026-09-21T00:17:52.990Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-agent-launch-agent-launcher",
@@ -49940,7 +50705,16 @@
     "heat": 24,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-a7ca59844a",
@@ -50059,7 +50833,16 @@
     "heat": 24,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-jev-chat-jev-chat-jarvis",
@@ -50076,7 +50859,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7714,
+    "engagement": 7758,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50084,7 +50867,16 @@
     "heat": 32,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-bfcae31e7c",
@@ -50539,10 +51331,19 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:tldr-ai-d105980713",
@@ -50559,7 +51360,16 @@
     "heat": 24,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-4a8dce49cc",
@@ -50957,7 +51767,7 @@
       "ai-agents",
       "api"
     ],
-    "engagement": 185,
+    "engagement": 187,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50965,7 +51775,16 @@
     "heat": 25,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.21788",
@@ -51246,15 +52065,24 @@
       "python",
       "Python"
     ],
-    "engagement": 117,
+    "engagement": 120,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.20633",
@@ -51894,7 +52722,16 @@
     "heat": 33,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-d93240d4c3",
@@ -52963,7 +53800,16 @@
     "heat": 24,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-2de9b1ece6",
@@ -53018,7 +53864,16 @@
     "heat": 24,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-b82451ca40",
@@ -53039,7 +53894,16 @@
     "heat": 25,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-6ee2a82c9b",
@@ -53633,7 +54497,16 @@
     "heat": 33,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:hf-blog-98acfe91fd",
@@ -53650,7 +54523,16 @@
     "heat": 33,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:hf-blog-fb8ad85c45",
@@ -53667,7 +54549,16 @@
     "heat": 33,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:tldr-ai-a35f3ae9a9",
@@ -53684,7 +54575,16 @@
     "heat": 24,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "arxiv-2609.24985v1",
@@ -54041,7 +54941,16 @@
     "heat": 16,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.23989",
@@ -54388,7 +55297,7 @@
       "generative-ai",
       "TypeScript"
     ],
-    "engagement": 1499,
+    "engagement": 1760,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -54396,7 +55305,16 @@
     "heat": 30,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.23796",
@@ -55599,10 +56517,19 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-ad93c749ed",
@@ -55803,10 +56730,19 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:deepmind-4c4abcff4a",
@@ -55820,10 +56756,19 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-9d02eeb8ce",
@@ -55895,7 +56840,16 @@
     "heat": 29,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:deepmind-be2314c629",
@@ -55909,10 +56863,19 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-8138d300d9",
@@ -56765,7 +57728,16 @@
     "heat": 24,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-bd73448685",
@@ -57206,7 +58178,16 @@
     "heat": 20,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.26781",
@@ -57399,7 +58380,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1420,
+    "engagement": 1467,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57407,7 +58388,16 @@
     "heat": 30,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.25267",
@@ -57643,7 +58633,7 @@
       "cinematography",
       "claude-skill"
     ],
-    "engagement": 149,
+    "engagement": 152,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57651,7 +58641,16 @@
     "heat": 24,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:anthropic-21f08ac191",
@@ -57690,10 +58689,19 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-09-24T00:31:22.914Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-monglong0214-jev-gate",
@@ -58234,10 +59242,19 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "长视频生成从片段拼凑迈向连贯叙事，自动化突破将重塑影视与内容创作门槛。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-01b3022d0b",
@@ -58646,10 +59663,19 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-e655f5f2c3",
@@ -59337,10 +60363,19 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:qbitai-9467a7f0aa",
@@ -59416,7 +60451,16 @@
     "heat": 25,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-e509d9ef0e",
@@ -59882,7 +60926,16 @@
     "heat": 24,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-da2bf47ffa",
@@ -61020,10 +62073,19 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-09-25T00:34:19.665Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-d31a2094a6",
@@ -61518,10 +62580,19 @@
     "origin": "hackernews",
     "aiNote": "开源决策模型迎来轻量本地化部署工具，降低AI决策应用门槛。",
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-ddb6a0a573",
@@ -62093,7 +63164,16 @@
     "heat": 25,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:qbitai-01d5d70cbf",
@@ -62481,10 +63561,19 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "arxiv-2609.30266v1",
@@ -63251,7 +64340,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 11555,
+    "engagement": 13068,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63259,7 +64348,16 @@
     "heat": 33,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.28603",
@@ -63390,7 +64488,16 @@
     "heat": 20,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.23087",
@@ -63429,15 +64536,24 @@
       "mcp",
       "Python"
     ],
-    "engagement": 131,
+    "engagement": 133,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-26T00:38:26.032Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.29647",
@@ -63613,10 +64729,19 @@
     "origin": "hackernews",
     "aiNote": "国产大模型开始补算力调度这块短板，能否撑起大规模推理训练值得关注。",
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-09-27T00:39:25.031Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-62f32100a9",
@@ -64230,7 +65355,7 @@
       "claude-skills",
       "HTML"
     ],
-    "engagement": 30,
+    "engagement": 31,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64238,7 +65363,16 @@
     "heat": 19,
     "firstSeen": "2026-09-27T00:39:25.031Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-e5090ddc97",
@@ -65131,7 +66265,16 @@
     "heat": 22,
     "firstSeen": "2026-09-28T00:48:39.683Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-libingzheren-jev-mem",
@@ -65148,7 +66291,7 @@
       "agentic-memory",
       "Python"
     ],
-    "engagement": 206,
+    "engagement": 212,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -65156,7 +66299,16 @@
     "heat": 26,
     "firstSeen": "2026-09-28T00:48:39.683Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-tongyi-mai-qwen-planner-agent",
@@ -65179,7 +66331,16 @@
     "heat": 22,
     "firstSeen": "2026-09-28T00:48:39.683Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-nirbhay41120003-echomind",
@@ -65793,10 +66954,19 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "AI与人类共创叙事摘得大奖，预示内容生产新范式。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-906bf36c70",
@@ -66196,10 +67366,19 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-5b4f6fe726",
@@ -66309,7 +67488,16 @@
     "heat": 29,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-ddea09bd56",
@@ -66531,10 +67719,19 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-77a7729d92",
@@ -66709,10 +67906,19 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:sspai-00783a3bb6",
@@ -66763,7 +67969,16 @@
     "heat": 35,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-6eaf16d9df",
@@ -67014,10 +68229,19 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-29ce4cd1ea",
@@ -67063,7 +68287,16 @@
     "heat": 17,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-b0yko-taskdistill",
@@ -68273,7 +69506,7 @@
       "go",
       "Go"
     ],
-    "engagement": 592,
+    "engagement": 603,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -68281,7 +69514,16 @@
     "heat": 28,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-nidhi-singh02-agent-router",
@@ -68306,7 +69548,16 @@
     "heat": 22,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.18703",
@@ -68884,7 +70135,16 @@
     "heat": 36,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-306eaf49e9",
@@ -69539,10 +70799,19 @@
     "aiSelected": true,
     "origin": "rss:anthropic",
     "aiNote": "中国开源大模型正把高级网络攻防能力扩散到全球，这比技术本身更值得警惕。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:hf-blog-493cf3fce1",
@@ -69717,10 +70986,19 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": "AI开始构建跨模态生物世界模型，有望打破数据孤岛，加速生命科学发现。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-08e650677b",
@@ -69768,10 +71046,19 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": "MCP代理若只验事实不辨来源，仍可能被恶意数据源操纵，来源感知校验才是关键防线。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:bensbites-b432d8159d",
@@ -69788,7 +71075,16 @@
     "heat": 26,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-4114951638",
@@ -69945,7 +71241,16 @@
     "heat": 26,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techreview-ai-09364ac11a",
@@ -70625,10 +71930,19 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:mit-news-ai-809d70e354",
@@ -70642,10 +71956,19 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:latentspace-abda39f339",
@@ -70730,7 +72053,16 @@
     "heat": 26,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-kkkkhazix-aihot",
@@ -70747,15 +72079,24 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7510,
+    "engagement": 7723,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-114a10ef07",
@@ -71337,15 +72678,24 @@
       "gui-agent",
       "Python"
     ],
-    "engagement": 165,
+    "engagement": 170,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-heaven999b-hello-agent-system",
@@ -71362,7 +72712,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 171,
+    "engagement": 194,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71370,7 +72720,16 @@
     "heat": 27,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-ff8b5c3e07",
@@ -71918,10 +73277,19 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-shapsider-omnijev",
@@ -71946,7 +73314,16 @@
     "heat": 17,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2606.29521",
@@ -72006,7 +73383,7 @@
       "journione",
       "JavaScript"
     ],
-    "engagement": 844,
+    "engagement": 895,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -72014,7 +73391,16 @@
     "heat": 28,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hf-2609.31669",
@@ -72300,15 +73686,24 @@
       "generative-ai",
       "JavaScript"
     ],
-    "engagement": 253,
+    "engagement": 256,
     "aiSelected": true,
     "origin": "github",
     "aiNote": "开源框架把AI生成3D资产与电影级网页体验合一，二十个示例让独立开发者也能低成本搭建交互式三维站点。",
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-09-30T07:14:03.171Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "gh-feder-cr-dots",
@@ -74249,7 +75644,16 @@
     "heat": 30,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:meta-ai-54c941bdeb",
@@ -74266,7 +75670,16 @@
     "heat": 30,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:meta-ai-b50d23ed74",
@@ -74283,7 +75696,16 @@
     "heat": 30,
     "firstSeen": "2026-09-30T09:21:48.562Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:ithome-7da1708f3b",

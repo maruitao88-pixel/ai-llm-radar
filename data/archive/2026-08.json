@@ -1009,7 +1009,16 @@
     "heat": 22,
     "firstSeen": "2026-08-01T23:12:50.082Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:openai-20b0eb2d5c",
@@ -1376,7 +1385,16 @@
     "heat": 22,
     "firstSeen": "2026-08-02T23:13:28.239Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-92beec8f13",
@@ -2665,7 +2683,16 @@
     "heat": 22,
     "firstSeen": "2026-08-03T23:27:45.000Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-cb41745aef",
@@ -2699,7 +2726,16 @@
     "heat": 22,
     "firstSeen": "2026-08-03T23:27:45.000Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-0536ecf24a",
@@ -5621,7 +5657,16 @@
     "heat": 30,
     "firstSeen": "2026-08-04T23:18:58.747Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "opensource",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-4250ad4d29",
@@ -18115,7 +18160,16 @@
     "heat": 22,
     "firstSeen": "2026-08-09T22:51:24.251Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-3f7c800bfd",
@@ -19623,7 +19677,16 @@
     "heat": 22,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:importai-5d7f488d8c",
@@ -19640,7 +19703,16 @@
     "heat": 22,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-847f3a84fa",
@@ -23573,7 +23645,16 @@
     "heat": 30,
     "firstSeen": "2026-08-11T23:04:36.948Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-d4cd8b0f02",
@@ -25662,7 +25743,16 @@
     "heat": 19,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-a7f0b3ab85",
@@ -25751,7 +25841,16 @@
     "heat": 30,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:techcrunch-ai-1880293b64",
@@ -26298,7 +26397,16 @@
     "heat": 22,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-1d15b31570",
@@ -29073,7 +29181,16 @@
     "heat": 29,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-8722f56c8f",
@@ -29094,7 +29211,16 @@
     "heat": 22,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:qbitai-20b627328d",
@@ -30900,7 +31026,16 @@
     "heat": 22,
     "firstSeen": "2026-08-14T22:41:58.336Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-6f56e04a74",
@@ -33824,7 +33959,16 @@
     "heat": 22,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-8b94615efc",
@@ -35809,7 +35953,16 @@
     "heat": 22,
     "firstSeen": "2026-08-17T22:42:50.620Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-6ef1f35545",
@@ -36029,7 +36182,16 @@
     "heat": 22,
     "firstSeen": "2026-08-17T22:42:50.620Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:nvidia-b10672c70c",
@@ -44692,7 +44854,16 @@
     "heat": 30,
     "firstSeen": "2026-08-20T22:46:39.903Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-b5d48fb483",
@@ -46692,7 +46863,16 @@
     "heat": 30,
     "firstSeen": "2026-08-21T22:43:12.096Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "hn-a592d0fe81",
@@ -46836,7 +47016,16 @@
     "heat": 28,
     "firstSeen": "2026-08-21T22:43:12.096Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-440eeb7b6a",
@@ -48840,7 +49029,16 @@
     "heat": 22,
     "firstSeen": "2026-08-22T22:40:23.840Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:infoq-ab4627192e",
@@ -50660,7 +50858,16 @@
     "heat": 30,
     "firstSeen": "2026-08-24T22:46:09.578Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-63b987968d",
@@ -51042,7 +51249,16 @@
     "heat": 22,
     "firstSeen": "2026-08-24T22:46:09.578Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-065db7bd07",
@@ -53192,7 +53408,16 @@
     "heat": 22,
     "firstSeen": "2026-08-25T22:47:03.342Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-a037d648cf",
@@ -55807,7 +56032,16 @@
     "heat": 30,
     "firstSeen": "2026-08-27T03:20:48.283Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:wired-ai-8a8f3eb610",
@@ -56308,7 +56542,16 @@
     "heat": 30,
     "firstSeen": "2026-08-27T03:20:48.283Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:theverge-ai-b058b9480d",
@@ -57257,7 +57500,16 @@
     "heat": 28,
     "firstSeen": "2026-08-27T03:20:48.283Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-03c4d173cc",
@@ -59841,7 +60093,16 @@
     "heat": 30,
     "firstSeen": "2026-08-28T06:09:11.114Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "arxiv-2608.27406v1",
@@ -60111,7 +60372,16 @@
     "heat": 30,
     "firstSeen": "2026-08-28T06:09:11.114Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:aws-ml-7003584696",
@@ -60497,7 +60767,16 @@
     "heat": 22,
     "firstSeen": "2026-08-28T06:09:11.114Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:nvidia-ae61ed145d",
@@ -60565,7 +60844,16 @@
     "heat": 30,
     "firstSeen": "2026-08-28T06:09:11.114Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 70,
+      "type": "funding",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:arstechnica-ai-3544561ca6",
@@ -62609,7 +62897,16 @@
     "heat": 22,
     "firstSeen": "2026-08-29T03:43:55.801Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:thedecoder-e314f1d893",
@@ -64115,7 +64412,16 @@
     "heat": 22,
     "firstSeen": "2026-08-31T00:38:34.423Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-15T07:50:29.928Z"
+    }
   },
   {
     "id": "rss:simonwillison-517370741c",
