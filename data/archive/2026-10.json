@@ -11647,7 +11647,7 @@
     "origin": "hackernews",
     "aiNote": "宗教伦理开始介入AI安全治理，信仰视角或成对齐新变量。",
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-05T00:57:55.003Z",
     "fetchedAt": null,
     "tier": 2,
@@ -15164,7 +15164,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 16920,
+    "engagement": 16927,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -30970,7 +30970,7 @@
       "linux",
       "Swift"
     ],
-    "engagement": 3813,
+    "engagement": 3814,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -33576,7 +33576,7 @@
       "computer-use",
       "C"
     ],
-    "engagement": 2204,
+    "engagement": 2206,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -37156,7 +37156,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38893,7 +38893,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2
@@ -39195,7 +39195,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 361,
+    "engagement": 362,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -39385,7 +39385,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 158,
+    "engagement": 159,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -40729,7 +40729,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 169,
+    "engagement": 170,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -42449,7 +42449,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 38,
+    "engagement": 39,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -42573,7 +42573,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 46,
+    "engagement": 47,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -42635,7 +42635,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 161,
+    "engagement": 163,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -42891,7 +42891,7 @@
       "cdp",
       "TypeScript"
     ],
-    "engagement": 736,
+    "engagement": 737,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -43093,7 +43093,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T07:50:30.103Z",
+  "fetchedAt": "2026-10-15T07:54:07.987Z",
   "startedAt": "2026-09-30T07:14:20.189Z",
   "counts": {
     "trending": 311,
@@ -13,8 +13,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 252718,
-      "forks": 63474,
+      "stars": 252809,
+      "forks": 63500,
       "gained": {
         "daily": 41034,
         "weekly": 214837
@@ -76,7 +76,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 252718
+          "stars": 252809
         }
       ],
       "aiNote": "用智能体逆向分析应用行为乃至原生二进制文件，覆盖从高层逻辑到底层机器码的完整链路。",
@@ -96,7 +96,7 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 67336,
+      "stars": 67343,
       "forks": 7396,
       "gained": {
         "daily": 3538,
@@ -186,7 +186,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 67336
+          "stars": 67343
         }
       ],
       "aiNote": "本地运行的语音克隆与配音工具，支持646种语言，可替代ElevenLabs。",
@@ -207,7 +207,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 291770,
+      "stars": 291778,
       "forks": 24461,
       "gained": {
         "daily": 1692,
@@ -297,7 +297,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 291770
+          "stars": 291778
         }
       ],
       "aiNote": "面向工程师的实用技能集合，源自作者日常代理配置。",
@@ -316,7 +316,7 @@
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27899,
+      "stars": 27906,
       "forks": 1520,
       "gained": {
         "daily": 2109,
@@ -346,7 +346,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 27899
+          "stars": 27906
         }
       ],
       "aiNote": null,
@@ -358,8 +358,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 63959,
-      "forks": 5741,
+      "stars": 63962,
+      "forks": 5742,
       "gained": {
         "daily": 1089,
         "weekly": 5123,
@@ -450,7 +450,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 63959
+          "stars": 63962
         }
       ],
       "aiNote": "用HTML写视频脚本，专为AI智能体设计，让自动化视频生成更简单。",
@@ -470,7 +470,7 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 55531,
+      "stars": 55532,
       "forks": 3509,
       "gained": {
         "weekly": 10706
@@ -532,7 +532,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 55531
+          "stars": 55532
         }
       ],
       "aiNote": "为多款AI编程工具提供44种编辑级图表设计，输出自包含的HTML与SVG，摒弃阴影和Mermaid的粗糙效果。",
@@ -619,7 +619,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 92803,
+      "stars": 92804,
       "forks": 5922,
       "gained": {
         "daily": 919,
@@ -654,7 +654,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 92803
+          "stars": 92804
         }
       ],
       "aiNote": "这是一个面向多智能体并行调度的开发环境，支持用自有订阅运行各类编码代理，并覆盖桌面、移动与远程运行时。",
@@ -674,7 +674,7 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29999,
+      "stars": 30006,
       "forks": 4489,
       "gained": {
         "daily": 1025,
@@ -710,7 +710,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 29999
+          "stars": 30006
         }
       ],
       "aiNote": "一个用 Go 编写的全自主 AI 智能体系统，能独立完成复杂的渗透测试任务。",
@@ -730,7 +730,7 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 29423,
+      "stars": 29426,
       "forks": 2058,
       "gained": {
         "daily": 947,
@@ -822,7 +822,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 29423
+          "stars": 29426
         }
       ],
       "aiNote": "为AI编程助手压缩上下文窗口，沙箱化工具输出并跨平台持久记忆，显著降低token消耗。",
@@ -1151,8 +1151,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 49819,
-      "forks": 6073,
+      "stars": 49820,
+      "forks": 6074,
       "gained": {
         "monthly": 26274
       },
@@ -1237,7 +1237,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 49819
+          "stars": 49820
         }
       ],
       "aiNote": "为智能体提供可学习记忆的Python框架，让AI从历史交互中持续积累经验，提升长期任务表现。",
@@ -1257,7 +1257,7 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 35448,
+      "stars": 35449,
       "forks": 4808,
       "gained": {
         "weekly": 3708,
@@ -1330,7 +1330,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 35448
+          "stars": 35449
         }
       ],
       "aiNote": "聚合三十四家免费大模型服务商的六百余个模型端点，通过统一接口调用并支持智能路由与故障转移。",
@@ -1351,7 +1351,7 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47257,
+      "stars": 47256,
       "forks": 3443,
       "gained": {
         "monthly": 23047
@@ -1447,7 +1447,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 47257
+          "stars": 47256
         }
       ],
       "aiNote": "阿里开源的高效代码审查工具，融合确定性流水线与大模型智能体，支持行级精准评论和多语言安全规则。",
@@ -1467,7 +1467,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 279701,
+      "stars": 279703,
       "forks": 41613,
       "gained": {
         "monthly": 22689
@@ -1557,7 +1557,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 279701
+          "stars": 279703
         }
       ],
       "aiNote": "面向 Claude Code 等编码代理的性能优化框架，整合技能、记忆与安全机制。",
@@ -1579,7 +1579,7 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 102321,
-      "forks": 17148,
+      "forks": 17150,
       "gained": {
         "monthly": 21643
       },
@@ -1678,7 +1678,7 @@
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60615,
+      "stars": 60616,
       "forks": 9484,
       "gained": {
         "daily": 540,
@@ -1712,7 +1712,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 60615
+          "stars": 60616
         }
       ],
       "aiNote": "聚合多种编程助手与模型接口，提供十三亿免费令牌，支持终端、应用、编辑器、手机及浏览器原生会话。",
@@ -1834,7 +1834,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 160164,
+      "stars": 160166,
       "forks": 25895,
       "gained": {
         "daily": 268,
@@ -1916,7 +1916,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 160164
+          "stars": 160166
         }
       ],
       "aiNote": "一套可直接调用的AI代理团队，覆盖前端、社区运营等角色，每个代理有专长与交付物，适合快速搭建自动化工作流。",
@@ -1936,7 +1936,7 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 38742,
+      "stars": 38743,
       "forks": 3949,
       "gained": {
         "daily": 409,
@@ -1978,7 +1978,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 38742
+          "stars": 38743
         }
       ],
       "aiNote": "这是一个在单张4GB显卡上运行70B参数大模型的推理框架，通过分层加载与量化技术突破显存限制。",
@@ -2200,7 +2200,7 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 144503,
+      "stars": 144508,
       "forks": 9577,
       "gained": {
         "weekly": 3965
@@ -2230,7 +2230,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 144503
+          "stars": 144508
         }
       ],
       "aiNote": null,
@@ -2242,8 +2242,8 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69302,
-      "forks": 12142,
+      "stars": 69304,
+      "forks": 12144,
       "gained": {
         "monthly": 14754
       },
@@ -2332,7 +2332,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 69302
+          "stars": 69304
         }
       ],
       "aiNote": "这是一个从零开始学习人工智能工程的 Python 教程项目，强调动手实现并交付给他人使用。",
@@ -2398,7 +2398,7 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 34087,
+      "stars": 34088,
       "forks": 4542,
       "gained": {
         "daily": 242,
@@ -2489,7 +2489,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 34087
+          "stars": 34088
         }
       ],
       "aiNote": "腾讯开源的大模型知识平台，能把原始文档变成可检索问答、自主推理智能体和自维护知识库。",
@@ -2509,7 +2509,7 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 68376,
+      "stars": 68377,
       "forks": 8765,
       "gained": {
         "weekly": 3387
@@ -2583,7 +2583,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 68376
+          "stars": 68377
         }
       ],
       "aiNote": "全球首个开源智能体视频制作系统，内置12条制作流水线、百余工具及七百余份技能知识文件，可将AI编程助手变为完整视频工作室。",
@@ -2807,7 +2807,7 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26757,
+      "stars": 26756,
       "forks": 2422,
       "gained": {
         "daily": 295,
@@ -2898,7 +2898,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 26757
+          "stars": 26756
         }
       ],
       "aiNote": "仅25MB的跨平台数据库客户端，支持百余种数据库并内置AI与MCP，轻量且功能全面。",
@@ -2917,7 +2917,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11466,
+      "stars": 11468,
       "forks": 1124,
       "gained": {
         "weekly": 1155,
@@ -2998,7 +2998,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 11466
+          "stars": 11468
         }
       ],
       "aiNote": "这是 Cursor 编辑器官方插件规范与配套插件。",
@@ -3217,7 +3217,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 9412,
-      "forks": 1172,
+      "forks": 1173,
       "gained": {
         "monthly": 7717
       },
@@ -3758,7 +3758,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 150939,
+      "stars": 150940,
       "forks": 26584,
       "gained": {
         "monthly": 6685
@@ -3875,7 +3875,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 150939
+          "stars": 150940
         }
       ],
       "aiNote": "终端里的智能编程助手，能理解代码库、执行日常任务并处理 Git 流程，让自然语言直接驱动开发。",
@@ -3895,7 +3895,7 @@
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11726,
+      "stars": 11727,
       "forks": 1213,
       "gained": {
         "monthly": 6529
@@ -3926,7 +3926,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 11726
+          "stars": 11727
         }
       ],
       "aiNote": "谷歌推出的工具把自然语言指令转为可靠的安卓自动化操作，能跑通端到端流程并抓取日志，还可接入多种 AI 编程助手。",
@@ -3946,7 +3946,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 299311,
+      "stars": 299316,
       "forks": 26737,
       "gained": {
         "daily": 534
@@ -3984,7 +3984,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 299311
+          "stars": 299316
         }
       ],
       "aiNote": "一套面向智能体的技能框架与开发方法论，用 Shell 实现，强调可落地的工程流程而非单纯提示词集合。",
@@ -4003,7 +4003,7 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26602,
+      "stars": 26603,
       "forks": 3781,
       "gained": {
         "daily": 180,
@@ -4095,7 +4095,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 26602
+          "stars": 26603
         }
       ],
       "aiNote": "把 Claude Code 变成完整游戏开发工作室，49 个智能体与 72 项工作流技能按真实团队层级协作。",
@@ -4376,7 +4376,7 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4631,
+      "stars": 4632,
       "forks": 292,
       "gained": {
         "weekly": 1379
@@ -4414,7 +4414,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 4631
+          "stars": 4632
         }
       ],
       "aiNote": "用一条命令为代码文档日志和PDF建立自动索引，供搜索与智能体记忆使用，比grep节省四十倍令牌且兼容现有Elasticsearch客户端。",
@@ -4434,7 +4434,7 @@
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11983,
+      "stars": 11985,
       "forks": 1071,
       "gained": {
         "weekly": 1310
@@ -4488,7 +4488,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 11983
+          "stars": 11985
         }
       ],
       "aiNote": "面向 Claude Code 与 Codex 的 AI 视频技能。",
@@ -4508,8 +4508,8 @@
       "description": null,
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 39903,
-      "forks": 5613,
+      "stars": 39904,
+      "forks": 5614,
       "gained": {
         "monthly": 5122
       },
@@ -4586,7 +4586,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 39903
+          "stars": 39904
         }
       ],
       "aiNote": null,
@@ -4857,7 +4857,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 31146,
-      "forks": 7281,
+      "forks": 7282,
       "gained": {
         "daily": 164,
         "weekly": 618
@@ -4906,7 +4906,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52779,
+      "stars": 52781,
       "forks": 4788,
       "gained": {
         "daily": 103,
@@ -4936,7 +4936,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 52779
+          "stars": 52781
         }
       ],
       "aiNote": "把任意软件包装成命令行接口供智能体调用，通过统一枢纽实现跨工具自动化。",
@@ -5025,7 +5025,7 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 183204,
+      "stars": 183208,
       "forks": 18285,
       "gained": {
         "weekly": 1019
@@ -5114,7 +5114,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 183204
+          "stars": 183208
         }
       ],
       "aiNote": "本地一键运行各类开源大模型的工具，让私有化部署和推理变得极简。",
@@ -5133,7 +5133,7 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 111569,
+      "stars": 111570,
       "forks": 16842,
       "gained": {
         "daily": 97,
@@ -5208,7 +5208,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 111569
+          "stars": 111570
         }
       ],
       "aiNote": "一个基于 Postgres 的开源后端平台，提供专用数据库及配套工具，用于构建 Web、移动和 AI 应用。",
@@ -5228,7 +5228,7 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5306,
+      "stars": 5307,
       "forks": 428,
       "gained": {
         "monthly": 3915
@@ -5286,7 +5286,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 5306
+          "stars": 5307
         }
       ],
       "aiNote": "这是一个面向智能体工具的路由聚合服务，用统一接口接入多种工具并动态调度，类似工具领域的 OpenRouter。",
@@ -5306,7 +5306,7 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 213611,
+      "stars": 213612,
       "forks": 28663,
       "gained": {
         "daily": 320
@@ -5327,7 +5327,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 213611
+          "stars": 213612
         }
       ],
       "aiNote": null,
@@ -5673,7 +5673,7 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20232,
+      "stars": 20233,
       "forks": 1776,
       "gained": {
         "monthly": 3089
@@ -5763,7 +5763,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 20232
+          "stars": 20233
         }
       ],
       "aiNote": "英伟达开源的AI智能体技能安全扫描器，可在安装前检测提示注入、数据外泄与供应链风险。",
@@ -5784,7 +5784,7 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9064,
+      "stars": 9065,
       "forks": 1474,
       "gained": {
         "daily": 247
@@ -5814,7 +5814,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 9064
+          "stars": 9065
         }
       ],
       "aiNote": null,
@@ -6260,8 +6260,8 @@
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 61283,
-      "forks": 12359,
+      "stars": 61284,
+      "forks": 12360,
       "gained": {
         "monthly": 2719
       },
@@ -6310,7 +6310,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 61283
+          "stars": 61284
         }
       ],
       "aiNote": "一个用 Rust 核心加速、提供 Python 接口的 AI 网关，能统一调用上百种大模型 API。",
@@ -7154,6 +7154,109 @@
       ]
     },
     {
+      "fullName": "Pal-AI-Lab/Coopanion",
+      "url": "https://github.com/Pal-AI-Lab/Coopanion",
+      "description": "Your tiny AI desktopet companion, built with Cortico 0 0)",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 292,
+      "forks": 30,
+      "gained": {
+        "monthly": 292,
+        "daily": 95,
+        "weekly": 158
+      },
+      "track": "ai-app",
+      "signals": [
+        "ai"
+      ],
+      "sources": [
+        "discover"
+      ],
+      "createdAt": "2026-09-23T01:24:38Z",
+      "topics": [
+        "ai-companion",
+        "cortico",
+        "deepseek",
+        "desktop-pet",
+        "electron"
+      ],
+      "paper": null,
+      "news": [],
+      "firstSeen": "2026-10-01T01:18:48.852Z",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "stars": 59
+        },
+        {
+          "date": "2026-10-02",
+          "stars": 70
+        },
+        {
+          "date": "2026-10-03",
+          "stars": 77
+        },
+        {
+          "date": "2026-10-04",
+          "stars": 89
+        },
+        {
+          "date": "2026-10-05",
+          "stars": 106
+        },
+        {
+          "date": "2026-10-06",
+          "stars": 122
+        },
+        {
+          "date": "2026-10-07",
+          "stars": 134
+        },
+        {
+          "date": "2026-10-08",
+          "stars": 146
+        },
+        {
+          "date": "2026-10-09",
+          "stars": 157
+        },
+        {
+          "date": "2026-10-10",
+          "stars": 165
+        },
+        {
+          "date": "2026-10-11",
+          "stars": 170
+        },
+        {
+          "date": "2026-10-12",
+          "stars": 181
+        },
+        {
+          "date": "2026-10-13",
+          "stars": 197
+        },
+        {
+          "date": "2026-10-14",
+          "stars": 214
+        },
+        {
+          "date": "2026-10-15",
+          "stars": 292
+        }
+      ],
+      "aiNote": "这是一个用 TypeScript 编写的微型 AI 桌面伴侣，基于 Cortico 构建，能在桌面上陪伴用户。",
+      "fun": "companion",
+      "tags": [
+        "桌面伴侣",
+        "虚拟宠物",
+        "TypeScript",
+        "桌面应用",
+        "AI 陪伴"
+      ]
+    },
+    {
       "fullName": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
@@ -7277,109 +7380,6 @@
       "fun": null
     },
     {
-      "fullName": "Pal-AI-Lab/Coopanion",
-      "url": "https://github.com/Pal-AI-Lab/Coopanion",
-      "description": "Your tiny AI desktopet companion, built with Cortico 0 0)",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 290,
-      "forks": 30,
-      "gained": {
-        "monthly": 290,
-        "daily": 93,
-        "weekly": 156
-      },
-      "track": "ai-app",
-      "signals": [
-        "ai"
-      ],
-      "sources": [
-        "discover"
-      ],
-      "createdAt": "2026-09-23T01:24:38Z",
-      "topics": [
-        "ai-companion",
-        "cortico",
-        "deepseek",
-        "desktop-pet",
-        "electron"
-      ],
-      "paper": null,
-      "news": [],
-      "firstSeen": "2026-10-01T01:18:48.852Z",
-      "history": [
-        {
-          "date": "2026-10-01",
-          "stars": 59
-        },
-        {
-          "date": "2026-10-02",
-          "stars": 70
-        },
-        {
-          "date": "2026-10-03",
-          "stars": 77
-        },
-        {
-          "date": "2026-10-04",
-          "stars": 89
-        },
-        {
-          "date": "2026-10-05",
-          "stars": 106
-        },
-        {
-          "date": "2026-10-06",
-          "stars": 122
-        },
-        {
-          "date": "2026-10-07",
-          "stars": 134
-        },
-        {
-          "date": "2026-10-08",
-          "stars": 146
-        },
-        {
-          "date": "2026-10-09",
-          "stars": 157
-        },
-        {
-          "date": "2026-10-10",
-          "stars": 165
-        },
-        {
-          "date": "2026-10-11",
-          "stars": 170
-        },
-        {
-          "date": "2026-10-12",
-          "stars": 181
-        },
-        {
-          "date": "2026-10-13",
-          "stars": 197
-        },
-        {
-          "date": "2026-10-14",
-          "stars": 214
-        },
-        {
-          "date": "2026-10-15",
-          "stars": 290
-        }
-      ],
-      "aiNote": "这是一个用 TypeScript 编写的微型 AI 桌面伴侣，基于 Cortico 构建，能在桌面上陪伴用户。",
-      "fun": "companion",
-      "tags": [
-        "桌面伴侣",
-        "虚拟宠物",
-        "TypeScript",
-        "桌面应用",
-        "AI 陪伴"
-      ]
-    },
-    {
       "fullName": "trymirai/uzu",
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
@@ -7451,7 +7451,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": 91486,
-      "forks": 22621,
+      "forks": 22622,
       "gained": {
         "weekly": 203,
         "monthly": 1180
@@ -7561,7 +7561,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 131216,
+      "stars": 131217,
       "forks": 24417,
       "gained": {
         "daily": 164
@@ -7583,7 +7583,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 131216
+          "stars": 131217
         }
       ],
       "aiNote": null,
@@ -7595,7 +7595,7 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 49716,
+      "stars": 49719,
       "forks": 4441,
       "gained": {
         "daily": 163
@@ -7625,7 +7625,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 49716
+          "stars": 49719
         }
       ],
       "aiNote": null,
@@ -7831,7 +7831,7 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4697,
+      "stars": 4698,
       "forks": 699,
       "gained": {
         "monthly": 1761
@@ -7912,7 +7912,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 4697
+          "stars": 4698
         }
       ],
       "aiNote": "一套面向 Claude Code 的智能体、命令、技能与钩子工具集，让 AI 辅助开发更高效可定制。",
@@ -8903,7 +8903,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 57524,
+      "stars": 57525,
       "forks": 7203,
       "gained": {
         "daily": 121
@@ -8932,7 +8932,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 57524
+          "stars": 57525
         }
       ],
       "aiNote": null,
@@ -8944,7 +8944,7 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 40812,
+      "stars": 40813,
       "forks": 4334,
       "gained": {
         "daily": 118
@@ -8974,7 +8974,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 40812
+          "stars": 40813
         }
       ],
       "aiNote": null,
@@ -9754,7 +9754,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 53566,
+      "stars": 53567,
       "forks": 6626,
       "gained": {
         "daily": 85
@@ -9784,7 +9784,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 53566
+          "stars": 53567
         }
       ],
       "aiNote": null,
@@ -10022,11 +10022,11 @@
       "description": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 172,
+      "stars": 174,
       "forks": 0,
       "gained": {
-        "weekly": 172,
-        "monthly": 172
+        "weekly": 174,
+        "monthly": 174
       },
       "track": "research",
       "signals": [
@@ -10049,14 +10049,14 @@
         "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
         "url": "https://huggingface.co/papers/2610.20571",
         "publishedAt": "2026-10-14T00:00:00.000Z",
-        "upvotes": 161
+        "upvotes": 163
       },
       "news": [],
       "firstSeen": "2026-10-15T07:50:30.103Z",
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 172
+          "stars": 174
         }
       ],
       "aiNote": null,
@@ -10599,7 +10599,7 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7682,
+      "stars": 7683,
       "forks": 873,
       "gained": {
         "monthly": 721
@@ -10689,7 +10689,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 7682
+          "stars": 7683
         }
       ],
       "aiNote": "纯C/C++实现的扩散模型推理引擎，支持多种主流模型，无需重型框架即可高效部署。",
@@ -10985,7 +10985,7 @@
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 37161,
+      "stars": 37160,
       "forks": 9570,
       "gained": {
         "daily": 54
@@ -11019,7 +11019,7 @@
         },
         {
           "date": "2026-10-15",
-          "stars": 37161
+          "stars": 37160
         }
       ],
       "aiNote": "面向大语言模型与多模态模型的高性能服务框架，通过优化调度与缓存机制提升推理吞吐和部署效率。",
@@ -11311,7 +11311,7 @@
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1783,
+      "stars": 1784,
       "forks": 185,
       "gained": {
         "daily": 45
@@ -11341,7 +11341,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 1783
+          "stars": 1784
         }
       ],
       "aiNote": null,
@@ -12733,7 +12733,7 @@
       "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 23706,
+      "stars": 23707,
       "forks": 2702,
       "gained": {
         "daily": 7,
@@ -12755,7 +12755,7 @@
       "history": [
         {
           "date": "2026-10-15",
-          "stars": 23706
+          "stars": 23707
         }
       ],
       "aiNote": null,
