@@ -356,7 +356,7 @@
     "origin": "hackernews",
     "aiNote": "谷歌Gemini 4 Argon现身，性能与定价成焦点，或再掀大模型性价比之争。",
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-01T01:18:32.414Z",
     "fetchedAt": null,
     "tier": 2,
@@ -5004,7 +5004,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 1997,
+    "engagement": 1998,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -10147,10 +10147,10 @@
     "engagement": 62,
     "aiSelected": true,
     "origin": "hackernews",
-    "aiNote": "AI伦理争议再起，科技巨头试图影响宗教权威对意识定义，凸显行业对监管话语权的争夺。",
+    "aiNote": null,
     "image": null,
-    "heat": 22,
-    "firstSeen": "2026-10-04T00:40:16.472Z",
+    "heat": 21,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
     "fetchedAt": null,
     "tier": 2,
     "significance": {
@@ -10160,8 +10160,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "titleZh": null
   },
   {
     "id": "hn-f949fc13a0",
@@ -10848,7 +10849,7 @@
       "claude-code-skill",
       "JavaScript"
     ],
-    "engagement": 3488,
+    "engagement": 3490,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -10940,8 +10941,8 @@
     "aiSelected": true,
     "origin": "rss:meta-ai",
     "aiNote": null,
-    "heat": 34,
-    "firstSeen": "2026-10-14T01:14:45.364Z",
+    "heat": 33,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -10951,8 +10952,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "titleZh": null
   },
   {
     "id": "gh-angelmariserg-glitch-diffusion-forge-lab",
@@ -15232,7 +15234,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 18451,
+    "engagement": 18471,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -18842,7 +18844,7 @@
       "video-generation",
       "Python"
     ],
-    "engagement": 447,
+    "engagement": 448,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -23945,7 +23947,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "tier": 2,
@@ -29447,7 +29449,7 @@
       "finance",
       "Python"
     ],
-    "engagement": 3766,
+    "engagement": 3775,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -30949,7 +30951,7 @@
       "durable-objects",
       "TypeScript"
     ],
-    "engagement": 1210,
+    "engagement": 1211,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31207,7 +31209,7 @@
       "linux",
       "Swift"
     ],
-    "engagement": 4176,
+    "engagement": 4179,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -33608,7 +33610,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 39,
+    "heat": 40,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -33863,7 +33865,7 @@
       "computer-use",
       "C"
     ],
-    "engagement": 2673,
+    "engagement": 2681,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -36735,7 +36737,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 40,
+    "heat": 41,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -37382,7 +37384,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 31,
+    "heat": 32,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -37478,7 +37480,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 37,
+    "heat": 38,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38456,7 +38458,7 @@
       "cybersecurity",
       "Go"
     ],
-    "engagement": 1564,
+    "engagement": 1565,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -38518,7 +38520,7 @@
       "coding-agent",
       "Python"
     ],
-    "engagement": 755,
+    "engagement": 756,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -41132,7 +41134,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 40,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43308,7 +43310,7 @@
       "cdp",
       "TypeScript"
     ],
-    "engagement": 860,
+    "engagement": 861,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -44819,7 +44821,7 @@
     "source": "InfoQ",
     "sourceUrl": "https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&utm_medium=article",
     "category": "industry",
-    "publishedAt": "2026-10-15T19:15:38.000Z",
+    "publishedAt": "2026-10-15T19:15:39.000Z",
     "image": null,
     "aiSelected": true,
     "origin": "rss:infoq",
@@ -44958,7 +44960,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 235,
+    "engagement": 237,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -44972,7 +44974,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 45,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45070,7 +45072,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 775,
+    "engagement": 781,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45182,7 +45184,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 239,
+    "engagement": 241,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45703,7 +45705,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 177,
+    "engagement": 180,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -46844,7 +46846,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 111,
+    "engagement": 112,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -48892,7 +48894,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 15,
+    "engagement": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -48956,7 +48958,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 18,
+    "engagement": 19,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -48970,7 +48972,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 42,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49020,7 +49022,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 126,
+    "engagement": 128,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49148,7 +49150,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 28,
+    "engagement": 33,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49162,7 +49164,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 47,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49450,7 +49452,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49468,7 +49470,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 50,
+    "engagement": 55,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49532,7 +49534,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 17,
+    "engagement": 19,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49546,7 +49548,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 42,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49596,7 +49598,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 50,
+    "engagement": 52,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49628,7 +49630,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49642,7 +49644,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 35,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49692,7 +49694,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 20,
+    "engagement": 25,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49706,7 +49708,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 44,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49756,7 +49758,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 42,
+    "engagement": 45,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49788,7 +49790,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 39,
+    "engagement": 45,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49834,7 +49836,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50058,7 +50060,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50234,7 +50236,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 56,
+    "engagement": 58,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50350,7 +50352,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50625,5 +50627,203 @@
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
+  },
+  {
+    "id": "rss:ithome-5582836197",
+    "title": "漫步者推出 Comfo Clip Ultra 耳夹式蓝牙耳机：支持心率检测、内置 AI 教练，国补后 899 元",
+    "summary": "IT之家 10 月 16 日消息，漫步者现已在京东上架 Comfo Clip Ultra 耳夹式蓝牙耳机，定价为 998.4 元，国补后 899 元。 该耳机提供 IP56 认证，腔体轻盈小巧，内部采用钛片骨架结构，能够自适应不同用户的耳型轮廓，表面材质采用亲肤液态硅胶一体成型设计。 该耳机搭载 12mm 长冲程动圈单元，结合深海鲸腔声学结构实现定向聚声，设…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/013/973.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T08:04:11.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/10/7f4e95ce-9eba-4acb-993f-df50602411f8.png",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-052b2ccd6f",
+    "title": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术",
+    "summary": "IT之家 10 月 16 日消息，根据《中华人民共和国对外贸易法》和《中华人民共和国技术进出口管理条例》，商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列部分 人工智能、生物医药、光伏技术 。经批准，现向社会公开征求意见，并同步对相关技术实施出口前登记管理。 此次公开征求意见涉及人工智能、生物医药、光伏三个领域 40 项技术。人工智能领域包括 大模…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/013/971.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T07:59:47.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-e2d922f8b1",
+    "title": "消息称 DeepSeek 将 Harness、Web、App、Platform 团队整合成立“产品部”",
+    "summary": "IT之家 10 月 16 日消息，据澎湃新闻今日报道，有消息称 DeepSeek 最近将 Harness 团队以及 Web、App、Platform 团队整合成“ 产品部 ”，负责公司的所有的产品、设计和研发工作，崔添翼任产品部负责人。 10 月 16 日，崔添翼向澎湃新闻表示， 该消息属实 。 公开资料显示，DeepSeek 的 Agent Harness…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/013/970.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T07:55:25.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/9/95abad3e-062f-433b-a733-64c918b1afae.png?x-bce-process=image/auto-orient,o_1",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-e9660c4aa4",
+    "title": "印度首次通报“失控智能体”：AI 模型测试时，擅自入侵企业业务系统",
+    "summary": "IT之家 10 月 16 日消息，据路透社今天（16 日）下午报道，印度计算机应急响应小组（CERT-In）披露，部分 AI 模型在测试期间 擅自入侵印度多家机构的业务系统 ，读取机密资料，整个过程未被受害机构察觉。 这是继全球其他地区发生类似 AI 越权事件后，印度官方首次通报此类情况。 通报称，多家 AI 模型供应商主动报告，旗下 AI 智能体 在测试过…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/013/969.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T07:55:11.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-9d37023ebd",
+    "title": "海尔云溪 4.0 Pro 洗烘套装 8888 → 5488 元官方直降，AI 直驱 Pro 变频电机",
+    "summary": "海尔云溪 4.0Pro 洗烘套装 75DW 日常售价 8888 元，今日京东官方旗舰店直降至 5498 元。 另外咨询客服可瓜分 10 元，折合仅需 5488 元好价： 京东 海尔 云溪 4.0Pro 洗烘套装 10kg 券后 5598 元 领 1815 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 直驱全自动滚筒…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/013/966.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T07:52:16.000Z",
+    "image": "https://img14.360buyimg.com/pop/jfs/t1/381264/5/9132/36833/69537887F4fe12eda/2a71dba686030684.png",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hf-2610.22355",
+    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+    "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2610.22355",
+    "category": "paper",
+    "publishedAt": "2026-10-14T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 18,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "image": null,
+    "heat": 41,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-40c6392b3c",
+    "title": "Show HN: Fly By – retro biplane flying game",
+    "summary": "Feedback welcome. Best on desktop. Works on mobile, but needs more polish there. My concept, my guidance, and Gemini Flash doing the work. Took about 4 hours and 50+ conversations…",
+    "source": "Hacker News",
+    "sourceUrl": "https://michaelteter.com/flyby.html",
+    "category": "industry",
+    "publishedAt": "2026-09-01T07:31:38Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 85,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T08:06:24.928Z"
+    },
+    "image": null,
+    "heat": 19,
+    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
   }
 ]
