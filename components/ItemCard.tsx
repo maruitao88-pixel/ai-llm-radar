@@ -95,9 +95,17 @@ export default function ItemCard({
         target="_blank"
         rel="noreferrer"
         onClick={() => onOpen?.(item.id)}
-        className="text-base font-semibold leading-snug hover:text-brand-600 dark:text-gray-100 line-clamp-2"
+        title={item.titleZh ? item.title : undefined}
+        className="group block"
       >
-        {highlight(item.title, keyword)}
+        <span className="block text-base font-semibold leading-snug text-gray-900 transition-colors group-hover:text-brand-600 dark:text-gray-100 dark:group-hover:text-brand-400 line-clamp-2">
+          {highlight(item.titleZh ?? item.title, keyword)}
+        </span>
+        {item.titleZh && (
+          <span className="mt-1 block text-xs leading-snug text-gray-400 dark:text-gray-500 line-clamp-1">
+            {highlight(item.title, keyword)}
+          </span>
+        )}
       </a>
 
       {item.summary && (

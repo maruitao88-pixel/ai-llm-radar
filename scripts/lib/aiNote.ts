@@ -4,8 +4,9 @@ import type { AIItem } from "../../lib/types";
 // Only NEW items (no cached note) are sent to the LLM, capped per run, so daily
 // cost stays bounded. No API key -> feature is skipped and the site works as-is.
 
-const API = "https://api.deepseek.com/chat/completions";
-const KEY = process.env.DEEPSEEK_API_KEY || "";
+const BASE = (process.env.LLM_BASE_URL || "https://api.deepseek.com").trim().replace(/\/+$/, "");
+const API = /\/chat\/completions$/i.test(BASE) ? BASE : `${BASE}/chat/completions`;
+const KEY = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || "";
 const MODEL = process.env.LLM_MODEL || "deepseek-chat";
 const MAX = Number(process.env.AI_NOTE_MAX || 30);
 const CONCURRENCY = Number(process.env.AI_NOTE_CONCURRENCY || 4);
@@ -55,7 +56,7 @@ async function noteFor(item: AIItem): Promise<string | null> {
 /** Fill aiNote for up to MAX new items (those lacking a cached note). */
 export async function addAiNotes(items: AIItem[]): Promise<AIItem[]> {
   if (!KEY) {
-    console.log("[ai-note] no DEEPSEEK_API_KEY — skipping AI notes.");
+    console.log("[ai-note] no LLM key — skipping AI notes.");
     return items;
   }
   const targets = items.filter((i) => !i.aiNote).slice(0, MAX);

@@ -28,7 +28,7 @@ export default function Home() {
           "@type": "ListItem",
           position: i + 1,
           url: it.sourceUrl,
-          name: it.title,
+          name: it.titleZh ?? it.title,
         })),
       },
     ],

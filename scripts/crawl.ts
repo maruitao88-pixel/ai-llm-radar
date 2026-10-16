@@ -29,6 +29,7 @@ import { rssAdapters } from "./sources/rss";
 import type { SourceAdapter } from "./sources/types";
 import { computeHeat } from "./lib/heat";
 import { addSignificance, buildSourceCounts } from "./lib/significance";
+import { addChineseTitles } from "./lib/translate";
 import { resolveThreshold } from "../lib/significance";
 
 export interface CrawlResult {
@@ -112,13 +113,15 @@ export async function runCrawl(only: string[] = []): Promise<CrawlResult> {
   // Unified 0-100 heat: tier base + in-source engagement percentile × freshness.
   const tiers = Object.fromEntries(adapters.map((a) => [a.id, a.tier]));
   merged = computeHeat(merged, tiers);
+  // 中文标题回填：热度算完再翻，热门条目优先；结果写进快照，同一条只翻一次。
+  merged = await addChineseTitles(merged);
   const significanceThreshold = resolveThreshold(process.env.SIGNIFICANCE_THRESHOLD);
   // One LLM call per batch produces score + type + reason + aiNote.
   merged = await addSignificance(merged, { threshold: significanceThreshold, now, sourceCounts });
   const { count, path: outPath } = writeSnapshot(merged, sources, errors);
   const arch = updateArchive(merged); // append-only history (monthly shards)
   console.log(`[archive] ${arch.total} items across ${Object.keys(arch.months).length} month(s)`);
-  await buildDigest(merged); // "AI 每日必读" — once/day, no-op without DEEPSEEK_API_KEY
+  await buildDigest(merged); // "AI 每日必读" — once/day, no-op without an LLM key
 
   // Weekly insight — current Beijing-time week (must match the digest's day
   // boundary; UTC here would mislabel Sunday-night crawls as last week).

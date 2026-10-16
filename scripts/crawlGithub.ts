@@ -151,15 +151,17 @@ async function fetchPaperRepos(failed: string[]): Promise<Map<string, { fullName
 
 // --- one-line Chinese take (DeepSeek, optional, cached across runs) ----------
 
-const LLM_KEY = process.env.DEEPSEEK_API_KEY || "";
+const LLM_KEY = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || "";
 const LLM_MODEL = process.env.LLM_MODEL || "deepseek-chat";
+const LLM_BASE = (process.env.LLM_BASE_URL || "https://api.deepseek.com").trim().replace(/\/+$/, "");
+const LLM_API = /\/chat\/completions$/i.test(LLM_BASE) ? LLM_BASE : `${LLM_BASE}/chat/completions`;
 const SYSTEM = NOTE_SYSTEM;
 
 async function noteFor(r: GhRepo): Promise<string | null> {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), 20000);
   try {
-    const res = await fetch("https://api.deepseek.com/chat/completions", {
+    const res = await fetch(LLM_API, {
       method: "POST",
       headers: { Authorization: `Bearer ${LLM_KEY}`, "Content-Type": "application/json" },
       signal: ctrl.signal,
@@ -190,7 +192,7 @@ async function noteFor(r: GhRepo): Promise<string | null> {
 
 async function addNotes(repos: GhRepo[]): Promise<void> {
   if (!LLM_KEY) {
-    console.log("[gh-trending] no DEEPSEEK_API_KEY — skipping AI notes.");
+    console.log("[gh-trending] no LLM key — skipping AI notes.");
     return;
   }
   const targets = repos.filter((r) => !r.aiNote && (r.description || r.paper)).slice(0, NOTE_MAX);
@@ -221,7 +223,7 @@ async function addTags(repos: GhRepo[]): Promise<void> {
       const ctrl = new AbortController();
       const timer = setTimeout(() => ctrl.abort(), 40000);
       try {
-        const res = await fetch("https://api.deepseek.com/chat/completions", {
+        const res = await fetch(LLM_API, {
           method: "POST",
           headers: { Authorization: `Bearer ${LLM_KEY}`, "Content-Type": "application/json" },
           signal: ctrl.signal,

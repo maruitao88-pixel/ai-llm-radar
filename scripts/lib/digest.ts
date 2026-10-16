@@ -6,10 +6,11 @@ import { bjDate } from "./time";
 
 // "AI 每日必读": once per day, ask DeepSeek to pick a few must-reads from the
 // day's pool + a one-line reason. Cached by date (no repeat cost on same-day
-// pushes). No DEEPSEEK_API_KEY -> previous digest kept (or empty), card hidden.
+// pushes). No LLM key -> previous digest kept (or empty), card hidden.
 
-const API = "https://api.deepseek.com/chat/completions";
-const KEY = process.env.DEEPSEEK_API_KEY || "";
+const BASE = (process.env.LLM_BASE_URL || "https://api.deepseek.com").trim().replace(/\/+$/, "");
+const API = /\/chat\/completions$/i.test(BASE) ? BASE : `${BASE}/chat/completions`;
+const KEY = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || "";
 const MODEL = process.env.LLM_MODEL || "deepseek-chat";
 const PICK = Number(process.env.DIGEST_PICKS || 5);
 const POOL = 18;
@@ -128,7 +129,7 @@ export async function buildDigest(items: AIItem[]): Promise<void> {
     return;
   }
   if (!KEY) {
-    console.log("[digest] no DEEPSEEK_API_KEY — skipping digest.");
+    console.log("[digest] no LLM key — skipping digest.");
     if (!prev) write({ date: today, generatedAt: new Date().toISOString(), picks: [] });
     return;
   }
@@ -150,7 +151,7 @@ export async function buildDigest(items: AIItem[]): Promise<void> {
 /** Generate a structured weekly insight report via DeepSeek (800-1200 chars). */
 export async function buildWeeklyInsight(items: AIItem[], startDate: string, endDate: string): Promise<string> {
   if (!KEY) {
-    console.log("[weekly-insight] no DEEPSEEK_API_KEY — skipping.");
+    console.log("[weekly-insight] no LLM key — skipping.");
     return "";
   }
   const weekItems = items.filter((i) => {

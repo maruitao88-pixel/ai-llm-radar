@@ -44,6 +44,8 @@ export interface Significance {
 export interface AIItem {
   id: string;
   title: string;
+  /** 中文标题：抓取阶段由大模型翻译并缓存，原英文标题保留在 title。 */
+  titleZh?: string | null;
   titleEn?: string | null;
   summary: string | null;
   source: string;

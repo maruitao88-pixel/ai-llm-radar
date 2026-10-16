@@ -38,6 +38,7 @@ export function filterItems(pool: AIItem[], q: ItemsQuery): AIItem[] {
     out = out.filter(
       (i) =>
         i.title.toLowerCase().includes(k) ||
+        (i.titleZh ?? "").toLowerCase().includes(k) ||
         (i.summary ?? "").toLowerCase().includes(k) ||
         i.source.toLowerCase().includes(k) ||
         (i.tags ?? []).some((t) => t.toLowerCase().includes(k)),

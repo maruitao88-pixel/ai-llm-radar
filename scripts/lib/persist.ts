@@ -125,6 +125,8 @@ export interface PrevInfo {
   firstSeen?: string | null;
   aiNote?: string | null;
   significance?: Significance | null;
+  /** 中文标题缓存：命中 id 时直接复用，避免重复翻译。 */
+  titleZh?: string | null;
 }
 
 /** id -> { firstSeen, aiNote, significance } from the previous snapshot (for diff + caching). */
@@ -139,6 +141,7 @@ export function loadPrevious(): Map<string, PrevInfo> {
             firstSeen: it.firstSeen ?? null,
             aiNote: it.aiNote ?? null,
             significance: it.significance ?? null,
+            titleZh: it.titleZh ?? null,
           });
         }
       }
@@ -162,6 +165,7 @@ export function applyHistory(items: AIItem[], prev: Map<string, PrevInfo>, nowIs
       firstSeen: it.firstSeen ?? p?.firstSeen ?? nowIso,
       aiNote: it.aiNote ?? p?.aiNote ?? null,
       significance: it.significance ?? p?.significance ?? null,
+      titleZh: it.titleZh ?? p?.titleZh ?? null,
     };
   });
 }
