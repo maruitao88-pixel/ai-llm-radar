@@ -30,6 +30,14 @@ import { discoverRepos, hasToken, lookupRepos, starGains, type ApiRepo } from ".
 import { matchNews } from "./lib/ghNews";
 import { NOTE_SYSTEM, TAG_SYSTEM, cleanNote, parseTags } from "./lib/ghNote";
 import { bjDate } from "./lib/time";
+import {
+  describeLlmKey,
+  llmEndpoint,
+  redactSecrets,
+  resolveLlmApiKey,
+  resolveLlmBaseUrl,
+  resolveLlmModel,
+} from "./lib/llmConfig";
 import { TRENDING_LANGS, classifyRepo, funKind, parseTrendingHtml, trendingUrl, type TrendingRow } from "./sources/githubTrending";
 
 /** Star-history samples kept per repo (one per Beijing day). */
@@ -151,10 +159,9 @@ async function fetchPaperRepos(failed: string[]): Promise<Map<string, { fullName
 
 // --- one-line Chinese take (DeepSeek, optional, cached across runs) ----------
 
-const LLM_KEY = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || "";
-const LLM_MODEL = process.env.LLM_MODEL || "deepseek-chat";
-const LLM_BASE = (process.env.LLM_BASE_URL || "https://api.deepseek.com").trim().replace(/\/+$/, "");
-const LLM_API = /\/chat\/completions$/i.test(LLM_BASE) ? LLM_BASE : `${LLM_BASE}/chat/completions`;
+const LLM_KEY = resolveLlmApiKey() ?? "";
+const LLM_MODEL = resolveLlmModel();
+const LLM_API = llmEndpoint(resolveLlmBaseUrl());
 const SYSTEM = NOTE_SYSTEM;
 
 async function noteFor(r: GhRepo): Promise<string | null> {
@@ -180,7 +187,10 @@ async function noteFor(r: GhRepo): Promise<string | null> {
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) {
+      const detail = redactSecrets((await res.text().catch(() => "")).slice(0, 200));
+      throw new Error(`HTTP ${res.status}${detail ? ` ${detail}` : ""}`);
+    }
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     return cleanNote(data.choices?.[0]?.message?.content, true);
   } catch {
@@ -195,6 +205,7 @@ async function addNotes(repos: GhRepo[]): Promise<void> {
     console.log("[gh-trending] no LLM key — skipping AI notes.");
     return;
   }
+  console.log(`[gh-trending] endpoint ${LLM_API} model ${LLM_MODEL} key ${describeLlmKey(LLM_KEY || null)}`);
   const targets = repos.filter((r) => !r.aiNote && (r.description || r.paper)).slice(0, NOTE_MAX);
   const queue = [...targets];
   let ok = 0;
@@ -243,7 +254,10 @@ async function addTags(repos: GhRepo[]): Promise<void> {
             ],
           }),
         });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        if (!res.ok) {
+          const detail = redactSecrets((await res.text().catch(() => "")).slice(0, 200));
+          throw new Error(`HTTP ${res.status}${detail ? ` ${detail}` : ""}`);
+        }
         const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
         const tags = parseTags(data.choices?.[0]?.message?.content, batch.map((r) => r.fullName));
         for (const r of batch) {

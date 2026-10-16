@@ -6,6 +6,14 @@ import {
   significanceFromRule,
   top10PercentIds,
 } from "../../lib/significance";
+import {
+  describeLlmKey,
+  llmEndpoint,
+  redactSecrets,
+  resolveLlmApiKey,
+  resolveLlmBaseUrl,
+  resolveLlmModel,
+} from "./llmConfig";
 
 /**
  * LLM significance scoring with a deterministic rule fallback.
@@ -16,8 +24,6 @@ import {
  * during an outage or when no API key is configured.
  */
 
-const DEFAULT_BASE_URL = "https://api.deepseek.com";
-const DEFAULT_MODEL = "deepseek-chat";
 const DEFAULT_MAX = 60;
 const DEFAULT_CONCURRENCY = 4;
 const DEFAULT_TIMEOUT_MS = 30_000;
@@ -54,11 +60,6 @@ interface BatchResult {
 function envNumber(name: string, fallback: number): number {
   const raw = Number(process.env[name]);
   return Number.isFinite(raw) && raw > 0 ? raw : fallback;
-}
-
-function endpoint(baseUrl: string): string {
-  const base = (baseUrl || DEFAULT_BASE_URL).trim().replace(/\/+$/, "");
-  return /\/chat\/completions$/i.test(base) ? base : `${base}/chat/completions`;
 }
 
 function scoredAt(now: Date): string {
@@ -170,7 +171,7 @@ async function requestBatch(
       heat: item.heat ?? 0,
       sourceCount: sourceCountFor(item, opts.sourceCounts),
     }));
-    const res = await fetch(endpoint(opts.baseUrl), {
+    const res = await fetch(llmEndpoint(opts.baseUrl), {
       method: "POST",
       signal: ctrl.signal,
       headers: {
@@ -187,7 +188,10 @@ async function requestBatch(
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) {
+      const detail = redactSecrets((await res.text().catch(() => "")).slice(0, 200));
+      throw new Error(`HTTP ${res.status}${detail ? ` ${detail}` : ""}`);
+    }
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     return parseBatch(data.choices?.[0]?.message?.content ?? "");
   } finally {
@@ -226,13 +230,11 @@ export async function addSignificance(
 ): Promise<AIItem[]> {
   if (items.length === 0) return items;
 
-  const apiKey = options.apiKey !== undefined
-    ? options.apiKey
-    : process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || null;
+  const apiKey = resolveLlmApiKey(options.apiKey);
   const threshold = options.threshold ?? envNumber("SIGNIFICANCE_THRESHOLD", 80);
   const now = options.now ?? new Date();
-  const baseUrl = options.baseUrl ?? process.env.LLM_BASE_URL ?? DEFAULT_BASE_URL;
-  const model = options.model ?? process.env.LLM_MODEL ?? DEFAULT_MODEL;
+  const baseUrl = resolveLlmBaseUrl(options.baseUrl);
+  const model = resolveLlmModel(options.model);
   const max = Math.max(0, Math.floor(options.max ?? envNumber("SIGNIFICANCE_MAX", DEFAULT_MAX)));
   const concurrency = Math.max(
     1,
@@ -255,6 +257,9 @@ export async function addSignificance(
   };
 
   if (aiTargets.length > 0 && apiKey) {
+    console.log(
+      `[significance] endpoint ${llmEndpoint(baseUrl)} model ${model} key ${describeLlmKey(apiKey)}`,
+    );
     const batches: AIItem[][] = [];
     for (let i = 0; i < aiTargets.length; i += BATCH_SIZE) {
       batches.push(aiTargets.slice(i, i + BATCH_SIZE));

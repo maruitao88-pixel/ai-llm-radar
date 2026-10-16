@@ -1,5 +1,13 @@
 import type { AIItem } from "../../lib/types";
 import { extractJsonArray, stripRefMarks } from "../../lib/llmClean";
+import {
+  describeLlmKey,
+  llmEndpoint,
+  redactSecrets,
+  resolveLlmApiKey,
+  resolveLlmBaseUrl,
+  resolveLlmModel,
+} from "./llmConfig";
 
 /**
  * Chinese title backfill.
@@ -15,8 +23,6 @@ import { extractJsonArray, stripRefMarks } from "../../lib/llmClean";
  * the site keeps showing original titles.
  */
 
-const DEFAULT_BASE_URL = "https://api.deepseek.com";
-const DEFAULT_MODEL = "deepseek-chat";
 const DEFAULT_MAX = 400;
 const DEFAULT_CONCURRENCY = 4;
 const DEFAULT_TIMEOUT_MS = 45_000;
@@ -49,11 +55,6 @@ interface TitleRow {
 function envNumber(name: string, fallback: number): number {
   const raw = Number(process.env[name]);
   return Number.isFinite(raw) && raw > 0 ? raw : fallback;
-}
-
-function endpoint(baseUrl: string): string {
-  const base = (baseUrl || DEFAULT_BASE_URL).trim().replace(/\/+$/, "");
-  return /\/chat\/completions$/i.test(base) ? base : `${base}/chat/completions`;
 }
 
 /** CJK ideograph count — 2+ means the headline already reads as Chinese. */
@@ -108,7 +109,7 @@ async function requestBatch(
   const timer = setTimeout(() => ctrl.abort(), opts.timeoutMs);
   try {
     const payload = items.map((item) => ({ id: item.id, title: item.title }));
-    const res = await fetch(endpoint(opts.baseUrl), {
+    const res = await fetch(llmEndpoint(opts.baseUrl), {
       method: "POST",
       signal: ctrl.signal,
       headers: {
@@ -125,7 +126,10 @@ async function requestBatch(
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) {
+      const detail = redactSecrets((await res.text().catch(() => "")).slice(0, 200));
+      throw new Error(`HTTP ${res.status}${detail ? ` ${detail}` : ""}`);
+    }
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     return parseBatch(data.choices?.[0]?.message?.content ?? "");
   } finally {
@@ -158,16 +162,14 @@ export async function addChineseTitles(
 ): Promise<AIItem[]> {
   if (items.length === 0) return items;
 
-  const apiKey = options.apiKey !== undefined
-    ? options.apiKey
-    : process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || null;
+  const apiKey = resolveLlmApiKey(options.apiKey);
   if (!apiKey) {
     console.log("[translate] no LLM key — keeping original titles.");
     return items;
   }
 
-  const baseUrl = options.baseUrl ?? process.env.LLM_BASE_URL ?? DEFAULT_BASE_URL;
-  const model = options.model ?? process.env.LLM_MODEL ?? DEFAULT_MODEL;
+  const baseUrl = resolveLlmBaseUrl(options.baseUrl);
+  const model = resolveLlmModel(options.model);
   const max = Math.max(0, Math.floor(options.max ?? envNumber("TRANSLATE_MAX", DEFAULT_MAX)));
   const concurrency = Math.max(
     1,
@@ -195,6 +197,11 @@ export async function addChineseTitles(
   for (let i = 0; i < targets.length; i += BATCH_SIZE) {
     batches.push(targets.slice(i, i + BATCH_SIZE));
   }
+
+  console.log(
+    `[translate] endpoint ${llmEndpoint(baseUrl)} model ${model} key ${describeLlmKey(apiKey)} ` +
+      `batches ${batches.length} concurrency ${concurrency}`,
+  );
 
   const translated = new Map<string, string>();
   let cursor = 0;

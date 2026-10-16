@@ -2,19 +2,32 @@ import fs from "node:fs";
 import { DIGEST_PATH } from "../../lib/config";
 import type { AIItem, Digest, DigestPick } from "../../lib/types";
 import { extractJsonArray, stripRefMarks } from "../../lib/llmClean";
+import {
+  describeLlmKey,
+  llmEndpoint,
+  redactSecrets,
+  resolveLlmApiKey,
+  resolveLlmBaseUrl,
+  resolveLlmModel,
+} from "./llmConfig";
 import { bjDate } from "./time";
 
 // "AI 每日必读": once per day, ask DeepSeek to pick a few must-reads from the
 // day's pool + a one-line reason. Cached by date (no repeat cost on same-day
 // pushes). No LLM key -> previous digest kept (or empty), card hidden.
 
-const BASE = (process.env.LLM_BASE_URL || "https://api.deepseek.com").trim().replace(/\/+$/, "");
-const API = /\/chat\/completions$/i.test(BASE) ? BASE : `${BASE}/chat/completions`;
-const KEY = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY || "";
-const MODEL = process.env.LLM_MODEL || "deepseek-chat";
+const API = llmEndpoint(resolveLlmBaseUrl());
+const KEY = resolveLlmApiKey() ?? "";
+const MODEL = resolveLlmModel();
 const PICK = Number(process.env.DIGEST_PICKS || 5);
 const POOL = 18;
 const WINDOW_MS = 72 * 60 * 60 * 1000;
+
+/** Surface the upstream error body (redacted) instead of a bare status code. */
+async function failFast(res: Response): Promise<never> {
+  const detail = redactSecrets((await res.text().catch(() => "")).slice(0, 200));
+  throw new Error(`HTTP ${res.status}${detail ? ` ${detail}` : ""}`);
+}
 
 function readPrev(): Digest | null {
   try {
@@ -68,7 +81,7 @@ async function pickWithLLM(pool: AIItem[]): Promise<DigestPick[]> {
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) await failFast(res);
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     const raw = data.choices?.[0]?.message?.content ?? "";
     // Models wrap JSON in fences/prose at will — extract defensively.
@@ -111,7 +124,7 @@ async function summarizeTrend(items: AIItem[]): Promise<string> {
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) await failFast(res);
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     return stripRefMarks((data.choices?.[0]?.message?.content ?? "").replace(/\s+/g, " ").trim()).slice(0, 100);
   } catch {
@@ -139,6 +152,7 @@ export async function buildDigest(items: AIItem[]): Promise<void> {
       console.log("[digest] not enough candidates.");
       return;
     }
+    console.log(`[digest] endpoint ${API} model ${MODEL} key ${describeLlmKey(KEY || null)}`);
     const picks = await pickWithLLM(pool);
     const trendSummary = await summarizeTrend(items);
     write({ date: today, generatedAt: new Date().toISOString(), picks, trendSummary });
@@ -200,7 +214,7 @@ export async function buildWeeklyInsight(items: AIItem[], startDate: string, end
         ],
       }),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) await failFast(res);
     const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
     // Prompt bans #编号 references, but enforce it in code too — readers never
     // see the numbered listing, so leftover (#3、#7) marks read as garbage.
