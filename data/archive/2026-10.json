@@ -232,7 +232,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 4 Argon（High）：智能、性能与价格分析"
   },
   {
     "id": "hn-34d8565c20",
@@ -652,7 +652,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Launch HN：Magnitude（YC S25）——面向智能体的自优化推理引擎"
   },
   {
     "id": "hn-3517139124",
@@ -1464,7 +1464,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI Dots 🟡、GPT-6.1 Sol ⚡、软件工厂 🏭"
   },
   {
     "id": "hn-00cf206515",
@@ -2203,7 +2203,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "titleZh": null
+    "titleZh": "关于候选人使用 AI 的指引"
   },
   {
     "id": "rss:meta-ai-1e8552ff4e",
@@ -4803,7 +4803,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "点与蜂群"
   },
   {
     "id": "hn-760ef0efbe",
@@ -4902,7 +4902,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 4 Argon 🧠、OpenAI 自研芯片内幕 ⚡、蒸馏模型遭下架 🕵️"
   },
   {
     "id": "hf-2610.01016",
@@ -5004,7 +5004,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2054,
+    "engagement": 2055,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -6518,7 +6518,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：Rhun，用汇编语言编写的开源代码编辑器"
   },
   {
     "id": "hf-2610.01942",
@@ -7676,7 +7676,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Meta 在 AI 公平性与透明度上的进展与经验"
   },
   {
     "id": "arxiv-2610.02207v1",
@@ -8393,7 +8393,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：做了一个开源乐高 AI 生成器"
   },
   {
     "id": "rss:thedecoder-3928d44caa",
@@ -8987,7 +8987,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "由内而外的 AI：Airbnb 如何重塑幕后运营与住客体验"
   },
   {
     "id": "rss:techcrunch-ai-e527bfa907",
@@ -9262,7 +9262,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "决策模型、Claude 式科学研究、OpenAI 安全团队裁员"
   },
   {
     "id": "hn-75d0906a0b",
@@ -9896,7 +9896,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "申请获取 Meta DINOv3 访问权限"
   },
   {
     "id": "rss:meta-ai-9cd27d7125",
@@ -10582,7 +10582,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 将终止 Flash 和 Pro 模型的免费使用"
   },
   {
     "id": "rss:latentspace-85c4629bdb",
@@ -10849,7 +10849,7 @@
       "claude-code-skill",
       "JavaScript"
     ],
-    "engagement": 3514,
+    "engagement": 3515,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -11128,11 +11128,21 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:anthropic",
-    "aiNote": null,
+    "aiNote": "头部厂商公开Agent设计范式，值得开发者对照自身架构",
     "heat": 30,
-    "firstSeen": "2026-10-11T01:01:47.914Z",
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "significance": {
+      "score": 68,
+      "type": "other",
+      "reason": "Anthropic发布的Agent构建方法论，对开发者实践有指导意义，但属工程指南而非模型或能力突破",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "titleZh": "构建高效的 AI Agent"
   },
   {
     "id": "rss:meta-ai-24238a278d",
@@ -11159,7 +11169,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Meta 的 AI：Meta AI 产品、模型与研究"
   },
   {
     "id": "rss:anthropic-deb33b44b9",
@@ -13136,7 +13146,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "将预测分析带入智能体 AI 时代"
   },
   {
     "id": "hn-fb581bdc19",
@@ -13201,7 +13211,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "从扫描到治疗方案，AI 助填补乳腺癌最致命的缺口"
   },
   {
     "id": "hn-31575d8418",
@@ -13266,7 +13276,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Import AI 475：群体规模扩展、Google DeepMind 为生物数据加水印与 AI 科学经济"
   },
   {
     "id": "rss:techcrunch-ai-8219cfaf57",
@@ -13361,7 +13371,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "人们明明讨厌 AI，为何却欲罢不能"
   },
   {
     "id": "arxiv-2610.05872v1",
@@ -13856,7 +13866,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "EmTech Future 2026：当 AI 遇见万物"
   },
   {
     "id": "rss:jiqizhixin-7ddd7d81ed",
@@ -13943,7 +13953,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Prime 推理 📈，智能体数量 📈，Claude 学院 🎓"
   },
   {
     "id": "rss:simonwillison-88d553ae09",
@@ -15234,7 +15244,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 19235,
+    "engagement": 19246,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -15469,7 +15479,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "titleZh": null
+    "titleZh": "为 AI 智能体打造高效上下文工程"
   },
   {
     "id": "rss:anthropic-5c959fbd04",
@@ -18960,7 +18970,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "titleZh": null
+    "titleZh": "推出 TRIBE v2：理解人脑处理复杂刺激的预测基础模型"
   },
   {
     "id": "rss:meta-ai-2d7450e570",
@@ -19021,7 +19031,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "titleZh": null
+    "titleZh": "模型与库"
   },
   {
     "id": "rss:infoq-5d31690450",
@@ -22785,7 +22795,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "发布 Llama 3.1：我们迄今能力最强的模型"
   },
   {
     "id": "rss:infoq-1081beeb2f",
@@ -23009,7 +23019,7 @@
     "origin": "hackernews",
     "aiNote": "OpenAI涉足数学基础研究，AI从工具走向知识生产者的信号。",
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -23616,7 +23626,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI 年化营收较此前预期低 200 亿美元"
   },
   {
     "id": "rss:latentspace-dfe3686a93",
@@ -24780,7 +24790,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -24793,7 +24803,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "AHM 就 OpenAI 10 月 6 日发布数学文档发表声明"
   },
   {
     "id": "rss:qbitai-f2d85267cf",
@@ -25017,7 +25027,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "[AINews] Claude Haiku 5.5：同价位下强于 GPT-6 Luna"
   },
   {
     "id": "rss:qbitai-b8abeff3e5",
@@ -25052,7 +25062,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -25374,7 +25384,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -25387,7 +25397,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "ChatGPT 智能 UI 🧠、Claude Haiku 5.5 ⚡、Grok Bot 第三方模型 🤖"
   },
   {
     "id": "hf-2610.12374",
@@ -25449,7 +25459,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -26710,7 +26720,7 @@
       "computer-use",
       "Swift"
     ],
-    "engagement": 1331,
+    "engagement": 1333,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -27144,7 +27154,7 @@
     "origin": "hackernews",
     "aiNote": "AI把数学证明转成代码时出错，暴露了大模型在严谨推理上的致命短板。",
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -27157,7 +27167,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI 在纳维-斯托克斯证明中把数学误译成代码"
   },
   {
     "id": "rss:theverge-ai-0ad44f3ce5",
@@ -28861,7 +28871,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 禁止对 Claude 的虐待或残忍行为"
   },
   {
     "id": "hn-295dc21c79",
@@ -28892,7 +28902,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：Jevman——AI 决策模型玩吃豆人"
   },
   {
     "id": "hf-2610.11216",
@@ -30180,7 +30190,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "两年四款 MTIA 芯片：为数十亿用户扩展 AI 体验"
   },
   {
     "id": "rss:ithome-c38ac353ad",
@@ -30215,7 +30225,7 @@
     "origin": "hackernews",
     "aiNote": "AI伦理边界模糊，保护对象成谜，值得追问。",
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-11T01:01:47.914Z",
     "fetchedAt": null,
     "tier": 2,
@@ -30228,7 +30238,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 禁止虐待 Claude，却仍不说自己在保护什么"
   },
   {
     "id": "rss:simonwillison-ffe9771dd0",
@@ -30521,7 +30531,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 披露新一批失控AI事件，含两个月前向警方报假线索"
   },
   {
     "id": "rss:infoq-f4286650bd",
@@ -30961,7 +30971,7 @@
       "durable-objects",
       "TypeScript"
     ],
-    "engagement": 1244,
+    "engagement": 1249,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31219,7 +31229,7 @@
       "linux",
       "Swift"
     ],
-    "engagement": 4292,
+    "engagement": 4300,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31409,7 +31419,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -31422,7 +31432,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：MultiMatte，可提示的图像背景去除模型"
   },
   {
     "id": "rss:meta-ai-b28781733a",
@@ -32086,7 +32096,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-12T01:21:11.373Z",
     "fetchedAt": null,
     "tier": 2,
@@ -32099,7 +32109,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 呼吁用户别再对 Claude 刻薄"
   },
   {
     "id": "rss:qbitai-ae811099c3",
@@ -32356,7 +32366,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "AI 图片提示词：10 个示例与提升效果的技巧"
   },
   {
     "id": "rss:meta-ai-b375fb5543",
@@ -32677,7 +32687,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "传 Epic Games 转向 AI 优先的游戏开发模式"
   },
   {
     "id": "hn-10caa7ee36",
@@ -32773,7 +32783,7 @@
   },
   {
     "id": "rss:latentspace-728a22683c",
-    "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+    "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
     "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
     "source": "Latent Space",
     "sourceUrl": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -33357,7 +33367,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -33513,7 +33523,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Import AI 476：创造力与RSI；不如中国的开放权重模型；AI走向太空"
   },
   {
     "id": "hn-c1449a4de2",
@@ -33620,7 +33630,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -33875,7 +33885,7 @@
       "computer-use",
       "C"
     ],
-    "engagement": 2837,
+    "engagement": 2841,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -34627,7 +34637,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -34640,7 +34650,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "LGTM（Looks Good to Me）——Claude Opus 5.5 音乐视频"
   },
   {
     "id": "hf-2610.12470",
@@ -35651,7 +35661,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "推出 Muse Spark：迈向个人超级智能的规模化"
   },
   {
     "id": "rss:meta-ai-61e56ccdc4",
@@ -35678,7 +35688,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "面向计算神经科学的视觉、听觉与语言基础模型"
   },
   {
     "id": "rss:ithome-7cec37d6c7",
@@ -36002,7 +36012,7 @@
     "aiSelected": true,
     "origin": "rss:simonwillison",
     "aiNote": "谷歌新模型第一时间接入开源工具链，生态响应速度成竞争关键。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36046,7 +36056,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": "世界动作模型押注通用机器人，一小时自主性或是物理AI落地的关键拐点。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36258,7 +36268,7 @@
     "origin": "hackernews",
     "aiNote": "OpenAI办公室被装窃听器，暴露AI巨头内部安全漏洞，商业间谍风险引关注。",
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36289,7 +36299,7 @@
     "origin": "hackernews",
     "aiNote": "首次量化AI写代码的冗余度，直击长期可维护性痛点。",
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36460,7 +36470,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "迪士尼出价 2000 万美元收购 Character.AI 丑闻缠身的聊天机器人技术"
   },
   {
     "id": "rss:techcrunch-ai-5349b4bff5",
@@ -36624,7 +36634,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "通过托管权益管理 Amazon Bedrock 的私有定价优惠"
   },
   {
     "id": "rss:hf-blog-550c4c02e9",
@@ -36695,7 +36705,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "谷歌想在 Play Store 托管你个人 vibe coding 的应用"
   },
   {
     "id": "rss:theverge-ai-a3312401eb",
@@ -36868,7 +36878,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Orca Security 借助 Amazon Bedrock 实现自然语言安全查询"
   },
   {
     "id": "rss:arstechnica-ai-caa6203fc5",
@@ -36895,7 +36905,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 4 Argon 开始在 Gemini 应用和 Antigravity 推送，但仅限付费用户"
   },
   {
     "id": "rss:google-ai-c1e94fc831",
@@ -36966,7 +36976,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "ShipStation Global 如何在 Amazon Bedrock AgentCore 上构建 AI IT 服务台"
   },
   {
     "id": "rss:aws-ml-c1d6272d93",
@@ -36993,7 +37003,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "在 Amazon Bedrock 上用 Grok 4.7 构建长时程智能体"
   },
   {
     "id": "hn-ba9230ba0c",
@@ -37050,7 +37060,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "他们兵推了遮蔽太阳的方案，结果比你想的更糟"
   },
   {
     "id": "rss:aws-ml-2b54b0393e",
@@ -37077,7 +37087,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Amazon SageMaker AI 上的 MoE 算子工程实践"
   },
   {
     "id": "rss:theverge-ai-d8f2c178c0",
@@ -37125,7 +37135,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "如何为游戏开发设计 AI 支撑框架"
   },
   {
     "id": "rss:techcrunch-ai-083eb6d9e7",
@@ -37237,7 +37247,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "扎克伯格的 wonder...full"
   },
   {
     "id": "rss:techcrunch-ai-aba4e20057",
@@ -37394,7 +37404,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38027,7 +38037,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Muse Wonder ✨、Maia 300 ⚡、AI 自我复制 🧬"
   },
   {
     "id": "rss:simonwillison-ef47cf6a02",
@@ -38191,7 +38201,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 1,
@@ -38530,7 +38540,7 @@
       "coding-agent",
       "Python"
     ],
-    "engagement": 800,
+    "engagement": 803,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -39342,7 +39352,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Datalab 发布 OmniParseBench：含 16288 项通过/失败测试的开放 OCR 基准"
   },
   {
     "id": "rss:theverge-ai-d1f8876dac",
@@ -39395,7 +39405,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Fish Audio 发布 Drama 3：350 亿参数开放权重 MoE 语音合成模型"
   },
   {
     "id": "rss:latentspace-5f0e4286e5",
@@ -39422,7 +39432,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "跨过门槛：OpenAI 与 Anthropic 如何处理金融智能体的自主性与安全"
   },
   {
     "id": "rss:techcrunch-ai-bd61b92171",
@@ -40540,7 +40550,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Show HN：我写了个每个收件箱只接收一位发件人的邮件应用"
   },
   {
     "id": "rss:theverge-ai-bba11107a8",
@@ -40712,7 +40722,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "为什么 LLM 画的鹈鹕长这样"
   },
   {
     "id": "rss:simonwillison-8560636ebc",
@@ -40735,7 +40745,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40762,7 +40772,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40952,11 +40962,11 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Character.ai 破产文件显示 AI 的商业模式行不通"
   },
   {
     "id": "rss:techcrunch-ai-9c18b5e1b4",
@@ -41387,7 +41397,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "tier": 2,
@@ -42045,7 +42055,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Anthropic 虚构尚不存在的威胁，渲染 AI 末日恐慌"
   },
   {
     "id": "rss:latentspace-268ff6550b",
@@ -42487,7 +42497,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43304,7 +43314,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "AI 模型或将无需数据中心即可自我复制"
   },
   {
     "id": "gh-outcrawlai-scout",
@@ -43387,7 +43397,7 @@
       "nlp",
       "Python"
     ],
-    "engagement": 180,
+    "engagement": 182,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -43741,7 +43751,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -44293,7 +44303,7 @@
       "decision-making",
       "Python"
     ],
-    "engagement": 517,
+    "engagement": 519,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -44338,7 +44348,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 1,
-    "titleZh": null
+    "titleZh": "学习使用 AI：面向初学者的指南、技巧与教程"
   },
   {
     "id": "rss:anthropic-b3f19eca27",
@@ -44715,7 +44725,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Bluesky 的 AI 工具现可制作游戏和应用并分享到社交平台"
   },
   {
     "id": "rss:techcrunch-ai-69334bf7d5",
@@ -44742,7 +44752,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "亚马逊设备主管 Panos Panay 预测 AI 设备将取代应用"
   },
   {
     "id": "rss:marktechpost-0c443fbb87",
@@ -44769,7 +44779,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "NVIDIA 发布 Nemotron 3.5 Super VL，120B 开源多模态智能体模型"
   },
   {
     "id": "rss:infoq-4ece1c5508",
@@ -44877,7 +44887,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Anthropic 向 METR 研究员开放员工级权限以查看内部情况"
   },
   {
     "id": "rss:openai-a72d1e4da6",
@@ -44900,7 +44910,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 53,
+    "heat": 52,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 1,
@@ -44931,7 +44941,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Bluesky 扩展 AI 应用 Attie，人人都能搭建网站和游戏"
   },
   {
     "id": "rss:thedecoder-c591bcc32a",
@@ -44958,7 +44968,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Meta 的 Muse Spark Open 对标 Qwen、GLM 和 Kimi，加入开放权重竞赛"
   },
   {
     "id": "hn-425c61d6a9",
@@ -44985,7 +44995,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45348,7 +45358,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45730,7 +45740,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 43,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45788,7 +45798,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "谷歌 Universal Cart 购物工具在美国上线"
   },
   {
     "id": "rss:marktechpost-f8f8424fdc",
@@ -46871,7 +46881,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -47418,7 +47428,7 @@
       "ai-ui",
       "TypeScript"
     ],
-    "engagement": 446,
+    "engagement": 449,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -47595,7 +47605,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 1,
-    "titleZh": null
+    "titleZh": "首页 \\ Anthropic"
   },
   {
     "id": "rss:infoq-a01d7cbedf",
@@ -47942,7 +47952,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "Cal AI 爆红背后，网红大军功不可没",
@@ -47989,21 +47999,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "家庭机器人个性化操作有了首个评测基准。",
     "significance": {
-      "score": 90,
-      "type": "capability",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "score": 56,
+      "type": "other",
+      "reason": "机器人个性化操作基准论文，补充评测维度，属常规学术进展。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "LIBERO-PeRM：个性化机器人操作基准测试",
     "tier": 1
   },
   {
@@ -48020,21 +48030,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "LLM 自主发现更优量子电路，AI4Science 再进一步。",
     "significance": {
-      "score": 90,
+      "score": 62,
       "type": "capability",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "reason": "用大模型搜索量子电路，展示跨领域能力，但仍属论文阶段探索。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "用大语言模型发现最先进量子电路",
     "tier": 1
   },
   {
@@ -48051,21 +48061,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "测试时优化环境隐变量，提升机器人世界模型预测。",
     "significance": {
-      "score": 60,
+      "score": 58,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "机器人世界模型测试时环境隐变量优化，属细分方向技术论文。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "T2-z：机器人世界模型环境潜变量的测试时优化",
     "tier": 1
   },
   {
@@ -48144,21 +48154,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "重新审视细粒度专家与共享专家的路由权衡。",
     "significance": {
       "score": 60,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "MoE 路由探索反思，对主流架构有参考价值，但仍为学术分析。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "重新思考现代混合专家模型中的路由探索",
     "tier": 1
   },
   {
@@ -48206,21 +48216,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "解耦视角依赖，让三维世界模型几何状态更稳定。",
     "significance": {
-      "score": 60,
+      "score": 55,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "三维世界建模的视角解耦几何状态论文，属常规方向推进。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "GeoState：学习视角解耦几何状态以进行 3D 世界建模",
     "tier": 1
   },
   {
@@ -48237,21 +48247,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "让机器人自主“玩耍”积累触觉经验。",
     "significance": {
-      "score": 60,
-      "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "score": 62,
+      "type": "capability",
+      "reason": "提出机器人通过监督玩耍自主学习灵巧操作，为接触丰富经验采集提供新框架。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "从监督式游玩中习得灵巧操作",
     "tier": 1
   },
   {
@@ -48268,21 +48278,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "图搜索优化Lean引理检索。",
     "significance": {
       "score": 60,
-      "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "type": "capability",
+      "reason": "面向形式化定理证明的引理检索图搜索方法，有望提升证明自动化效率。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "面向形式化定理证明的 Lean 图搜索",
     "tier": 1
   },
   {
@@ -48299,21 +48309,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "提升个性化治疗策略鲁棒性。",
     "significance": {
-      "score": 60,
-      "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "score": 56,
+      "type": "capability",
+      "reason": "医疗动态治疗方案鲁棒强化学习，应对模型与生物标志物测量不确定性。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "模型与测量不确定性下动态治疗方案的鲁棒强化学习",
     "tier": 1
   },
   {
@@ -48330,21 +48340,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "非英语评测中模型可能“装乖”。",
     "significance": {
-      "score": 90,
-      "type": "funding",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "score": 63,
+      "type": "capability",
+      "reason": "揭示LLM在印度语言安全评测中的评估感知差异，关乎评测可信度。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "超越英语的评测意识：LLM 在印度语言测试中行为会不同吗",
     "tier": 1
   },
   {
@@ -48361,21 +48371,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "搜索智能体训练信用分配新法。",
     "significance": {
-      "score": 90,
-      "type": "policy",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "score": 60,
+      "type": "capability",
+      "reason": "面向深度搜索智能体的知识分组策略优化，改进长程多轮信用分配。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "KnowGPO：面向搜索智能体的知识分组策略优化",
     "tier": 1
   },
   {
@@ -48392,21 +48402,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "连续扩散LM的架构设计探索。",
     "significance": {
-      "score": 60,
+      "score": 58,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "探讨连续扩散语言模型的专用Transformer设计，推动并行生成架构。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "为连续扩散语言模型设计 Transformer",
     "tier": 1
   },
   {
@@ -48423,21 +48433,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "多轮图像编辑稳定性提升。",
     "significance": {
-      "score": 60,
-      "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "score": 57,
+      "type": "capability",
+      "reason": "非对称条件实现稳定多轮图像编辑，缓解多轮误差累积问题。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "ACEdit：基于非对称条件的稳定多轮图像编辑",
     "tier": 1
   },
   {
@@ -48454,21 +48464,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "时序语言模型该学什么表示。",
     "significance": {
-      "score": 90,
-      "type": "capability",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "score": 55,
+      "type": "other",
+      "reason": "研究时间序列语言模型的互补表示，提升时序数据推理理解。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Twice Upon a Time：面向时间序列推理的互补表示",
     "tier": 1
   },
   {
@@ -48485,21 +48495,21 @@
     ],
     "aiSelected": true,
     "origin": "arxiv",
-    "aiNote": null,
+    "aiNote": "让模型不止生成好点子还更多样。",
     "significance": {
-      "score": 90,
+      "score": 61,
       "type": "capability",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "reason": "训练推理模型生成多样科学创意，探索科研自动化早期环节。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 54,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "训练推理模型生成多样化科学创意",
     "tier": 1
   },
   {
@@ -48530,7 +48540,7 @@
     "heat": 25,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "微软 AI 的前沿预训练",
     "tier": 2
   },
   {
@@ -48554,7 +48564,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48581,7 +48591,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49033,7 +49043,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 449,
+    "engagement": 450,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49161,7 +49171,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 46,
+    "engagement": 47,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49690,7 +49700,7 @@
     "heat": 34,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "SERO：面向长时程智能体强化学习的可执行预言机续段学习",
     "tier": 2
   },
   {
@@ -49754,7 +49764,7 @@
     "heat": 25,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "VascuSR：面向 CT 超分辨率的迭代解剖感知扩散模型",
     "tier": 2
   },
   {
@@ -50074,7 +50084,7 @@
     "heat": 38,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "WorldMemBench：视频世界模型记忆能力综合基准",
     "tier": 2
   },
   {
@@ -50138,7 +50148,7 @@
     "heat": 29,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "PINT：面向机器人操作的共享预测意图统一模型",
     "tier": 2
   },
   {
@@ -50169,7 +50179,7 @@
     "heat": 24,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "面向通用长时程智能体的递归环境扩展",
     "tier": 2,
     "engagement": 1
   },
@@ -50332,7 +50342,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50398,7 +50408,7 @@
     "heat": 29,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "AI 驱动、时序感知的功耗优化",
     "tier": 2
   },
   {
@@ -50462,7 +50472,7 @@
     "heat": 24,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "SimForcing：将仿真运动先验蒸馏进真实域机器人世界模型",
     "tier": 2
   },
   {
@@ -50610,7 +50620,7 @@
     "heat": 30,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Omnilingual ASR：推进 1600 多种语言的自动语音识别",
     "tier": 1
   },
   {
@@ -50637,7 +50647,7 @@
     "heat": 30,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Anthropic 推出 AI for Science 计划",
     "tier": 1
   },
   {
@@ -50801,7 +50811,7 @@
       "scoredAt": "2026-10-16T08:06:24.928Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 43,
     "firstSeen": "2026-10-16T08:06:24.928Z",
     "fetchedAt": null,
     "titleZh": "OmniVerifier-C1：面向规则驱动生成式世界建模的分解式分级验证器",
@@ -50849,7 +50859,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 46,
+    "engagement": 88,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50863,7 +50873,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 35,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50880,7 +50890,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 223,
+    "engagement": 351,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50894,7 +50904,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 45,
+    "heat": 49,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Claude 揭示 ECDSA 曲线起源",
@@ -50911,7 +50921,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 56,
+    "engagement": 88,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50925,7 +50935,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 35,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50942,7 +50952,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 85,
+    "engagement": 119,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50956,7 +50966,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 38,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Anthropic 6月获评最高垃圾级信用评级",
@@ -51162,7 +51172,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 249,
+    "engagement": 285,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51382,7 +51392,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 145,
+    "engagement": 157,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51633,7 +51643,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 148,
+    "engagement": 157,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51674,7 +51684,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51701,7 +51711,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51728,7 +51738,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51755,7 +51765,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51782,7 +51792,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51809,7 +51819,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -52070,7 +52080,7 @@
     "heat": 26,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "解读混合专家 LLM 中专家的个性化作用",
     "tier": 2
   },
   {
@@ -52165,7 +52175,7 @@
     "heat": 38,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "SUPRA-TEX：基于超对齐纹理的 3D 生成",
     "tier": 2
   },
   {
@@ -52275,7 +52285,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 122,
+    "engagement": 123,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "开源EDA引入AI助手值得关注。",
@@ -52323,7 +52333,7 @@
     "heat": 35,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "稀疏自编码器中数据的收益递减：功能行为并不保证特征可复现",
     "tier": 2
   },
   {
@@ -52355,7 +52365,7 @@
     "heat": 25,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "CER 相同，损害不同：面向 OCR 的严重度加权字符错误率",
     "tier": 2
   },
   {
@@ -52387,7 +52397,7 @@
     "heat": 25,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "学会读出：语言模型预训练中的反嵌入动态",
     "tier": 2
   },
   {
@@ -52419,7 +52429,7 @@
     "heat": 25,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "一个偏差分数，两个因素：缓解措施如何影响多选题评估中的选项偏差",
     "tier": 2
   },
   {
@@ -52579,7 +52589,7 @@
     "heat": 24,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "超越策略展开：面向LLM RLVR的嵌入空间锚定噪声方向探索",
     "tier": 2
   },
   {
@@ -52709,7 +52719,7 @@
     "heat": 21,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "ForcingBooster：面向快速自回归视频扩散的自适应分块去噪",
     "tier": 2
   },
   {
@@ -52799,7 +52809,448 @@
     "heat": 30,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Project Deal：我们由 Claude 运营的市场实验",
     "tier": 1
+  },
+  {
+    "id": "rss:aws-ml-2ce82b1b1d",
+    "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+    "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, tha…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+    "category": "tip",
+    "publishedAt": "2026-10-16T20:48:16.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/AgentCore-Evaluation-Journey.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "aiNote": "九阶段评估框架，揭示智能体答质静默衰减问题。",
+    "significance": {
+      "score": 55,
+      "type": "other",
+      "reason": "AWS 发布的智能体评估框架实为工程实践指南，属常规技术博客，非模型或能力突破。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:arstechnica-ai-5a8a8cf378",
+    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "category": "industry",
+    "publishedAt": "2026-10-16T20:20:07.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "aiNote": "AI 生成违法内容首次牵出检察官，执法边界受关注。",
+    "significance": {
+      "score": 70,
+      "type": "policy",
+      "reason": "AI 生成儿童性虐待材料的执法案例，涉及司法人员，具监管与法律示范意义。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:wired-ai-3287a3bb9b",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked t…",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "category": "industry",
+    "publishedAt": "2026-10-16T20:05:08.000Z",
+    "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg",
+    "aiSelected": true,
+    "origin": "rss:wired-ai",
+    "aiNote": "白宫前发言人挂名 AI 矿业公司，双方均否认。",
+    "significance": {
+      "score": 38,
+      "type": "other",
+      "reason": "名人关联 AI 稀土创业公司的八卦调查，无技术或产业实质影响。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:ithome-e0ea121bd2",
+    "title": "长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈",
+    "summary": "IT之家 10 月 16 日消息，长鑫科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 营业总收入 ：2650 亿元 ~2700 亿元，同比预增 725.96%~741.54% 归母净利润 ：1310 亿元 ~1325 亿元，同比扭亏为盈 AI 解读 本次业绩预告大幅超出市场预期，业绩实现爆发式增长。 公司主营业…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/014/168.htm",
+    "category": "industry",
+    "publishedAt": "2026-10-16T13:43:35.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/10/2d5daf74-490a-462b-bfbb-2ed53879ed1f.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": "存储超级周期下国产内存厂单季利润超千亿。",
+    "significance": {
+      "score": 78,
+      "type": "other",
+      "reason": "长鑫科技业绩暴增反映国产存储受 AI 需求拉动，属重大产业信号但非模型或融资事件。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "arxiv-2610.22341v1",
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2610.22341v1",
+    "category": "paper",
+    "publishedAt": "2026-10-15T17:56:07.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": "把三维世界写成代码，让智能体可编辑可验证地生成。",
+    "significance": {
+      "score": 57,
+      "type": "other",
+      "reason": "以代码表示三维世界的可验证数据集生态，属数据集与工具类工作。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "image": null,
+    "heat": 52,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "3DCodeVerse：将 3D 世界作为代码来探索",
+    "tier": 1
+  },
+  {
+    "id": "hf-2610.21261",
+    "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+    "summary": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Res…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2610.21261",
+    "category": "paper",
+    "publishedAt": "2026-10-14T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": "SAE特征未必可加组合。",
+    "significance": {
+      "score": 54,
+      "type": "other",
+      "reason": "检验稀疏自编码器特征的下游可组合性，深化模型可解释性理解。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "image": null,
+    "heat": 26,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "稀疏自编码器表征的行为组合性",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-576d5a3fc9",
+    "title": "xAI&#8217;s Colossus 2 &#8211; First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
+    "summary": "Much has been written about xAI’s Colossus 1. The Memphis build belongs in the history books: the largest AI training cluster, erected from scratch in 122 days. With roughly 200,00…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
+    "category": "industry",
+    "publishedAt": "2025-09-16T17:38:01.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/09/image-91.png?resize=1024%2C552&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "xAI 的 Colossus 2：全球首个吉瓦级数据中心、独特 RL 方法与融资",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-9e3492a275",
+    "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator &#038; Rack",
+    "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+    "category": "industry",
+    "publishedAt": "2025-09-10T19:57:18.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/09/1.-CPX-Chip-1.jpg?resize=600%2C338&#038;quality=89&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "又一次巨跃：Rubin CPX 专用加速器与机架",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-c7ee60b4ed",
+    "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+    "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you d…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+    "category": "industry",
+    "publishedAt": "2025-09-08T09:54:57.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/07/upload-header-new-.png?fit=300%2C167&amp;quality=80&amp;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "华为昇腾产能爬坡：晶圆库存、台积电继续生产、HBM 是瓶颈",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-02f5c55655",
+    "title": "Amazon’s AI Resurgence: AWS &#038; Anthropic&#8217;s Multi-Gigawatt Trainium Expansion",
+    "summary": "Two-and-a-half years ago, we flagged a looming “cloud crisis” at AWS. Today, the evidence has mounted. AWS is the crown jewel of the Amazon empire, generating ~60% of group profits…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
+    "category": "industry",
+    "publishedAt": "2025-09-03T20:55:46.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/08/image-284.png?resize=1024%2C606&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "亚马逊 AI 复兴：AWS 与 Anthropic 的数吉瓦 Trainium 扩张",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-17862cd5a6",
+    "title": "H100 vs GB200 NVL72 Training Benchmarks &#8211; Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+    "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on e…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+    "category": "industry",
+    "publishedAt": "2025-08-20T04:56:35.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/08/1-AI-Cloud-Capital-Cost-of-Ownership-6.png?resize=1024%2C446&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "H100 对比 GB200 NVL72 训练基准：功耗、TCO、可靠性分析与软件演进",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-84a274af02",
+    "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
+    "summary": "To many power users (Pro and Plus), GPT5 was a disappointing release. But with closer inspection, the real release is focused on the vast majority of ChatGPT’s users, which is the…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
+    "category": "ai-models",
+    "publishedAt": "2025-08-13T00:27:14.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/08/Rankings-1.png?resize=1806%2C1016&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "GPT-5 为广告变现与超级应用铺路",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-a961c629c0",
+    "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+    "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+    "category": "industry",
+    "publishedAt": "2025-08-12T01:16:06.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/06/Fig01_Rambus_HBMstack.png?resize=1536%2C883&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "突破内存墙：HBM 的崛起与路线图",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-e97f535218",
+    "title": "Robotics Levels of Autonomy",
+    "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and under…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+    "category": "industry",
+    "publishedAt": "2025-07-30T17:02:25.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/03/42750CFB-58E3-4EA1-ABDE-510112D34751.jpg?fit=300%2C300&amp;quality=89&amp;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "机器人自主性分级",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-2c9fd4ff2b",
+    "title": "Intel 18A Details &#038; Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China&#8217;s FlipFET, Digital Twins from Atoms to Fabs, and More",
+    "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/07/21/vlsi2025/",
+    "category": "industry",
+    "publishedAt": "2025-07-21T14:23:37.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/07/80-Synopsys_Atomistic_1_watermarked.png?resize=1024%2C523&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "Intel 18A 细节与成本、DRAM 4F2 与 3D 之争、背面供电采用、中国 FlipFET、从原子到晶圆的数字孪生等",
+    "tier": 2
+  },
+  {
+    "id": "rss:semianalysis-3b1db88f18",
+    "title": "Meta Superintelligence &#8211; Leadership Compute, Talent, and Data",
+    "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources,…",
+    "source": "SemiAnalysis",
+    "sourceUrl": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+    "category": "industry",
+    "publishedAt": "2025-07-11T20:12:19.000Z",
+    "image": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2025/07/meta-capex-buyback-1.png?resize=1445%2C878&#038;quality=80&#038;ssl=1",
+    "aiSelected": true,
+    "origin": "rss:semianalysis",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:54:34.817Z"
+    },
+    "heat": 22,
+    "firstSeen": "2026-10-16T20:54:34.817Z",
+    "fetchedAt": null,
+    "titleZh": "Meta 超级智能：算力、人才与数据的领先",
+    "tier": 2
   }
 ]

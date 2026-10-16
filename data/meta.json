@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-16T20:01:56.234Z",
-  "count": 767,
+  "fetchedAt": "2026-10-16T20:55:37.479Z",
+  "count": 793,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -29,7 +29,7 @@
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
     "rss:marktechpost": 10,
-    "rss:semianalysis": 0,
+    "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
     "rss:simonwillison": 11,
@@ -48,13 +48,10 @@
     "rss:36kr": 0,
     "rss:infoq": 15,
     "rss:sspai": 2,
-    "rss:ithome": 0,
-    "arxiv": 0
+    "rss:ithome": 1,
+    "arxiv": 20
   },
   "errors": {
-    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:semianalysis": "HTTP 403 Forbidden <- https://semianalysis.com/feed/",
-    "rss:ithome": "terminated",
-    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/"
   }
 }
