@@ -33,6 +33,19 @@ const DEFAULT_TIMEOUT_MS = 45_000;
 const BATCH_SIZE = 12;
 /** Hard cap on a translated headline; the prompt asks for <= 40 characters. */
 const MAX_TITLE_CHARS = 80;
+/**
+ * Token budget per item. A translated headline is short, but JSON overhead,
+ * long upstream titles and reasoning models need far more headroom than the
+ * old `items * 90`, which truncated replies and silently dropped whole
+ * batches. The floor keeps a small batch from starving.
+ */
+const TOKENS_PER_ITEM = 160;
+const MIN_MAX_TOKENS = 2000;
+/**
+ * How deep a failing batch may be halved. 12 -> 6 -> 3 -> 2 -> 1 isolates a
+ * single poison headline in at most four splits.
+ */
+const MAX_SPLIT_DEPTH = 4;
 
 const SYSTEM =
   "你是 AI 资讯编辑。请把每条资讯的英文标题翻译成简体中文，只输出 JSON 数组，不要 Markdown。" +
@@ -42,6 +55,9 @@ const SYSTEM =
   "3. 不添加原文没有的信息，不加书名号或引号，结尾不加句号；" +
   "4. 若标题本身已是中文则原样返回。输出 JSON 数组，不要额外文字。";
 
+/** Minimal fetch shape so tests can inject a stub transport. */
+export type FetchLike = (input: string, init: RequestInit) => Promise<Response>;
+
 export interface AddTitleZhOptions {
   apiKey?: string | null;
   baseUrl?: string;
@@ -49,11 +65,21 @@ export interface AddTitleZhOptions {
   max?: number;
   concurrency?: number;
   timeoutMs?: number;
+  /** Override the transport (tests); defaults to the global fetch. */
+  fetchImpl?: FetchLike;
 }
 
 interface TitleRow {
   id: string;
   zh: string;
+}
+
+interface RequestContext {
+  apiKey: string;
+  baseUrl: string;
+  model: string;
+  timeoutMs: number;
+  fetchImpl: FetchLike;
 }
 
 function envNumber(name: string, fallback: number): number {
@@ -119,25 +145,30 @@ function cleanZh(raw: unknown, fallback: string): string | null {
   return zh.slice(0, MAX_TITLE_CHARS);
 }
 
-async function requestBatch(
-  items: AIItem[],
-  opts: { apiKey: string; baseUrl: string; model: string; timeoutMs: number },
-): Promise<TitleRow[]> {
+/** One-line, secret-free description of a failed request for the crawl log. */
+function describeError(err: unknown, apiKey: string): string {
+  const raw = err instanceof Error ? `${err.name}: ${err.message}` : String(err);
+  const withoutKey = apiKey ? raw.split(apiKey).join("***") : raw;
+  const redacted = redactSecrets(withoutKey).replace(/\s+/g, " ").trim();
+  return redacted.length > 240 ? `${redacted.slice(0, 240)}...` : redacted;
+}
+
+async function requestBatch(items: AIItem[], ctx: RequestContext): Promise<TitleRow[]> {
   const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), opts.timeoutMs);
+  const timer = setTimeout(() => ctrl.abort(), ctx.timeoutMs);
   try {
     const payload = items.map((item) => ({ id: item.id, title: item.title }));
-    const res = await fetch(llmEndpoint(opts.baseUrl), {
+    const res = await ctx.fetchImpl(llmEndpoint(ctx.baseUrl), {
       method: "POST",
       signal: ctrl.signal,
       headers: {
-        Authorization: `Bearer ${opts.apiKey}`,
+        Authorization: `Bearer ${ctx.apiKey}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: opts.model,
+        model: ctx.model,
         temperature: 0.2,
-        max_tokens: Math.max(300, items.length * 90),
+        max_tokens: Math.max(MIN_MAX_TOKENS, items.length * TOKENS_PER_ITEM),
         messages: [
           { role: "system", content: SYSTEM },
           { role: "user", content: JSON.stringify({ items: payload }) },
@@ -155,18 +186,66 @@ async function requestBatch(
   }
 }
 
+/**
+ * Try a batch twice, and report whether the transport itself ever answered.
+ * `ok: false` means both attempts threw (HTTP error, abort, network); the
+ * caller then stops instead of splitting, since a dead endpoint will not heal
+ * by sending more requests.
+ */
 async function requestWithRetry(
   items: AIItem[],
-  opts: { apiKey: string; baseUrl: string; model: string; timeoutMs: number },
-): Promise<TitleRow[]> {
+  ctx: RequestContext,
+): Promise<{ rows: TitleRow[]; ok: boolean }> {
+  let lastError: unknown;
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      return await requestBatch(items, opts);
-    } catch {
-      // one retry absorbs transient upstream failures
+      return { rows: await requestBatch(items, ctx), ok: true };
+    } catch (err) {
+      lastError = err; // one retry absorbs transient upstream failures
     }
   }
-  return [];
+  console.warn(
+    `[translate] batch of ${items.length} failed after 2 attempts: ` +
+      describeError(lastError, ctx.apiKey),
+  );
+  return { rows: [], ok: false };
+}
+
+/**
+ * Translate one subset into `out`, then halve whatever is still missing so a
+ * single truncated reply or un-translatable headline cannot drop the batch.
+ * Successful rows are kept as-is; only the missing ids are re-requested.
+ */
+async function collectTranslations(
+  subset: AIItem[],
+  ctx: RequestContext,
+  depth: number,
+  out: Map<string, string>,
+): Promise<void> {
+  if (subset.length === 0) return;
+  const { rows, ok } = await requestWithRetry(subset, ctx);
+  const byId = new Map(rows.map((r) => [r.id, r.zh]));
+
+  const missing: AIItem[] = [];
+  for (const item of subset) {
+    const zh = cleanZh(byId.get(item.id), item.title);
+    if (zh) out.set(item.id, zh);
+    else missing.push(item);
+  }
+
+  // Transport failure already logged; a lone unsalvageable item can be split
+  // no further, so both cases stop here.
+  if (missing.length === 0 || !ok) return;
+  if (missing.length === 1 || depth >= MAX_SPLIT_DEPTH) return;
+
+  if (depth === 0 && missing.length === subset.length) {
+    console.warn(
+      `[translate] batch of ${subset.length} returned no usable rows; splitting to isolate failures.`,
+    );
+  }
+  const half = Math.ceil(missing.length / 2);
+  await collectTranslations(missing.slice(0, half), ctx, depth + 1, out);
+  await collectTranslations(missing.slice(half), ctx, depth + 1, out);
 }
 
 /**
@@ -221,18 +300,21 @@ export async function addChineseTitles(
       `batches ${batches.length} concurrency ${concurrency}`,
   );
 
+  const ctx: RequestContext = {
+    apiKey,
+    baseUrl,
+    model,
+    timeoutMs,
+    fetchImpl: options.fetchImpl ?? fetch,
+  };
+
   const translated = new Map<string, string>();
   let cursor = 0;
   const worker = async () => {
     for (;;) {
       const batch = batches[cursor++];
       if (!batch) return;
-      const rows = await requestWithRetry(batch, { apiKey, baseUrl, model, timeoutMs });
-      const byId = new Map(rows.map((r) => [r.id, r.zh]));
-      for (const item of batch) {
-        const zh = cleanZh(byId.get(item.id), item.title);
-        if (zh) translated.set(item.id, zh);
-      }
+      await collectTranslations(batch, ctx, 0, translated);
     }
   };
   await Promise.all(Array.from({ length: Math.min(concurrency, batches.length) }, () => worker()));
