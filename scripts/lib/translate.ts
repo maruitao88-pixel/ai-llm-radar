@@ -23,7 +23,11 @@ import {
  * the site keeps showing original titles.
  */
 
-const DEFAULT_MAX = 400;
+/**
+ * Per-run translation budget: enough to clear the English backlog plus
+ * the day's new headlines in a single crawl.
+ */
+const DEFAULT_MAX = 600;
 const DEFAULT_CONCURRENCY = 4;
 const DEFAULT_TIMEOUT_MS = 45_000;
 const BATCH_SIZE = 12;
@@ -70,6 +74,20 @@ function cjkCount(s: string): number {
 /** True when a headline still needs a Chinese version. */
 export function needsTranslation(title: string): boolean {
   return cjkCount(title) < 2;
+}
+
+/**
+ * Newest first, heat as the tie-breaker. The home list renders newest-first,
+ * so translating in that order is what keeps English off the first screen.
+ */
+export function sortPendingForTranslation(pending: AIItem[]): AIItem[] {
+  const timeKey = (i: AIItem) => i.publishedAt ?? i.firstSeen ?? i.fetchedAt ?? "";
+  return [...pending].sort((a, b) => {
+    const ta = timeKey(a);
+    const tb = timeKey(b);
+    if (ta !== tb) return ta < tb ? 1 : -1;
+    return (b.heat ?? 0) - (a.heat ?? 0);
+  });
 }
 
 function parseBatch(raw: string): TitleRow[] {
@@ -154,7 +172,8 @@ async function requestWithRetry(
 /**
  * Translate English headlines to Chinese and stamp them as `titleZh`.
  * Already-Chinese titles and items carrying a cached `titleZh` are skipped.
- * Hottest items go first so page 1 fills in before the long tail.
+ * Newest items go first (heat breaks ties) so the time-ordered home list
+ * turns Chinese on its first screen before the long tail.
  */
 export async function addChineseTitles(
   items: AIItem[],
@@ -186,8 +205,7 @@ export async function addChineseTitles(
     if (!needsTranslation(item.title)) continue;
     pending.push(item);
   }
-  pending.sort((a, b) => (b.heat ?? 0) - (a.heat ?? 0));
-  const targets = pending.slice(0, max);
+  const targets = sortPendingForTranslation(pending).slice(0, max);
   if (targets.length === 0) {
     console.log("[translate] nothing to translate.");
     return items;
