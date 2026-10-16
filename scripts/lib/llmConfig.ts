@@ -7,8 +7,8 @@
  * trailing newline makes every request fail with HTTP 401.
  */
 
-export const DEFAULT_LLM_BASE_URL = "https://api.deepseek.com";
-export const DEFAULT_LLM_MODEL = "deepseek-chat";
+export const DEFAULT_LLM_BASE_URL = "https://api.commandcode.ai/provider/v1";
+export const DEFAULT_LLM_MODEL = "deepseek/deepseek-v4-flash";
 
 /** Blank-safe env read: whitespace-only values fall back to `fallback`. */
 export function readEnv(value: string | undefined | null, fallback: string): string {
