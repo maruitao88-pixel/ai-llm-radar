@@ -3914,7 +3914,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "把你的想法做出来"
   },
   {
     "id": "rss:thedecoder-681c02d6b6",
@@ -12824,7 +12824,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "抓取 1.07 亿行数据来打造这个产品"
   },
   {
     "id": "rss:techcrunch-ai-7e4db382f3",
@@ -16768,7 +16768,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Import AI 472：DeepMind 作弊数学智能体、民粹式 AI 政策与 Forethought 守夜人设想"
   },
   {
     "id": "rss:thedecoder-6f154428a9",
@@ -19619,7 +19619,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "首个 GPT-6 模型"
   },
   {
     "id": "rss:openai-aaada63e99",
@@ -20084,7 +20084,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：Jigsaw Haiku"
   },
   {
     "id": "hf-2609.04382",
@@ -31602,7 +31602,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI 报告纳维-斯托克斯奇点发现，或问鼎第二个千禧年大奖，盖过 Cognition 融资等消息"
   },
   {
     "id": "rss:smol-ainews-a8dcf5b86d",
@@ -33463,7 +33463,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
     "tier": 2,
@@ -44199,7 +44199,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "从 CUDA 到 MLX：K-Search 如何把数十年内核经验带到 Apple Silicon"
   },
   {
     "id": "rss:bair-0e3fc748cb",
@@ -44226,7 +44226,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "教 LLM 更新信念，实现高效长时程交互"
   },
   {
     "id": "rss:anthropic-564268dbdb",
@@ -44270,7 +44270,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "智能免费之后：属于智能体、由智能体、为智能体的数据系统"
   },
   {
     "id": "rss:bair-3f6c58621a",
@@ -44957,7 +44957,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "能力悬置"
   },
   {
     "id": "rss:thedecoder-1f6df86b0f",
@@ -48133,7 +48133,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "NASA 与 IBM 发布开源月球地理空间 AI 基础模型"
   },
   {
     "id": "rss:techcrunch-ai-a193c15e98",
@@ -48198,7 +48198,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "阿里开源 AI 模型，可识别癌症等近 150 种疾病"
   },
   {
     "id": "hn-53650f6807",
@@ -50940,7 +50940,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7813,
+    "engagement": 7814,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -58483,7 +58483,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1489,
+    "engagement": 1490,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -58755,7 +58755,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Rylaispirit/cinematic-video-prompt-skill（电影级视频提示词技能）"
   },
   {
     "id": "rss:anthropic-21f08ac191",
@@ -62197,7 +62197,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "SYuan03/benchboard（评测看板）"
   },
   {
     "id": "hn-d31a2094a6",
@@ -64455,7 +64455,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 14141,
+    "engagement": 14142,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64614,7 +64614,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 入侵三家公司，谷歌 AI 首次已知越界攻击"
   },
   {
     "id": "hf-2609.23087",
@@ -66461,7 +66461,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Tongyi-MAI/Qwen-Planner-Agent（Qwen 规划智能体）"
   },
   {
     "id": "gh-nirbhay41120003-echomind",
@@ -72216,7 +72216,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7885,
+    "engagement": 7886,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -73430,7 +73430,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "chenkanglin198904/Personal_External_Brain（个人外部大脑）"
   },
   {
     "id": "gh-shapsider-omnijev",
@@ -75796,7 +75796,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Meta AI：你的个人 AI 助手与聊天机器人，可提问、对话等"
   },
   {
     "id": "rss:meta-ai-54c941bdeb",

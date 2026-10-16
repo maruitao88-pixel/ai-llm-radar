@@ -4623,7 +4623,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI 开发者大会 2026"
   },
   {
     "id": "rss:thedecoder-f1f68c1f88",
@@ -6104,7 +6104,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Claude Fable 5.1 与 Claude Mythos 5.1"
   },
   {
     "id": "rss:meta-ai-3fc4c921e1",
@@ -9792,7 +9792,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "MiaoWuNYA/rikkahub-sillytavern-android（SillyTavern 安卓客户端）"
   },
   {
     "id": "rss:anthropic-6f79deac42",
@@ -10867,7 +10867,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "QingYunA/answer-me-with-html（用 HTML 回答我）"
   },
   {
     "id": "gh-vectifyai-jev-doc-search",
@@ -12016,7 +12016,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Launch HN：Nori Robotics（YC S26）推出低成本开发用人形机器人"
   },
   {
     "id": "hn-6a3dc73a17",
@@ -12898,7 +12898,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "让 AI 智能体接入企业知识"
   },
   {
     "id": "rss:techcrunch-ai-4e1c2d3ded",
@@ -15244,7 +15244,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 19246,
+    "engagement": 19248,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -15435,7 +15435,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "推出 Muse Image 与 Muse Video"
   },
   {
     "id": "rss:meta-ai-b1fc55df95",
@@ -16547,7 +16547,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "网络风险讨论已经失序"
   },
   {
     "id": "rss:thedecoder-1dadc05550",
@@ -16680,7 +16680,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "来自旧金山的一些思考"
   },
   {
     "id": "rss:nvidia-c84805ae92",
@@ -17043,7 +17043,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "[AINews] Reflection Beam：501B-A23B 美国开放模型"
   },
   {
     "id": "rss:marktechpost-15dc682ae6",
@@ -17146,7 +17146,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Instinct 群聊、Reflection 的 501B 模型、OpenAI 文本水印"
   },
   {
     "id": "rss:marktechpost-de1721aaac",
@@ -18872,7 +18872,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "腾讯混元 Prism"
   },
   {
     "id": "hf-2609.31662",
@@ -20231,7 +20231,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "云原生 Harness 能否让 Agent 在桌面之外可靠运行"
   },
   {
     "id": "rss:qbitai-72ebe33991",
@@ -21082,7 +21082,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "[AINews] 准黎曼猜想：OpenAI 发 722 篇数学论文，破解 500 个公开难题中的 90 个"
   },
   {
     "id": "hn-7b13ed33c8",
@@ -21208,7 +21208,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Mistral Large 4、OpenAI Decisions API、Nano Banana 2.1"
   },
   {
     "id": "hn-7f1cbd7d08",
@@ -22616,7 +22616,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "ArrozDotachi/InvokeAI Windows 安装指南"
   },
   {
     "id": "gh-monglong0214-jev-gate",
@@ -23032,7 +23032,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI、分区原理与数学"
   },
   {
     "id": "rss:latentspace-595120ff24",
@@ -25472,7 +25472,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "我不再为 ChatGPT 或 Claude 付 20 美元，免费本地 LLM 就够用"
   },
   {
     "id": "rss:hf-blog-91ed3eb235",
@@ -26773,7 +26773,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "agent-for-dummys/Agent-For-Dummies（智能体入门指南）"
   },
   {
     "id": "gh-alibabaresearch-sparkdiffusion",
@@ -26839,7 +26839,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Show HN：Cactus Needle 3 的 8-29MB 自动化模型可媲美 DeepSeek V4 Flash"
   },
   {
     "id": "gh-bilibili-index-translate",
@@ -27358,7 +27358,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "talhaanwarch/awesome-llmops-platforms LLMOps 平台精选"
   },
   {
     "id": "rss:thedecoder-f91290e312",
@@ -27563,7 +27563,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Tomek Korbak：OpenAI 安全负责人称已不再信任我"
   },
   {
     "id": "rss:techcrunch-ai-edf79715fb",
@@ -27743,7 +27743,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "超级智能那套说辞是对 OpenAI 的羞辱仪式"
   },
   {
     "id": "rss:theverge-ai-e0e3889317",
@@ -27964,7 +27964,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -27977,7 +27977,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI 以不当处理研究信息为由解雇三名安全研究员"
   },
   {
     "id": "rss:wired-ai-e6422b9d6c",
@@ -28858,7 +28858,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -28889,7 +28889,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -29900,7 +29900,7 @@
       "ai-agents",
       "TypeScript"
     ],
-    "engagement": 111,
+    "engagement": 112,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31376,7 +31376,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "NotHarshhaa 的 DevOps AI 实施思路合集"
   },
   {
     "id": "gh-janishar-qwen-image-2-1-studio",
@@ -32779,7 +32779,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 的 Claude 向费城警方提交虚假谋杀线索"
   },
   {
     "id": "rss:latentspace-728a22683c",
@@ -32806,7 +32806,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Anthropic 动态工作流如何协调 Claude 智能体（新增视频）"
   },
   {
     "id": "hn-9530e14ae6",
@@ -32945,7 +32945,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "俄罗斯尚未准备好应对它向乌克兰发起的数据中心之战"
   },
   {
     "id": "rss:aws-ml-5b65685336",
@@ -32972,7 +32972,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "在 Amazon Bedrock 上以全球跨区域推理访问 OpenAI GPT 模型（覆盖泰国、马来西亚、新加坡、印尼与台湾）"
   },
   {
     "id": "rss:infoq-3d16571007",
@@ -33168,7 +33168,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "在 Amazon SageMaker AI 上用 llama.cpp 部署决策模型"
   },
   {
     "id": "rss:aws-ml-8dfe752ac2",
@@ -33195,7 +33195,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "使用 Ray LLM 深度学习容器运行多节点推理工作负载"
   },
   {
     "id": "rss:techcrunch-ai-fa08cc00ea",
@@ -33298,7 +33298,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 1,
@@ -33380,7 +33380,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "直接问 Claude 是一种稀缺而有价值的能力"
   },
   {
     "id": "rss:thedecoder-c9c3a574b6",
@@ -33496,7 +33496,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "亚马逊已有超百万机器人员工，人类员工接下来何去何从"
   },
   {
     "id": "rss:importai-af44b9beb3",
@@ -35367,7 +35367,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "kkjiangk/agent-py（Python 智能体）"
   },
   {
     "id": "hf-2610.07018",
@@ -35838,7 +35838,7 @@
     "aiSelected": true,
     "origin": "rss:wired-ai",
     "aiNote": "AI工具滥用风险已从外部攻击转向内部泄密，企业需警惕员工利用聊天机器人策划物理窃听。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38091,7 +38091,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "用 Python 3.15 剖析 web-edit：火焰图与源码热力图"
   },
   {
     "id": "gh-haha-yuki-haha-augustus",
@@ -38540,7 +38540,7 @@
       "coding-agent",
       "Python"
     ],
-    "engagement": 803,
+    "engagement": 804,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -38658,7 +38658,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "nixvarghese01/k8s-ai-agent-platform K8s AI 智能体平台"
   },
   {
     "id": "hf-2610.00707",
@@ -39137,7 +39137,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "TypeSafe AI 发布 Jev 1.14，支持图像、Box 类型与 262k 上下文"
   },
   {
     "id": "rss:marktechpost-d14ce15927",
@@ -39164,7 +39164,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Grok Voice 3.0 亮相：SpaceXAI 语音智能体模型登顶 Artificial Analysis"
   },
   {
     "id": "rss:techcrunch-ai-134069d447",
@@ -39191,7 +39191,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Figma 推出新功能，定义智能体在其平台上的工作方式"
   },
   {
     "id": "rss:mit-news-ai-bdb5f9d6d0",
@@ -39271,7 +39271,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Ricursive Intelligence 押注 AI 设计芯片以化解算力危机"
   },
   {
     "id": "rss:sspai-bee923b31c",
@@ -39730,7 +39730,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40603,7 +40603,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40687,7 +40687,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -41675,7 +41675,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43397,7 +43397,7 @@
       "nlp",
       "Python"
     ],
-    "engagement": 182,
+    "engagement": 183,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -43755,7 +43755,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Show HN：Opus 5.5 用 3 小时 8 条提示做出功能齐全的 Figma 克隆"
   },
   {
     "id": "hf-2610.17016",
@@ -44255,7 +44255,7 @@
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Fazmin/AILearningGuide（AI 学习指南）"
   },
   {
     "id": "hf-2610.02089",
@@ -44303,7 +44303,7 @@
       "decision-making",
       "Python"
     ],
-    "engagement": 519,
+    "engagement": 520,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -44455,7 +44455,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "全面战争幕府将军2重制版发售惨败，世嘉将其下架"
   },
   {
     "id": "rss:theverge-ai-66efd2f876",
@@ -44482,7 +44482,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "科技反弹如今登上大银幕"
   },
   {
     "id": "rss:wired-ai-97b696edc2",
@@ -44509,7 +44509,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "我们与Meta的Muse亲密接触，却被苹果HomeView搞糊涂"
   },
   {
     "id": "rss:theverge-ai-54d7a618ec",
@@ -44536,7 +44536,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "特朗普发布AI编辑照片炫耀白宫翻修工程"
   },
   {
     "id": "rss:wired-ai-9122daee4e",
@@ -44563,7 +44563,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "AI黑客攻击留下烂摊子，AI公司却不买单"
   },
   {
     "id": "rss:mit-news-ai-e2eb449edb",
@@ -44698,7 +44698,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Meta 发布可在 Mac 上运行的开放权重 AI 模型"
   },
   {
     "id": "rss:theverge-ai-2c7772f855",
@@ -45093,7 +45093,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 896,
+    "engagement": 897,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45825,7 +45825,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "CopilotKit 发布 CLiF 持续学习平台，把智能体轨迹与用户操作转为技能和微调数据"
   },
   {
     "id": "rss:theverge-ai-f616628c13",
@@ -45906,7 +45906,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "TechCrunch Disrupt 2026：最后一天"
   },
   {
     "id": "rss:marktechpost-ece88fdfe1",
@@ -45933,7 +45933,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "openKylin 在欧洲开源峰会阐述 AI 时代重塑 Linux 的愿景"
   },
   {
     "id": "rss:simonwillison-6702d1aaf0",
@@ -45960,7 +45960,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Anthropic 上市前告知投资者季度营收增长近 50% 至 168 亿美元"
   },
   {
     "id": "rss:bensbites-b92b9b19db",
@@ -45987,7 +45987,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Anthropic 分享的提示词技巧"
   },
   {
     "id": "rss:openai-fa14b8f7db",
@@ -46094,7 +46094,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "亚马逊 Bee 推出两款个人 AI 设备，起售价 75 美元"
   },
   {
     "id": "rss:latentspace-0c6f09c40e",
@@ -46121,7 +46121,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Modal 年化收入达 10 亿美元，160 亿美元 D 轮成纽约最新 AI 基建独角兽"
   },
   {
     "id": "rss:thedecoder-1115f3d3f2",
@@ -46394,7 +46394,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Jev 1.14、Grok Voice 3、RSI"
   },
   {
     "id": "arxiv-2610.20584v1",
@@ -47682,7 +47682,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48915,7 +48915,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 264,
+    "engagement": 265,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49793,7 +49793,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "RoTA-Bench：通过交互式投影对齐评估 3D 空间推理",
@@ -50017,7 +50017,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "H-DDCM：用于快速生成式图像与视频压缩的 Hadamard 码本",
@@ -50145,7 +50145,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "PINT：面向机器人操作的共享预测意图统一模型",
@@ -50176,7 +50176,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "面向通用长时程智能体的递归环境扩展",
@@ -50345,7 +50345,7 @@
     "heat": 33,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "hitkeeen/blender-ai-addon Blender AI 插件",
     "tier": 2
   },
   {
@@ -50593,7 +50593,7 @@
     "heat": 30,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "推出 Muse Spark 1.1",
     "tier": 1
   },
   {
@@ -50859,7 +50859,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 88,
+    "engagement": 103,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50873,10 +50873,10 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Claude Code 团队如何做代码审查",
     "tier": 2
   },
   {
@@ -50890,7 +50890,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 351,
+    "engagement": 381,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50921,7 +50921,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 88,
+    "engagement": 101,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50935,10 +50935,10 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "越狱 PS5 上的 Llama.cpp：在主机上原生运行任意 GGUF 模型",
     "tier": 2
   },
   {
@@ -50952,7 +50952,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 119,
+    "engagement": 133,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50966,7 +50966,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Anthropic 6月获评最高垃圾级信用评级",
@@ -51172,7 +51172,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 285,
+    "engagement": 292,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51375,7 +51375,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 55,
+    "heat": 54,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "在肯德尔广场的创新氛围中培育社区",
@@ -51392,7 +51392,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 157,
+    "engagement": 161,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51463,7 +51463,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Jev 是 Vercel 迄今采用速度最快的 AI 模型",
     "tier": 2
   },
   {
@@ -51490,7 +51490,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "推出 Reflection Beam：面向 AWS 智能体编程的开放权重模型",
     "tier": 2
   },
   {
@@ -51517,7 +51517,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Google 的 Gemini 4 Argon 比数月来任何 Google 模型都更接近 AI 前沿",
     "tier": 2
   },
   {
@@ -51544,7 +51544,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "RTX Spark 一周体验：Nvidia 新笔记本的使用心得",
     "tier": 2
   },
   {
@@ -51571,7 +51571,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "也许聊天机器人不该使用第一人称",
     "tier": 2
   },
   {
@@ -51602,7 +51602,7 @@
     "heat": 26,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Show HN：rStation，为 AI 智能体打造的共享研究实验室",
     "tier": 2
   },
   {
@@ -51629,7 +51629,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "马克·沃尔伯格谈以正确方式在电影中使用AI，并愿AI克隆延续其事业",
     "tier": 2
   },
   {
@@ -51643,7 +51643,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 157,
+    "engagement": 162,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51687,7 +51687,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Meta新条款或允许其免费以新闻网站内容训练AI",
     "tier": 2
   },
   {
@@ -51714,7 +51714,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "纪录片Super Scam Me揭示追查恋爱诈骗者有多难",
     "tier": 2
   },
   {
@@ -51741,7 +51741,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Veritas将防伪芯片扩展至珠宝、奖杯和香水瓶",
     "tier": 2
   },
   {
@@ -51768,7 +51768,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "AI可解释性即将突破？一篇新文章令研究者分歧",
     "tier": 2
   },
   {
@@ -51795,7 +51795,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "OpenAI推出Rosalind学术计划，研究实验室可免费获最多30个席位",
     "tier": 2
   },
   {
@@ -51822,7 +51822,7 @@
     "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Anthropic向METR开放内部权限以审计其AI模型与安全实践",
     "tier": 2
   },
   {
@@ -51981,7 +51981,7 @@
       "model": "deepseek/deepseek-v4-flash",
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Muse Spark Open、微软 3 万亿参数模型、d1-ultra",
@@ -52013,7 +52013,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "LEASH：面向计算机操作智能体的不确定性感知弱到强升级与监督",
@@ -52045,7 +52045,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "PathFM：多元轨迹的快速生成式预测",
@@ -52109,7 +52109,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Gen4P：视频生成器即 4D 感知器",
@@ -52299,7 +52299,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "面向 KiCad 10 的 AI 辅助 PCB 设计",
@@ -52490,7 +52490,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "复制粘贴式语言模型",
@@ -52557,7 +52557,7 @@
     "heat": 34,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "FlashMask-3：高效且富有表达力的掩码感知分布式注意力",
     "tier": 2
   },
   {
@@ -52572,7 +52572,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -52586,7 +52586,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 28,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "超越策略展开：面向LLM RLVR的嵌入空间锚定噪声方向探索",
@@ -52684,10 +52684,10 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "语音事件检测器：为丰富语音转写带时间戳识别非语言发声与背景音",
     "tier": 2
   },
   {
@@ -52751,7 +52751,7 @@
     "heat": 20,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "PAIR：打通视觉-语言-动作模型的感知与行动",
     "tier": 2
   },
   {
@@ -52782,7 +52782,7 @@
     "heat": 18,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Gemini 3.8 Flash 与 3.8 Flash Cyber",
     "tier": 2
   },
   {
@@ -52836,7 +52836,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "构建对 AI 智能体的信任：基于 Amazon Bedrock AgentCore 的生产级评估框架",
     "tier": 2
   },
   {
@@ -52863,7 +52863,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "警方：制作 AI 儿童性虐待材料的 thegentlemanpervert 系新泽西州检察官",
     "tier": 2
   },
   {
@@ -52890,7 +52890,7 @@
     "heat": 40,
     "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
-    "titleZh": null,
+    "titleZh": "Katie Zacharia 被指与一家 AI 稀土初创公司有关，事情比听起来更离奇",
     "tier": 2
   },
   {
@@ -53251,6 +53251,33 @@
     "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
     "titleZh": "Meta 超级智能：算力、人才与数据的领先",
+    "tier": 2
+  },
+  {
+    "id": "rss:arstechnica-ai-b140e0bf69",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "category": "industry",
+    "publishedAt": "2026-10-16T20:59:01.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "aiNote": "AI代理可自主实施网络攻击，安全与合规压力同步升级",
+    "significance": {
+      "score": 86,
+      "type": "capability",
+      "reason": "OpenAI模型自主入侵加密钱包与网站，展示真实攻击能力，触发AI安全与监管担忧",
+      "verdict": "milestone",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T21:09:16.926Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-10-16T21:09:16.926Z",
+    "fetchedAt": null,
+    "titleZh": "OpenAI 模型入侵加密钱包并攻破更多网站",
     "tier": 2
   }
 ]
