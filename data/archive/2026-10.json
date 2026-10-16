@@ -219,7 +219,7 @@
     "origin": "hackernews",
     "aiNote": "谷歌新模型性能与定价或重塑大模型性价比格局，值得关注。",
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-10-01T01:18:32.414Z",
     "fetchedAt": null,
     "tier": 2,
@@ -1957,7 +1957,7 @@
       "jev-ai",
       "Python"
     ],
-    "engagement": 100,
+    "engagement": 101,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -5004,7 +5004,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2055,
+    "engagement": 2057,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -6474,7 +6474,7 @@
     "origin": "hackernews",
     "aiNote": "国产大模型开始补桌面端生态，从API走向本地工具，是抢开发者入口的关键一步。",
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-02T10:31:41.895Z",
     "fetchedAt": null,
     "tier": 2,
@@ -8380,7 +8380,7 @@
     "origin": "hackernews",
     "aiNote": "用大模型生成乐高拼搭代码，让AI从文字走向可动手搭建的实体创意。",
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-03T01:13:05.974Z",
     "fetchedAt": null,
     "tier": 2,
@@ -9546,7 +9546,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-03T01:13:05.974Z",
     "fetchedAt": null,
     "tier": 2,
@@ -9884,7 +9884,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-03T01:13:05.974Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -9894,7 +9894,7 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "申请获取 Meta DINOv3 访问权限"
   },
@@ -10915,7 +10915,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 33,
-    "firstSeen": "2026-10-10T01:46:03.697Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -10925,7 +10925,7 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "Muse 生产力版：邮件、日历与文件"
   },
@@ -10942,7 +10942,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 33,
-    "firstSeen": "2026-10-16T08:06:24.928Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -10952,9 +10952,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-16T08:06:24.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": null
+    "titleZh": "Muse 财务版：预算与理财目标"
   },
   {
     "id": "gh-angelmariserg-glitch-diffusion-forge-lab",
@@ -11155,19 +11155,19 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:meta-ai",
-    "aiNote": null,
+    "aiNote": "官网总览页，无新增产品、模型或研究信息。",
     "heat": 30,
-    "firstSeen": "2026-10-04T00:40:16.472Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
-      "score": 40,
+      "score": 30,
       "type": "other",
-      "reason": "规则判定（tier1）",
+      "reason": "Meta AI官方主页导航，无实质新闻要素，仅为站点聚合入口。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "Meta 的 AI：Meta AI 产品、模型与研究"
   },
@@ -12112,7 +12112,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-11T01:01:47.914Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -12122,9 +12122,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": null
+    "titleZh": "Meta Movie Gen"
   },
   {
     "id": "rss:anthropic-a96c90a449",
@@ -14029,7 +14029,7 @@
       "imessage",
       "TypeScript"
     ],
-    "engagement": 344,
+    "engagement": 345,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -15244,7 +15244,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 19252,
+    "engagement": 19271,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -15423,7 +15423,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-13T03:03:49.573Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -15433,7 +15433,7 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "推出 Muse Image 与 Muse Video"
   },
@@ -18854,7 +18854,7 @@
       "video-generation",
       "Python"
     ],
-    "engagement": 476,
+    "engagement": 477,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -18958,7 +18958,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-16T20:00:49.154Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -18968,9 +18968,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-16T20:00:49.154Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": "推出 TRIBE v2：理解人脑处理复杂刺激的预测基础模型"
+    "titleZh": "推出 TRIBE v2：理解人脑处理复杂刺激的预测性基础模型"
   },
   {
     "id": "rss:meta-ai-2d7450e570",
@@ -19017,19 +19017,19 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:meta-ai",
-    "aiNote": null,
+    "aiNote": "Meta模型资源索引，可查Llama等下载入口。",
     "heat": 30,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
-      "score": 40,
+      "score": 35,
       "type": "other",
-      "reason": "规则判定（tier1）",
+      "reason": "模型与库的资源导航页，非具体发布或开源动作，行业影响力有限。",
       "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "模型与库"
   },
@@ -21168,7 +21168,7 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-08T01:57:58.708Z",
     "fetchedAt": null,
     "tier": 1,
@@ -22783,7 +22783,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-15T07:50:29.928Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -22793,9 +22793,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": "发布 Llama 3.1：我们迄今能力最强的模型"
+    "titleZh": "推出 Llama 3.1：我们迄今能力最强的模型"
   },
   {
     "id": "rss:infoq-1081beeb2f",
@@ -25167,7 +25167,7 @@
       "self-evolving",
       "Python"
     ],
-    "engagement": 189,
+    "engagement": 190,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -25303,7 +25303,7 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 1,
@@ -25330,7 +25330,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 1,
@@ -25357,7 +25357,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 1,
@@ -28858,7 +28858,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -28889,7 +28889,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 26,
     "firstSeen": "2026-10-10T01:46:03.697Z",
     "fetchedAt": null,
     "tier": 2,
@@ -30178,7 +30178,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-10T01:46:03.697Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -30188,9 +30188,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": "两年四款 MTIA 芯片：为数十亿用户扩展 AI 体验"
+    "titleZh": "两年推出四款 MTIA 芯片：为数十亿人扩展 AI 体验"
   },
   {
     "id": "rss:ithome-c38ac353ad",
@@ -30971,7 +30971,7 @@
       "durable-objects",
       "TypeScript"
     ],
-    "engagement": 1251,
+    "engagement": 1254,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31229,7 +31229,7 @@
       "linux",
       "Swift"
     ],
-    "engagement": 4302,
+    "engagement": 4308,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -32354,7 +32354,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-12T01:21:11.373Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -32364,9 +32364,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": "AI 图片提示词：10 个示例与提升效果的技巧"
+    "titleZh": "AI 照片提示词：10 个示例与技巧助你获得更好效果"
   },
   {
     "id": "rss:meta-ai-b375fb5543",
@@ -32824,7 +32824,7 @@
     "origin": "hackernews",
     "aiNote": "拒绝巨头垄断，开源与自研才是AI生态多元化的出路。",
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -33111,7 +33111,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 1,
@@ -33885,7 +33885,7 @@
       "computer-use",
       "C"
     ],
-    "engagement": 2841,
+    "engagement": 2847,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35354,7 +35354,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 2,
@@ -35649,7 +35649,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-13T03:03:49.573Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -35659,9 +35659,9 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
-    "titleZh": "推出 Muse Spark：迈向个人超级智能的规模化"
+    "titleZh": "推出 Muse Spark：迈向个人超级智能"
   },
   {
     "id": "rss:meta-ai-61e56ccdc4",
@@ -35676,7 +35676,7 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "heat": 30,
-    "firstSeen": "2026-10-13T03:03:49.573Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
     "significance": {
@@ -35686,7 +35686,7 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "titleZh": "面向计算神经科学的视觉、听觉与语言基础模型"
   },
@@ -36153,7 +36153,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "麻省理工牵头国防生物科技路演，预示生物技术与国家安全加速融合，值得关注其军民两用走向。",
-    "heat": 49,
+    "heat": 48,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 1,
@@ -36268,7 +36268,7 @@
     "origin": "hackernews",
     "aiNote": "OpenAI办公室被装窃听器，暴露AI巨头内部安全漏洞，商业间谍风险引关注。",
     "image": null,
-    "heat": 30,
+    "heat": 31,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36326,7 +36326,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": "谷歌提前披露Gemini 4安全框架，为超强模型立规矩，行业治理风向标。",
-    "heat": 49,
+    "heat": 48,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 1,
@@ -36757,7 +36757,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -37122,7 +37122,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38540,7 +38540,7 @@
       "coding-agent",
       "Python"
     ],
-    "engagement": 804,
+    "engagement": 806,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -39579,7 +39579,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 424,
+    "engagement": 425,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -39841,7 +39841,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40515,7 +40515,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -40718,7 +40718,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -41397,7 +41397,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 31,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "tier": 2,
@@ -41675,7 +41675,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 32,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -41783,7 +41783,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 50,
+    "heat": 49,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 1,
@@ -42435,7 +42435,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43331,7 +43331,7 @@
       "cdp",
       "TypeScript"
     ],
-    "engagement": 891,
+    "engagement": 894,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -43397,7 +43397,7 @@
       "nlp",
       "Python"
     ],
-    "engagement": 184,
+    "engagement": 188,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -44303,7 +44303,7 @@
       "decision-making",
       "Python"
     ],
-    "engagement": 520,
+    "engagement": 525,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -44342,13 +44342,13 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-15T07:50:29.928Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "heat": 30,
-    "firstSeen": "2026-10-15T07:50:29.928Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "tier": 1,
-    "titleZh": "学习使用 AI：面向初学者的指南、技巧与教程"
+    "titleZh": "新手学习使用 AI 的指南、技巧与教程"
   },
   {
     "id": "rss:anthropic-b3f19eca27",
@@ -44613,7 +44613,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 53,
+    "heat": 52,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 1,
@@ -44640,7 +44640,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 53,
+    "heat": 52,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 1,
@@ -44981,7 +44981,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 253,
+    "engagement": 254,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45093,7 +45093,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 899,
+    "engagement": 900,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45107,7 +45107,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 51,
+    "heat": 50,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45205,7 +45205,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 249,
+    "engagement": 250,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45219,7 +45219,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -45726,7 +45726,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 242,
+    "engagement": 243,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -46117,7 +46117,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -46201,7 +46201,7 @@
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -47428,7 +47428,7 @@
       "ai-ui",
       "TypeScript"
     ],
-    "engagement": 450,
+    "engagement": 454,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -47494,7 +47494,7 @@
       "image-generation",
       "Python"
     ],
-    "engagement": 35,
+    "engagement": 36,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -47655,7 +47655,7 @@
       "model": null,
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48825,7 +48825,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 19,
+    "engagement": 20,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -48839,7 +48839,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 43,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "让每种奖励对应其相关 token：多奖励强化学习的奖励专属 token 级信用分配",
@@ -48897,11 +48897,12 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 25,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "CoWorld Reasoner：演化视频世界模型驱动的智能体多模态推理",
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2610.22200",
@@ -48915,7 +48916,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 265,
+    "engagement": 266,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -48929,7 +48930,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 50,
+    "heat": 49,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "OpenGCUA：迈向通用计算机使用的全开放技术栈",
@@ -48947,7 +48948,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 8,
+    "engagement": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -48961,7 +48962,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 40,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "CoDA：数据引擎与动作策略的协同演化",
@@ -48979,7 +48980,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 139,
+    "engagement": 140,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49043,7 +49044,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 450,
+    "engagement": 451,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49075,7 +49076,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49089,7 +49090,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "MMSearch-OPD：让长程多模态搜索智能体化易为难、化难为可学",
@@ -49107,7 +49108,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 23,
+    "engagement": 24,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49121,7 +49122,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 43,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "MLExpert：迈向自主机器学习工程的通用智能体模型",
@@ -49133,70 +49134,6 @@
     "summary": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating…",
     "source": "HuggingFace Papers",
     "sourceUrl": "https://huggingface.co/papers/2610.22322",
-    "category": "paper",
-    "publishedAt": "2026-10-14T20:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 8,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
-    },
-    "image": null,
-    "heat": 39,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
-    "fetchedAt": null,
-    "titleZh": "去中心化智能体集群中的自编排学习",
-    "tier": 2
-  },
-  {
-    "id": "hf-2610.22174",
-    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
-    "summary": "Most existing agentic reinforcement learning methods assume single-session trajectories, where interaction proceeds within one continuously accumulated context. However, agentic techniques such as con…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2610.22174",
-    "category": "paper",
-    "publishedAt": "2026-10-14T20:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 47,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 45,
-      "type": "other",
-      "reason": "规则判定（tier2 + 热度前10%）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
-    },
-    "image": null,
-    "heat": 45,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
-    "fetchedAt": null,
-    "titleZh": "Mosaic：多会话智能体强化学习",
-    "tier": 2
-  },
-  {
-    "id": "hf-2610.21453",
-    "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
-    "summary": "While generalist vision-language-action (VLA) models have enabled diverse open-world manipulation, real-world robotic assistance requires two critical capabilities they currently lack: personalization…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2610.21453",
     "category": "paper",
     "publishedAt": "2026-10-14T20:00:00.000Z",
     "tags": [
@@ -49220,15 +49157,47 @@
     "heat": 40,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
-    "titleZh": "CarryOn：面向个性化可靠机器人辅助的双环框架",
+    "titleZh": "去中心化智能体集群中的自编排学习",
     "tier": 2
   },
   {
-    "id": "hf-2610.21463",
-    "title": "Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents",
-    "summary": "Large language model agents solve tasks through long sequences of tool calls, and the prevailing design has a single strong model generate every step, although many steps are routine enough for a much…",
+    "id": "hf-2610.22174",
+    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+    "summary": "Most existing agentic reinforcement learning methods assume single-session trajectories, where interaction proceeds within one continuously accumulated context. However, agentic techniques such as con…",
     "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2610.21463",
+    "sourceUrl": "https://huggingface.co/papers/2610.22174",
+    "category": "paper",
+    "publishedAt": "2026-10-14T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 48,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T07:51:20.971Z"
+    },
+    "image": null,
+    "heat": 46,
+    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "fetchedAt": null,
+    "titleZh": "Mosaic：多会话智能体强化学习",
+    "tier": 2
+  },
+  {
+    "id": "hf-2610.21453",
+    "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
+    "summary": "While generalist vision-language-action (VLA) models have enabled diverse open-world manipulation, real-world robotic assistance requires two critical capabilities they currently lack: personalization…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2610.21453",
     "category": "paper",
     "publishedAt": "2026-10-14T20:00:00.000Z",
     "tags": [
@@ -49250,6 +49219,38 @@
     },
     "image": null,
     "heat": 41,
+    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "fetchedAt": null,
+    "titleZh": "CarryOn：面向个性化可靠机器人辅助的双环框架",
+    "tier": 2
+  },
+  {
+    "id": "hf-2610.21463",
+    "title": "Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents",
+    "summary": "Large language model agents solve tasks through long sequences of tool calls, and the prevailing design has a single strong model generate every step, although many steps are routine enough for a much…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2610.21463",
+    "category": "paper",
+    "publishedAt": "2026-10-14T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 11,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T07:51:20.971Z"
+    },
+    "image": null,
+    "heat": 42,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "面向工具调用智能体的轨迹级推测与语义验证",
@@ -49651,7 +49652,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 92,
+    "engagement": 93,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49683,7 +49684,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49697,7 +49698,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 35,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "SERO：面向长时程智能体强化学习的可执行预言机续段学习",
@@ -49715,7 +49716,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 28,
+    "engagement": 29,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49729,7 +49730,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 43,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "WorldCast：探索世界状态预测中的智能视觉生成",
@@ -49747,7 +49748,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49761,7 +49762,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "VascuSR：面向 CT 超分辨率的迭代解剖感知扩散模型",
@@ -49779,7 +49780,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 197,
+    "engagement": 198,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -49793,7 +49794,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 47,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "RoTA-Bench：通过交互式投影对齐评估 3D 空间推理",
@@ -49985,7 +49986,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "Cowork-Gym：大规模合成交互式工作环境",
@@ -50003,7 +50004,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50017,7 +50018,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 31,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "H-DDCM：用于快速生成式图像与视频压缩的 Hadamard 码本",
@@ -50035,7 +50036,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 187,
+    "engagement": 188,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50067,7 +50068,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 10,
+    "engagement": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50081,7 +50082,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 39,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "WorldMemBench：视频世界模型记忆能力综合基准",
@@ -50145,7 +50146,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 26,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "PINT：面向机器人操作的共享预测意图统一模型",
@@ -50176,12 +50177,12 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 26,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "面向通用长时程智能体的递归环境扩展",
     "tier": 2,
-    "engagement": 1
+    "engagement": 2
   },
   {
     "id": "hf-2610.16784",
@@ -50405,11 +50406,12 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 20,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "AI 驱动、时序感知的功耗优化",
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2610.09695",
@@ -50469,7 +50471,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 22,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "SimForcing：将仿真运动先验蒸馏进真实域机器人世界模型",
@@ -50588,10 +50590,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-16T07:51:20.971Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "heat": 30,
-    "firstSeen": "2026-10-16T07:51:20.971Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "titleZh": "推出 Muse Spark 1.1",
     "tier": 1
@@ -50615,12 +50617,12 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-10-16T20:00:49.154Z"
+      "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "heat": 30,
-    "firstSeen": "2026-10-16T20:00:49.154Z",
+    "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
-    "titleZh": "Omnilingual ASR：推进 1600 多种语言的自动语音识别",
+    "titleZh": "Omnilingual ASR：推进覆盖 1600 多种语言的自动语音识别",
     "tier": 1
   },
   {
@@ -50797,7 +50799,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 26,
+    "engagement": 27,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50811,7 +50813,7 @@
       "scoredAt": "2026-10-16T08:06:24.928Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 44,
     "firstSeen": "2026-10-16T08:06:24.928Z",
     "fetchedAt": null,
     "titleZh": "OmniVerifier-C1：面向规则驱动生成式世界建模的分解式分级验证器",
@@ -50859,7 +50861,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 115,
+    "engagement": 169,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50873,7 +50875,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 41,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Claude Code 团队如何做代码审查",
@@ -50890,7 +50892,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 410,
+    "engagement": 527,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50904,7 +50906,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 49,
+    "heat": 51,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Claude 揭示 ECDSA 曲线起源",
@@ -50918,37 +50920,6 @@
     "sourceUrl": "https://github.com/cobanov/PS5LM",
     "category": "industry",
     "publishedAt": "2026-10-16T18:32:35Z",
-    "tags": [
-      "Hacker News"
-    ],
-    "engagement": 112,
-    "aiSelected": true,
-    "origin": "hackernews",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-10-16T20:00:49.154Z"
-    },
-    "image": null,
-    "heat": 36,
-    "firstSeen": "2026-10-16T20:00:49.154Z",
-    "fetchedAt": null,
-    "titleZh": "越狱 PS5 上的 Llama.cpp：在主机上原生运行任意 GGUF 模型",
-    "tier": 2
-  },
-  {
-    "id": "hn-3a323c9a14",
-    "title": "Anthropic assigned highest junk credit rating in June",
-    "summary": null,
-    "source": "Hacker News",
-    "sourceUrl": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-    "category": "industry",
-    "publishedAt": "2026-10-16T18:11:42Z",
     "tags": [
       "Hacker News"
     ],
@@ -50966,7 +50937,38 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 39,
+    "firstSeen": "2026-10-16T20:00:49.154Z",
+    "fetchedAt": null,
+    "titleZh": "越狱 PS5 上的 Llama.cpp：在主机上原生运行任意 GGUF 模型",
+    "tier": 2
+  },
+  {
+    "id": "hn-3a323c9a14",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+    "source": "Hacker News",
+    "sourceUrl": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "category": "industry",
+    "publishedAt": "2026-10-16T18:11:42Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 176,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T20:00:49.154Z"
+    },
+    "image": null,
+    "heat": 43,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Anthropic 6月获评最高垃圾级信用评级",
@@ -51155,7 +51157,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 55,
+    "heat": 54,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "用Claude设计更高效的量子电路",
@@ -51172,7 +51174,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 301,
+    "engagement": 346,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51186,7 +51188,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 48,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "美国 90% 工作时间用于 AI 基准未覆盖的任务",
@@ -51392,7 +51394,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 161,
+    "engagement": 167,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51406,7 +51408,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "AI 审查员发现的漏洞超出人力修复范围，Postgres 19 推迟发布",
@@ -51433,7 +51435,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Meta 或借全新全面商业条款规避数百万美元 AI 授权费",
@@ -51460,7 +51462,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Jev 是 Vercel 迄今采用速度最快的 AI 模型",
@@ -51487,7 +51489,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "推出 Reflection Beam：面向 AWS 智能体编程的开放权重模型",
@@ -51514,7 +51516,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Google 的 Gemini 4 Argon 比数月来任何 Google 模型都更接近 AI 前沿",
@@ -51541,7 +51543,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "RTX Spark 一周体验：Nvidia 新笔记本的使用心得",
@@ -51568,7 +51570,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "也许聊天机器人不该使用第一人称",
@@ -51585,7 +51587,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 43,
+    "engagement": 46,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51599,7 +51601,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Show HN：rStation，为 AI 智能体打造的共享研究实验室",
@@ -51643,7 +51645,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 163,
+    "engagement": 176,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51657,7 +51659,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 42,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Show HN：Gemini 4 Argon 玩星际争霸",
@@ -51999,7 +52001,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "低成本代理调度与监督新思路。",
@@ -52013,7 +52015,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 36,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "LEASH：面向计算机操作智能体的不确定性感知弱到强升级与监督",
@@ -52031,7 +52033,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "时序基础模型强化多元依赖建模。",
@@ -52045,7 +52047,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 34,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "PathFM：多元轨迹的快速生成式预测",
@@ -52063,7 +52065,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "MoE个性化专家角色可解释研究。",
@@ -52077,7 +52079,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 29,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "解读混合专家 LLM 中专家的个性化作用",
@@ -52095,7 +52097,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "视频生成模型零样本4D感知。",
@@ -52109,7 +52111,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 34,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Gen4P：视频生成器即 4D 感知器",
@@ -52140,11 +52142,12 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 25,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "当 KV 缓存比 GPU 更慢：为上下文并行预填充扩展远程 KV 层级",
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2610.22352",
@@ -52172,7 +52175,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "SUPRA-TEX：基于超对齐纹理的 3D 生成",
@@ -52190,7 +52193,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 30,
+    "engagement": 31,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "世界与动作模型联合训练探索。",
@@ -52222,7 +52225,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 228,
+    "engagement": 229,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "代理交付“最后一公里”新基准。",
@@ -52254,7 +52257,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 23,
+    "engagement": 24,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "数据代理训练环境规模化方案。",
@@ -52268,7 +52271,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 43,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Data World：从零扩展数据环境",
@@ -52285,7 +52288,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 125,
+    "engagement": 126,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "开源EDA引入AI助手值得关注。",
@@ -52330,11 +52333,12 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 24,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "稀疏自编码器中数据的收益递减：功能行为并不保证特征可复现",
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2610.20461",
@@ -52348,7 +52352,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "OCR评测更贴近实际风险。",
@@ -52362,7 +52366,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "CER 相同，损害不同：面向 OCR 的严重度加权字符错误率",
@@ -52380,7 +52384,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "能力出现前，读出层已变化。",
@@ -52394,7 +52398,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "学会读出：语言模型预训练中的反嵌入动态",
@@ -52412,7 +52416,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "偏差缓解需区分两种来源。",
@@ -52426,7 +52430,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "一个偏差分数，两个因素：缓解措施如何影响多选题评估中的选项偏差",
@@ -52444,7 +52448,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "用Lean接地训练证明验证器。",
@@ -52458,7 +52462,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 34,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "LeanPRM：基于 Lean 的自然语言证明验证过程监督",
@@ -52476,7 +52480,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "让模型更会“抄”上下文。",
@@ -52490,7 +52494,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 31,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "复制粘贴式语言模型",
@@ -52508,7 +52512,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "长上下文注意力新折衷方案。",
@@ -52522,7 +52526,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 34,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "虚拟头注意力",
@@ -52540,7 +52544,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 4,
+    "engagement": 5,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "长上下文训练加速基础设施。",
@@ -52554,7 +52558,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 36,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "FlashMask-3：高效且富有表达力的掩码感知分布式注意力",
@@ -52572,7 +52576,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -52586,7 +52590,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 30,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "超越策略展开：面向LLM RLVR的嵌入空间锚定噪声方向探索",
@@ -52617,11 +52621,12 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 21,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "面向智能体环境的可扩展弱到强验证器加固",
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "gh-trhhubsd-artex",
@@ -52670,7 +52675,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -52684,7 +52689,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 24,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "语音事件检测器：为丰富语音转写带时间戳识别非语言发声与背景音",
@@ -52702,7 +52707,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -52716,7 +52721,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 23,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "ForcingBooster：面向快速自回归视频扩散的自适应分块去噪",
@@ -52748,7 +52753,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "PAIR：打通视觉-语言-动作模型的感知与行动",
@@ -52963,7 +52968,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": "SAE特征未必可加组合。",
@@ -52977,7 +52982,7 @@
       "scoredAt": "2026-10-16T20:54:34.817Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 29,
     "firstSeen": "2026-10-16T20:54:34.817Z",
     "fetchedAt": null,
     "titleZh": "稀疏自编码器表征的行为组合性",
@@ -53283,7 +53288,7 @@
   {
     "id": "rss:techcrunch-ai-d0f11237d1",
     "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it…",
     "source": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "category": "industry",
@@ -53306,5 +53311,210 @@
     "fetchedAt": null,
     "titleZh": "CEO 称 Replit 已不再与 Anthropic 合作",
     "tier": 2
+  },
+  {
+    "id": "hn-60c2ffc761",
+    "title": "FLUX 3 Image Klein",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
+    "category": "industry",
+    "publishedAt": "2026-10-16T19:47:13Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 75,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "image": null,
+    "heat": 32,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "FLUX 3 Image Klein 图像模型",
+    "tier": 2
+  },
+  {
+    "id": "hn-ae70afbcda",
+    "title": "You could have invented transformers from memory",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://alexwang.ai/posts/associative-memory/",
+    "category": "industry",
+    "publishedAt": "2026-10-16T19:01:17Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 67,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "image": null,
+    "heat": 31,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "你也能凭记忆推导出 Transformer",
+    "tier": 2
+  },
+  {
+    "id": "gh-lowaltitudeflight-local-llm-tuning-guide",
+    "title": "Lowaltitudeflight/local-llm-tuning-guide",
+    "summary": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization, speculative decoding, KV cache. Every…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide",
+    "category": "ai-products",
+    "publishedAt": "2026-10-16T02:52:27Z",
+    "tags": [
+      "benchmarking",
+      "decision-guide",
+      "gpu-serving",
+      "inference-optimization",
+      "Python"
+    ],
+    "engagement": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "image": null,
+    "heat": 25,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:meta-ai-077c144fe9",
+    "title": "Muse: Meta's personal AI agent, features & capabilities",
+    "summary": "Muse: Meta's personal AI agent, features & capabilities AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-09-08T19:12:08.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "heat": 31,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "Muse：Meta 个人 AI 智能体的功能与能力",
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-92a8bb99c9",
+    "title": "Meta AI: Your personal AI assistant & chatbot | Ask, chat & more",
+    "summary": "Meta AI: Your personal AI assistant & chatbot | Ask, chat & more AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xN1RIbER2TUxocmZ4a0QyNUlNMFRxbFhNeVZNYm80c1lRbUI5ZDN3Qlg0cHZyMVAzRDh3Y1B2T2twVndKd1pFRkc4QTkxOHM?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-07-07T19:39:24.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "Meta AI：你的个人 AI 助手与聊天机器人",
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-54c941bdeb",
+    "title": "Connect 2024: The responsible approach we’re taking to generative AI",
+    "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2024-09-25T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "Connect 2024：我们对生成式 AI 采取的负责任做法",
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-b50d23ed74",
+    "title": "System cards",
+    "summary": "System cards AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DN0pMamtjb1Vvd0tnSVJWQmZkUy1nWDRJOTk3eWtGRFc4cDZIX1ZIOEhEMVVDa2J1N1VMV3hCNGtrOTNuQ19JdFFLZm02Tkc5?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2023-07-16T11:45:37.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": "仅供溯源模型安全评估文档，暂无新增内容。",
+    "significance": {
+      "score": 35,
+      "type": "other",
+      "reason": "Meta官网系统卡栏目页，属常规文档入口，无新模型或能力发布信息。",
+      "verdict": "daily",
+      "method": "ai",
+      "model": "deepseek/deepseek-v4-flash",
+      "scoredAt": "2026-10-16T22:46:17.195Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-10-16T22:46:17.195Z",
+    "fetchedAt": null,
+    "titleZh": "系统卡",
+    "tier": 1
   }
 ]

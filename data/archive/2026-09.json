@@ -33463,7 +33463,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
     "tier": 2,
@@ -48185,7 +48185,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-20T00:09:37.242Z",
     "fetchedAt": null,
     "tier": 2,
@@ -50940,7 +50940,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7814,
+    "engagement": 7815,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64455,7 +64455,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 14143,
+    "engagement": 14150,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -66410,7 +66410,7 @@
       "agentic-memory",
       "Python"
     ],
-    "engagement": 215,
+    "engagement": 216,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -72216,7 +72216,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7886,
+    "engagement": 7887,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -72851,7 +72851,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 214,
+    "engagement": 215,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
