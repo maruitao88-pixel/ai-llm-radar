@@ -1,5 +1,5 @@
 {
   "weekLabel": "2026-10-12 ~ 2026-10-18",
-  "insight": "## 本周关键事件\n\n**1. Hugging Face 发布 Beam：501B 参数开放模型，主打“可拥有、可定制、可扩展”。** 重要在于开放权重阵营首次把参数量推到与闭源旗舰同一量级，且叙事从“下载权重”转向“拥有模型”，直接对标企业私有化部署的采购逻辑。\n\n**2. OpenAI 三线并进：Stack Overflow for Agents 借 ChatGPT 插件实现注册量三倍增长、GPT-Rosalind 进入学术研究实验室、面向学生的提问式学习项目。** 重要在于 OpenAI 本周输出的不是新模型能力，而是分发渠道——同时拿下 Agent 开发者入口、学术心智与教育场景。\n\n**3. AI4Science 单周多点落地：Anthropic 用 Claude 设计更高效的量子电路，Google DeepMind 借 Google Antigravity 加速抗菌肽",
-  "generatedAt": "2026-10-16T21:11:38.594Z"
+  "insight": "## 本周关键事件\n\n**Hugging Face 发布 501B 开放权重模型 Beam。** 这是目前体量最大的\"可自持、可定制、可扩展\"开放模型之一，意味着超大模型的权重控制权开始从少数闭源实验室外溢，开源与闭源前沿的差距被进一步压缩在参数规模这一维度上。\n\n**Google 双线推进 AI for Science 闭环。** DeepMind 用 Google Antigravity 加速抗菌肽搜索，Google Research 同期发布\"自主湿实验室\"的构建模块。两件事合起来看，AI 在科研中的角色正从\"预测分子性质\"转向\"驱动实验流程\"。\n\n**Anthropic 与学术界同期用 LLM 设计量子电路。** Anthropic 展示 Claude 设计",
+  "generatedAt": "2026-10-16T21:23:27.832Z"
 }

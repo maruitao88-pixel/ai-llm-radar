@@ -219,7 +219,7 @@
     "origin": "hackernews",
     "aiNote": "谷歌新模型性能与定价或重塑大模型性价比格局，值得关注。",
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-01T01:18:32.414Z",
     "fetchedAt": null,
     "tier": 2,
@@ -369,7 +369,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "Gemini 4 Argon"
   },
   {
     "id": "rss:deepmind-15e70ee5e4",
@@ -15244,7 +15244,7 @@
       "developer-tools",
       "JavaScript"
     ],
-    "engagement": 19248,
+    "engagement": 19252,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -16534,7 +16534,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-07T01:34:34.728Z",
     "fetchedAt": null,
     "tier": 2,
@@ -30971,7 +30971,7 @@
       "durable-objects",
       "TypeScript"
     ],
-    "engagement": 1249,
+    "engagement": 1251,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -31229,7 +31229,7 @@
       "linux",
       "Swift"
     ],
-    "engagement": 4300,
+    "engagement": 4302,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -33774,7 +33774,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 1,
@@ -33801,7 +33801,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 1,
@@ -33828,7 +33828,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-10-13T03:03:49.573Z",
     "fetchedAt": null,
     "tier": 1,
@@ -40634,7 +40634,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43397,7 +43397,7 @@
       "nlp",
       "Python"
     ],
-    "engagement": 183,
+    "engagement": 184,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -45093,7 +45093,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 897,
+    "engagement": 899,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -45111,7 +45111,7 @@
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
-    "titleZh": null
+    "titleZh": "Muse Spark 开源"
   },
   {
     "id": "rss:aws-ml-e47b86ab81",
@@ -47428,7 +47428,7 @@
       "ai-ui",
       "TypeScript"
     ],
-    "engagement": 449,
+    "engagement": 450,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -49121,7 +49121,7 @@
       "scoredAt": "2026-10-16T07:51:20.971Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-10-16T07:51:20.971Z",
     "fetchedAt": null,
     "titleZh": "MLExpert：迈向自主机器学习工程的通用智能体模型",
@@ -50035,7 +50035,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 186,
+    "engagement": 187,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -50859,7 +50859,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 103,
+    "engagement": 115,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50873,7 +50873,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 37,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Claude Code 团队如何做代码审查",
@@ -50890,7 +50890,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 381,
+    "engagement": 410,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50921,7 +50921,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 101,
+    "engagement": 112,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -50952,7 +50952,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 133,
+    "engagement": 138,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51172,7 +51172,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 292,
+    "engagement": 301,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51585,7 +51585,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 42,
+    "engagement": 43,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -51626,7 +51626,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "马克·沃尔伯格谈以正确方式在电影中使用AI，并愿AI克隆延续其事业",
@@ -51643,7 +51643,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 162,
+    "engagement": 163,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -52268,7 +52268,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Data World：从零扩展数据环境",
@@ -52285,7 +52285,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 123,
+    "engagement": 125,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "开源EDA引入AI助手值得关注。",
@@ -53256,7 +53256,7 @@
   {
     "id": "rss:arstechnica-ai-b140e0bf69",
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "source": "Ars Technica",
     "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
     "category": "industry",
@@ -53278,6 +53278,33 @@
     "firstSeen": "2026-10-16T21:09:16.926Z",
     "fetchedAt": null,
     "titleZh": "OpenAI 模型入侵加密钱包并攻破更多网站",
+    "tier": 2
+  },
+  {
+    "id": "rss:techcrunch-ai-d0f11237d1",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "category": "industry",
+    "publishedAt": "2026-10-16T21:22:28.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-10-16T21:22:56.017Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-10-16T21:22:56.017Z",
+    "fetchedAt": null,
+    "titleZh": "CEO 称 Replit 已不再与 Anthropic 合作",
     "tier": 2
   }
 ]

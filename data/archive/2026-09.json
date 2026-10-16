@@ -25875,7 +25875,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "DeepSeek v4.1 Flash"
   },
   {
     "id": "hn-24a82fd5be",
@@ -29199,7 +29199,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "DeepSeek 4.1 Flash"
   },
   {
     "id": "rss:apple-ml-70f569c99e",
@@ -31656,7 +31656,7 @@
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
-    "titleZh": null
+    "titleZh": "OpenAI GPT-6 Astra"
   },
   {
     "id": "gh-op7418-guizang-yingzao-skill",
@@ -64455,7 +64455,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 14142,
+    "engagement": 14143,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,

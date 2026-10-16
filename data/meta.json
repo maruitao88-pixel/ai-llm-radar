@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-16T21:11:15.098Z",
-  "count": 793,
+  "fetchedAt": "2026-10-16T21:23:04.311Z",
+  "count": 773,
   "sources": {
     "hf-papers": 50,
     "github": 80,
     "hackernews": 121,
     "rss:openai": 20,
     "rss:anthropic": 20,
-    "rss:meta-ai": 20,
+    "rss:meta-ai": 0,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 12,
