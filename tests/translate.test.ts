@@ -69,6 +69,28 @@ describe("needsTranslation", () => {
   it("treats a single stray CJK glyph as still English", () => {
     expect(needsTranslation("New model from \u5b57")).toBe(true);
   });
+
+  it("skips repository slugs that carry no prose", () => {
+    expect(needsTranslation("strands-agents/box")).toBe(false);
+    expect(needsTranslation("VectifyAI/jev-doc-search")).toBe(false);
+  });
+
+  it("skips package names with a version suffix", () => {
+    expect(needsTranslation("ttok 1.0")).toBe(false);
+    expect(needsTranslation("llm-gemini 0.35")).toBe(false);
+    expect(needsTranslation("web-edit 0.1a1")).toBe(false);
+  });
+
+  it("skips bare dashed or dotted identifiers", () => {
+    expect(needsTranslation("GLM-Legal")).toBe(false);
+    expect(needsTranslation("collusion.wiki")).toBe(false);
+    expect(needsTranslation("DeepSeek-v4-flash-vision-exp")).toBe(false);
+  });
+
+  it("still translates version names that end in a word", () => {
+    expect(needsTranslation("DeepSeek 4.1 Flash")).toBe(true);
+    expect(needsTranslation("OpenAI GPT-6 Astra")).toBe(true);
+  });
 });
 
 describe("sortPendingForTranslation", () => {
@@ -169,5 +191,41 @@ describe("addChineseTitles", () => {
     const out = await addChineseTitles(englishBatch(12), { apiKey: KEY, fetchImpl, max: 20 });
     expect(calls).toBe(2);
     expect(translatedIds(out)).toEqual([]);
+  });
+
+  it("never asks the model about identifier-like headlines", async () => {
+    const seen: string[][] = [];
+    const fetchImpl: StubFetch = async (_u, init) => {
+      const ids = requestIds(init);
+      seen.push(ids);
+      return completion(ids.map((id) => ({ id, zh: "中文-" + id })));
+    };
+    const items = [
+      mk("repo", { title: "strands-agents/box" }),
+      mk("pkg", { title: "llm-gemini 0.35" }),
+      mk("slug", { title: "GLM-Legal" }),
+      mk("en", { title: "OpenAI ships a new model" }),
+    ];
+    const out = await addChineseTitles(items, { apiKey: KEY, fetchImpl, max: 20 });
+    const asked = seen.flat();
+    expect(asked).toContain("en");
+    expect(asked).not.toContain("repo");
+    expect(asked).not.toContain("pkg");
+    expect(asked).not.toContain("slug");
+    const byId = new Map(out.map((i) => [i.id, i]));
+    expect(byId.get("repo")?.titleZh).toBeUndefined();
+    expect(byId.get("en")?.titleZh).toBe("中文-en");
+  });
+
+  it("accepts an echoed original instead of paying to retry it", async () => {
+    let calls = 0;
+    const fetchImpl: StubFetch = async (_u, init) => {
+      calls++;
+      return completion(requestIds(init).map((id) => ({ id, zh: "DeepSeek 4.1 Flash" })));
+    };
+    const items = [mk("a", { title: "DeepSeek 4.1 Flash" })];
+    const out = await addChineseTitles(items, { apiKey: KEY, fetchImpl, max: 5 });
+    expect(calls).toBe(1);
+    expect(out[0].titleZh).toBe("DeepSeek 4.1 Flash");
   });
 });

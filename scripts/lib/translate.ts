@@ -97,9 +97,30 @@ function cjkCount(s: string): number {
   return n;
 }
 
+/**
+ * Identifier shapes that carry no prose to translate: owner/repo slugs,
+ * a package name plus a dotted version (ttok 1.0), and single dashed or
+ * dotted tokens (GLM-Legal, collusion.wiki). Paying the model to echo a
+ * repository name back on every crawl is pure waste, so these are skipped.
+ */
+const OWNER_REPO = /^[A-Za-z0-9][A-Za-z0-9._-]*\/[A-Za-z0-9][A-Za-z0-9._-]*$/;
+const VERSIONED =
+  /^[A-Za-z][A-Za-z0-9._+-]*(?: [A-Za-z][A-Za-z0-9._+-]*)? v?\d+(?:\.\d+)*[a-z0-9]*$/i;
+const BARE_SLUG = /^[A-Za-z][A-Za-z0-9._+-]*$/;
+
+function isIdentifierLike(title: string): boolean {
+  const s = title.trim();
+  if (OWNER_REPO.test(s)) return true;
+  if (VERSIONED.test(s)) return true;
+  if (!/\s/.test(s) && BARE_SLUG.test(s) && /[.\-_]/.test(s)) return true;
+  return false;
+}
+
 /** True when a headline still needs a Chinese version. */
 export function needsTranslation(title: string): boolean {
-  return cjkCount(title) < 2;
+  if (cjkCount(title) >= 2) return false; // already reads as Chinese
+  if (isIdentifierLike(title)) return false; // repo / package / version
+  return true;
 }
 
 /**
@@ -130,9 +151,15 @@ function parseBatch(raw: string): TitleRow[] {
   return out;
 }
 
-/** Trim quotes/wrapper text and reject empty or unchanged results. */
-function cleanZh(raw: unknown, fallback: string): string | null {
-  if (typeof raw !== "string") return null;
+/**
+ * Outcome of cleaning one model row. `unchanged` means the model echoed the
+ * original headline; it is accepted (and cached) so the same title is never
+ * re-requested, while `missing` is the only case worth splitting a batch for.
+ */
+type CleanOutcome = { kind: "ok" | "unchanged"; zh: string } | { kind: "missing" };
+
+function cleanZh(raw: unknown, fallback: string): CleanOutcome {
+  if (typeof raw !== "string") return { kind: "missing" };
   const zh = stripRefMarks(
     raw
       .replace(/^[\s"'\u201c\u201d\u300c\u300d\u300e\u300f]+/, "")
@@ -140,9 +167,10 @@ function cleanZh(raw: unknown, fallback: string): string | null {
       .replace(/\s+/g, " ")
       .trim(),
   );
-  if (!zh) return null;
-  if (zh === fallback.trim()) return null; // unchanged -> not a translation
-  return zh.slice(0, MAX_TITLE_CHARS);
+  if (!zh) return { kind: "missing" };
+  const trimmed = zh.slice(0, MAX_TITLE_CHARS);
+  if (trimmed === fallback.trim()) return { kind: "unchanged", zh: trimmed };
+  return { kind: "ok", zh: trimmed };
 }
 
 /** One-line, secret-free description of a failed request for the crawl log. */
@@ -228,9 +256,12 @@ async function collectTranslations(
 
   const missing: AIItem[] = [];
   for (const item of subset) {
-    const zh = cleanZh(byId.get(item.id), item.title);
-    if (zh) out.set(item.id, zh);
-    else missing.push(item);
+    const result = cleanZh(byId.get(item.id), item.title);
+    if (result.kind === "missing") {
+      missing.push(item); // only a real parse gap is worth splitting on
+    } else {
+      out.set(item.id, result.zh); // ok and unchanged are both final
+    }
   }
 
   // Transport failure already logged; a lone unsalvageable item can be split
