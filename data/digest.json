@@ -1,37 +1,6 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T01:14:55.869Z",
-  "picks": [
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "reason": "Gemini 4 Argon发布，面向开发者与科学家的最强模型"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "sourceUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind详解Gemini 4安全开发，负责任AI标杆"
-    },
-    {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic警示AI或可无数据中心自我复制，安全重大"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "sourceUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "reason": "Higgsfield借GPT-6将AI视频延长至10分钟以上"
-    },
-    {
-      "title": "How artificial neural networks build their own learning machinery",
-      "sourceUrl": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-      "source": "MIT News",
-      "reason": "MIT揭示神经网络自主学习机制，理论突破"
-    }
-  ],
-  "trendSummary": "本周谷歌Gemini 4 Argon发布、端侧智能体与AI视频时长突破成焦点，同时模型自我复制能力引发安全关注。"
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-16T20:02:03.216Z",
+  "picks": [],
+  "trendSummary": ""
 }
