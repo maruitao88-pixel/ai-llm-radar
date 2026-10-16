@@ -469,7 +469,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-6a6bdcd7f2",
@@ -546,7 +547,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-09c8fe5e8e",
@@ -852,7 +854,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-0f95b9ba87",
@@ -3090,7 +3093,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-9b92a1dab6",
@@ -3290,7 +3294,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-e9ed6baa98",
@@ -3468,7 +3473,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:simonwillison-f632cad25f",
@@ -3685,7 +3691,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-a1bcccbde5",
@@ -3906,7 +3913,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-681c02d6b6",
@@ -6636,7 +6644,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-57b5118179",
@@ -6687,7 +6696,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-71656b2e31",
@@ -9832,7 +9842,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-0ab3b0e32f",
@@ -10062,7 +10073,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:wired-ai-fc5286d71a",
@@ -12811,7 +12823,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-7e4db382f3",
@@ -16754,7 +16767,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-6f154428a9",
@@ -18980,7 +18994,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:meta-ai-8d1d3c63a9",
@@ -19456,7 +19471,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-97c166136f",
@@ -19503,7 +19519,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-235e7b1262",
@@ -19601,7 +19618,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-aaada63e99",
@@ -19661,7 +19679,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-305f03a4aa",
@@ -20064,7 +20083,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.04382",
@@ -21358,7 +21378,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:google-ai-e8269fc9a1",
@@ -21384,7 +21405,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-ff21891e60",
@@ -21907,7 +21929,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:raschka-4408428714",
@@ -21933,7 +21956,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:interconnects-af4f922db5",
@@ -21959,7 +21983,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-8b769129aa",
@@ -25016,7 +25041,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-fbed16dcfc",
@@ -25114,7 +25140,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-a2424edff1",
@@ -25343,7 +25370,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:nvidia-ed5ac5e67a",
@@ -25573,7 +25601,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-ea07adc076",
@@ -25845,7 +25874,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-24a82fd5be",
@@ -28568,7 +28598,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bensbites-6ce3499b54",
@@ -28594,7 +28625,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-499c7eee1e",
@@ -28654,7 +28686,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-ce5263883a",
@@ -28959,7 +28992,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:qbitai-9d7474c27c",
@@ -29023,7 +29057,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:qbitai-ff323aefee",
@@ -29163,7 +29198,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:apple-ml-70f569c99e",
@@ -31513,7 +31549,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-coder543-minnow",
@@ -31564,7 +31601,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:smol-ainews-a8dcf5b86d",
@@ -31590,7 +31628,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:smol-ainews-f699c937c3",
@@ -31616,7 +31655,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-op7418-guizang-yingzao-skill",
@@ -33205,7 +33245,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techreview-ai-d834d734a1",
@@ -33422,7 +33463,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-09-15T00:40:26.311Z",
     "fetchedAt": null,
     "tier": 2,
@@ -33434,7 +33475,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:latentspace-0f1f17c815",
@@ -33477,7 +33519,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techreview-ai-f23ae65b53",
@@ -35839,7 +35882,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "用检索替代训练期搜索，为复杂推理降本增效开辟新路径。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-16T00:23:51.330Z",
     "fetchedAt": null,
     "tier": 1,
@@ -35851,7 +35894,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-34fe49b404",
@@ -36055,7 +36099,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-f2ad97ad48",
@@ -36272,7 +36317,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:google-ai-18592959ad",
@@ -36298,7 +36344,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:google-ai-b86d9a766f",
@@ -36324,7 +36371,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:google-ai-a243976a4a",
@@ -36350,7 +36398,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-9b1c20e232",
@@ -36630,7 +36679,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:google-ai-00e29a681a",
@@ -36656,7 +36706,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-a671e6c21d",
@@ -39532,7 +39583,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:mistral-b558fe0be3",
@@ -39558,7 +39610,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-5f7e182a53",
@@ -40378,7 +40431,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-839e9e23b2",
@@ -41614,7 +41668,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-92c0e3ced2",
@@ -41729,7 +41784,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-c70b5555d0",
@@ -42413,7 +42469,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bensbites-567faa349d",
@@ -42439,7 +42496,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-d9fd0496b4",
@@ -42898,7 +42956,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
     "tier": 2,
@@ -42910,7 +42968,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-452167c2a0",
@@ -44139,7 +44198,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-0e3fc748cb",
@@ -44165,7 +44225,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:anthropic-564268dbdb",
@@ -44208,7 +44269,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-3f6c58621a",
@@ -44234,7 +44296,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-b63023bfb9",
@@ -44260,7 +44323,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-988e365297",
@@ -44286,7 +44350,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-b5a755e51d",
@@ -44312,7 +44377,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-d16aba586a",
@@ -44338,7 +44404,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bair-e2aca7c0bd",
@@ -44364,7 +44431,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:meta-ai-65d0e1a59e",
@@ -44407,7 +44475,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:meta-ai-9ea9ecee6e",
@@ -44887,7 +44956,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-1f6df86b0f",
@@ -45469,7 +45539,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-046abd252b",
@@ -45618,7 +45689,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-5e29b7c746",
@@ -46060,7 +46132,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-2b087dd134",
@@ -46128,7 +46201,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-8c54552093",
@@ -46536,7 +46610,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.19656",
@@ -47470,7 +47545,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-66fb6faf12",
@@ -48056,7 +48132,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-a193c15e98",
@@ -48120,7 +48197,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-53650f6807",
@@ -49339,7 +49417,7 @@
       "llm",
       "Python"
     ],
-    "engagement": 2356,
+    "engagement": 2366,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -49356,7 +49434,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-agent-launch-agent-launcher",
@@ -50714,7 +50793,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-a7ca59844a",
@@ -50842,7 +50922,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-jev-chat-jev-chat-jarvis",
@@ -50859,7 +50940,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7787,
+    "engagement": 7800,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50876,7 +50957,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:wired-ai-bfcae31e7c",
@@ -51343,7 +51425,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:tldr-ai-d105980713",
@@ -51357,7 +51440,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-22T00:52:16.574Z",
     "fetchedAt": null,
     "tier": 2,
@@ -51369,7 +51452,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-4a8dce49cc",
@@ -51767,7 +51851,7 @@
       "ai-agents",
       "api"
     ],
-    "engagement": 190,
+    "engagement": 191,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -51784,7 +51868,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.21788",
@@ -52082,7 +52167,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.20633",
@@ -52731,7 +52817,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-d93240d4c3",
@@ -53809,7 +53896,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-2de9b1ece6",
@@ -53873,7 +53961,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-b82451ca40",
@@ -53903,7 +53992,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-6ee2a82c9b",
@@ -54494,7 +54584,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
     "tier": 1,
@@ -54506,7 +54596,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:hf-blog-98acfe91fd",
@@ -54520,7 +54611,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
     "tier": 1,
@@ -54532,7 +54623,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:hf-blog-fb8ad85c45",
@@ -54546,7 +54638,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:36:46.696Z",
     "fetchedAt": null,
     "tier": 1,
@@ -54558,7 +54650,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:tldr-ai-a35f3ae9a9",
@@ -54584,7 +54677,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "arxiv-2609.24985v1",
@@ -54950,7 +55044,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.23989",
@@ -55297,7 +55392,7 @@
       "generative-ai",
       "TypeScript"
     ],
-    "engagement": 1811,
+    "engagement": 1823,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55314,7 +55409,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.23796",
@@ -56529,7 +56625,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-ad93c749ed",
@@ -56742,7 +56839,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:deepmind-4c4abcff4a",
@@ -56768,7 +56866,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-9d02eeb8ce",
@@ -56849,7 +56948,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:deepmind-be2314c629",
@@ -56875,7 +56975,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-8138d300d9",
@@ -57737,7 +57838,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-bd73448685",
@@ -58187,7 +58289,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.26781",
@@ -58380,7 +58483,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1478,
+    "engagement": 1484,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -58397,7 +58500,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.25267",
@@ -58650,7 +58754,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:anthropic-21f08ac191",
@@ -58701,7 +58806,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-monglong0214-jev-gate",
@@ -59254,7 +59360,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:wired-ai-01b3022d0b",
@@ -59675,7 +59782,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-e655f5f2c3",
@@ -60375,7 +60483,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:qbitai-9467a7f0aa",
@@ -60460,7 +60569,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-e509d9ef0e",
@@ -60935,7 +61045,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-da2bf47ffa",
@@ -62085,7 +62196,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-d31a2094a6",
@@ -62592,7 +62704,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-ddb6a0a573",
@@ -63173,7 +63286,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:qbitai-01d5d70cbf",
@@ -63573,7 +63687,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "arxiv-2609.30266v1",
@@ -64340,7 +64455,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 13427,
+    "engagement": 13794,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64357,7 +64472,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.28603",
@@ -64497,7 +64613,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.23087",
@@ -64741,7 +64858,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-62f32100a9",
@@ -65372,7 +65490,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-e5090ddc97",
@@ -66291,12 +66410,12 @@
       "agentic-memory",
       "Python"
     ],
-    "engagement": 212,
+    "engagement": 213,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-28T00:48:39.683Z",
     "fetchedAt": null,
     "tier": 2,
@@ -66308,7 +66427,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-tongyi-mai-qwen-planner-agent",
@@ -66328,7 +66448,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 22,
     "firstSeen": "2026-09-28T00:48:39.683Z",
     "fetchedAt": null,
     "tier": 2,
@@ -66340,7 +66460,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-nirbhay41120003-echomind",
@@ -66966,7 +67087,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-906bf36c70",
@@ -67378,7 +67500,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-5b4f6fe726",
@@ -67485,7 +67608,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
     "tier": 2,
@@ -67497,7 +67620,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-ddea09bd56",
@@ -67731,7 +67855,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-77a7729d92",
@@ -67906,7 +68031,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-29T01:59:45.220Z",
     "fetchedAt": null,
     "tier": 1,
@@ -67918,7 +68043,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:sspai-00783a3bb6",
@@ -68241,7 +68367,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-29ce4cd1ea",
@@ -68296,7 +68423,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-b0yko-taskdistill",
@@ -69540,7 +69668,7 @@
       "cli",
       "TypeScript"
     ],
-    "engagement": 114,
+    "engagement": 115,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69557,7 +69685,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hf-2609.18703",
@@ -70144,7 +70273,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-306eaf49e9",
@@ -70811,7 +70941,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:hf-blog-493cf3fce1",
@@ -70998,7 +71129,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-08e650677b",
@@ -71058,7 +71190,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:bensbites-b432d8159d",
@@ -71072,7 +71205,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
     "tier": 2,
@@ -71084,7 +71217,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-4114951638",
@@ -71238,7 +71372,7 @@
     "aiSelected": true,
     "origin": "rss:raschka",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-30T01:18:44.626Z",
     "fetchedAt": null,
     "tier": 2,
@@ -71250,7 +71384,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techreview-ai-09364ac11a",
@@ -71942,7 +72077,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:mit-news-ai-809d70e354",
@@ -72062,7 +72198,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-kkkkhazix-aihot",
@@ -72079,7 +72216,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7783,
+    "engagement": 7840,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -72096,7 +72233,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-114a10ef07",
@@ -72695,7 +72833,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-heaven999b-hello-agent-system",
@@ -72712,7 +72851,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 203,
+    "engagement": 211,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -72729,7 +72868,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-ff8b5c3e07",
@@ -73289,7 +73429,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-shapsider-omnijev",
@@ -73703,7 +73844,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "gh-feder-cr-dots",
@@ -75653,7 +75795,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:meta-ai-54c941bdeb",
@@ -75679,7 +75822,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:meta-ai-b50d23ed74",
@@ -75705,7 +75849,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:ithome-7da1708f3b",

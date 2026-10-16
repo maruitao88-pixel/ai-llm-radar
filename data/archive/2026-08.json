@@ -1018,7 +1018,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:openai-20b0eb2d5c",
@@ -1394,7 +1395,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-92beec8f13",
@@ -2692,7 +2694,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-cb41745aef",
@@ -2735,7 +2738,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-0536ecf24a",
@@ -5666,7 +5670,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-4250ad4d29",
@@ -18169,7 +18174,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-3f7c800bfd",
@@ -19686,7 +19692,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:importai-5d7f488d8c",
@@ -19712,7 +19719,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-847f3a84fa",
@@ -23654,7 +23662,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-d4cd8b0f02",
@@ -25740,7 +25749,7 @@
     "origin": "hackernews",
     "aiNote": "开源大模型竞争白热化，后发者能否撼动头部格局值得紧盯。",
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 2,
@@ -25752,7 +25761,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-a7f0b3ab85",
@@ -25850,7 +25860,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:techcrunch-ai-1880293b64",
@@ -26406,7 +26417,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-1d15b31570",
@@ -29190,7 +29202,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "hn-8722f56c8f",
@@ -29208,7 +29221,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2,
@@ -29220,7 +29233,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:qbitai-20b627328d",
@@ -31035,7 +31049,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:wired-ai-6f56e04a74",
@@ -33968,7 +33983,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-8b94615efc",
@@ -35962,7 +35978,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-6ef1f35545",
@@ -36191,7 +36208,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:nvidia-b10672c70c",
@@ -44863,7 +44881,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-b5d48fb483",
@@ -47025,7 +47044,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-440eeb7b6a",
@@ -49038,7 +49058,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:infoq-ab4627192e",
@@ -50867,7 +50888,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-63b987968d",
@@ -51258,7 +51280,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-065db7bd07",
@@ -53417,7 +53440,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-a037d648cf",
@@ -56041,7 +56065,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:wired-ai-8a8f3eb610",
@@ -56551,7 +56576,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:theverge-ai-b058b9480d",
@@ -57509,7 +57535,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-03c4d173cc",
@@ -60102,7 +60129,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "arxiv-2608.27406v1",
@@ -60381,7 +60409,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:aws-ml-7003584696",
@@ -60776,7 +60805,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:nvidia-ae61ed145d",
@@ -60853,7 +60883,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:arstechnica-ai-3544561ca6",
@@ -62906,7 +62937,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:thedecoder-e314f1d893",
@@ -64421,7 +64453,8 @@
       "method": "rule",
       "model": null,
       "scoredAt": "2026-10-15T07:50:29.928Z"
-    }
+    },
+    "titleZh": null
   },
   {
     "id": "rss:simonwillison-517370741c",
