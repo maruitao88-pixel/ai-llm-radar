@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-10-22T22:46:51.953Z",
-  "count": 785,
+  "fetchedAt": "2026-10-23T22:47:19.912Z",
+  "count": 794,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 116,
+    "hackernews": 118,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 12,
-    "rss:nvidia": 12,
+    "rss:nvidia": 13,
     "rss:hf-blog": 20,
     "rss:mistral": 20,
     "rss:cohere": 0,
@@ -46,9 +46,9 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 10,
+    "rss:infoq": 17,
     "rss:sspai": 3,
-    "rss:ithome": 4,
+    "rss:ithome": 2,
     "arxiv": 20
   },
   "errors": {
