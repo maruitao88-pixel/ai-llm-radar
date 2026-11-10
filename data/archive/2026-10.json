@@ -10599,7 +10599,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-10-04T00:40:16.472Z",
     "fetchedAt": null,
     "tier": 2,
@@ -23206,7 +23206,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": null,
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "tier": 1,
@@ -25543,7 +25543,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-10-09T02:12:28.960Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36426,7 +36426,7 @@
     "origin": "hackernews",
     "aiNote": "首次量化AI写代码的冗余度，直击长期可维护性痛点。",
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38235,7 +38235,7 @@
       "grpo",
       "Python"
     ],
-    "engagement": 41,
+    "engagement": 42,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -39935,7 +39935,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -43558,7 +43558,7 @@
       "scoredAt": "2026-10-15T07:50:29.928Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-15T07:50:29.928Z",
     "fetchedAt": null,
     "tier": 2,
@@ -46130,7 +46130,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -46538,7 +46538,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -51129,7 +51129,7 @@
     "source": "Google Research",
     "sourceUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
     "category": "paper",
-    "publishedAt": "2026-10-16T18:11:34.000Z",
+    "publishedAt": "2026-10-16T18:11:00.000Z",
     "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
     "aiSelected": true,
     "origin": "rss:google-research",
@@ -51143,7 +51143,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "让AI智能体扎根生物现实：自主湿实验室的构建模块",
@@ -51525,7 +51525,7 @@
       "model": null,
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "在肯德尔广场的创新氛围中培育社区",
@@ -51807,7 +51807,7 @@
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Show HN：Gemini 4 Argon 玩星际争霸",
@@ -52131,7 +52131,7 @@
       "model": "deepseek/deepseek-v4-flash",
       "scoredAt": "2026-10-16T20:00:49.154Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-16T20:00:49.154Z",
     "fetchedAt": null,
     "titleZh": "Muse Spark Open、微软 3 万亿参数模型、d1-ultra",
@@ -53537,7 +53537,7 @@
       "inference-optimization",
       "Python"
     ],
-    "engagement": 52,
+    "engagement": 56,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -53551,7 +53551,7 @@
       "scoredAt": "2026-10-16T22:46:17.195Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-10-16T22:46:17.195Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -54400,7 +54400,7 @@
       "scoredAt": "2026-10-17T22:40:33.754Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-17T22:40:33.754Z",
     "fetchedAt": null,
     "titleZh": "DeepSeek v4.1 Flash 1017 发布",
@@ -54678,7 +54678,7 @@
       "model": null,
       "scoredAt": "2026-10-17T22:40:33.754Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-17T22:40:33.754Z",
     "fetchedAt": null,
     "titleZh": "Anthropic 的用工方式正在如何变化",
@@ -54947,7 +54947,7 @@
       "chat-ui",
       "TypeScript"
     ],
-    "engagement": 2053,
+    "engagement": 2061,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55841,7 +55841,7 @@
       "scoredAt": "2026-10-18T22:42:04.792Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-18T22:42:04.792Z",
     "fetchedAt": null,
     "titleZh": "DeepSeek 搜索与抓取：每 1000 次成功请求 0.75 美元",
@@ -56036,7 +56036,7 @@
       "deepseek-v4",
       "Shell"
     ],
-    "engagement": 184,
+    "engagement": 186,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -56050,7 +56050,7 @@
       "scoredAt": "2026-10-18T22:42:04.792Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-18T22:42:04.792Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56143,7 +56143,7 @@
       "scoredAt": "2026-10-18T22:42:04.792Z"
     },
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-10-18T22:42:04.792Z",
     "fetchedAt": null,
     "titleZh": "Show HN：Fakeipedia——为不存在的世界打造的维基百科",
@@ -56839,7 +56839,7 @@
       "scoredAt": "2026-10-19T22:45:38.726Z"
     },
     "image": null,
-    "heat": 17,
+    "heat": 18,
     "firstSeen": "2026-10-19T22:45:38.726Z",
     "fetchedAt": null,
     "titleZh": "美国下令所有文职机构移除 DeepSeek，连基于其构建的工具也不例外",
@@ -57001,7 +57001,7 @@
       "model": "deepseek/deepseek-v4-flash",
       "scoredAt": "2026-10-19T22:45:38.726Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-19T22:45:38.726Z",
     "fetchedAt": null,
     "titleZh": "教 AI 理解对称性为何能让产前诊断更可靠",
@@ -61462,7 +61462,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "最新开源成果（第 25 期）：DeepSeek V4.1 Flash 1017、美国造模型与中美新监管举措",
@@ -61732,7 +61732,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "指数曲线上的30个月（图表）",
@@ -61956,7 +61956,7 @@
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "Show HN：Jev Cards，你能在图片问答中胜过视觉模型吗",
@@ -62423,7 +62423,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "我如何打造自己的万能应用",
@@ -62585,7 +62585,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -62859,7 +62859,7 @@
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "DeepInfer：面向 DeepSeek 模型的高性能推理框架",
@@ -63322,7 +63322,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "Hugging Face ❤️ TorchTPU：原生支持 TPU",
@@ -63349,7 +63349,7 @@
       "model": null,
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "AnyLanguageModel 1.0：苹果平台本地模型的一年",
@@ -64096,7 +64096,7 @@
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": "美国国土安全部新令禁止联邦文职机构使用 DeepSeek",
@@ -64796,7 +64796,7 @@
       "scoredAt": "2026-10-20T22:46:29.263Z"
     },
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-10-20T22:46:29.263Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -68712,7 +68712,7 @@
       "model": null,
       "scoredAt": "2026-10-21T22:48:04.638Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-21T22:48:04.638Z",
     "fetchedAt": null,
     "titleZh": "DeepSeek DeepInfer、TPU 上的 PyTorch、Ramp 的智能体框架",
@@ -70826,7 +70826,7 @@
       "durable",
       "TypeScript"
     ],
-    "engagement": 298,
+    "engagement": 299,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71479,7 +71479,7 @@
       "model": null,
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": "将数据库评分转化为 RL 奖励：用 ThinkingBox 后训练智能体",
@@ -71614,7 +71614,7 @@
       "model": null,
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": "这款设计软件把日常物品变成有自我感知的设备",
@@ -72853,7 +72853,7 @@
       "model": "deepseek/deepseek-v4-flash",
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": "Flint-interactive：用于创建交互式数据可视化的语言",
@@ -73204,7 +73204,7 @@
       "model": null,
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": "超越树冠覆盖：绘制全球森林类型地图",
@@ -74973,7 +74973,7 @@
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76851,7 +76851,7 @@
       "coding-agents",
       "Python"
     ],
-    "engagement": 644,
+    "engagement": 645,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -76865,7 +76865,7 @@
       "scoredAt": "2026-10-22T22:46:11.942Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-10-22T22:46:11.942Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78643,7 +78643,7 @@
       "model": null,
       "scoredAt": "2026-10-23T22:46:23.648Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-23T22:46:23.648Z",
     "fetchedAt": null,
     "titleZh": "问答：AI 如何开始模拟凌乱的人类心智",
@@ -78836,7 +78836,7 @@
       "model": null,
       "scoredAt": "2026-10-23T22:46:23.648Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-23T22:46:23.648Z",
     "fetchedAt": null,
     "titleZh": "你的模型能在 AWS Trainium 上运行吗？查一查便知",
@@ -81567,7 +81567,7 @@
       "elasticsearch",
       "TypeScript"
     ],
-    "engagement": 407,
+    "engagement": 428,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -82509,7 +82509,7 @@
       "model": null,
       "scoredAt": "2026-10-24T22:44:11.549Z"
     },
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-24T22:44:11.549Z",
     "fetchedAt": null,
     "titleZh": "从零构建推理模型：完整视频课程",
@@ -82934,7 +82934,7 @@
       "scoredAt": "2026-10-24T22:44:11.549Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-24T22:44:11.549Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84187,7 +84187,7 @@
       "coloros",
       "Python"
     ],
-    "engagement": 7118,
+    "engagement": 7282,
     "aiSelected": true,
     "origin": "github",
     "aiNote": "AI智能体操作手机去广告的轻量尝试。",
@@ -84201,7 +84201,7 @@
       "scoredAt": "2026-10-25T22:42:48.138Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-25T22:42:48.138Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84257,7 +84257,7 @@
       "generative-fill",
       "Python"
     ],
-    "engagement": 250,
+    "engagement": 263,
     "aiSelected": true,
     "origin": "github",
     "aiNote": "本地免费生图插件，适合个人创作者而非行业拐点。",
@@ -84638,7 +84638,7 @@
       "model": null,
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": "2026 纽约气候周：MIT 与全球网络建立连接",
@@ -85267,7 +85267,7 @@
       "model": null,
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": "我们最新的 AI Quest：绘制人脑图谱",
@@ -85815,7 +85815,7 @@
       "model": null,
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": "Import AI 478：对齐的数学、ProgramBench，以及 Mirendil 展示 RSI 的含义",
@@ -86608,7 +86608,7 @@
       "texturing",
       "TypeScript"
     ],
-    "engagement": 202,
+    "engagement": 206,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -86622,7 +86622,7 @@
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -88218,7 +88218,7 @@
       "data-extraction",
       "Rust"
     ],
-    "engagement": 255,
+    "engagement": 260,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -88232,7 +88232,7 @@
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89019,7 +89019,7 @@
       "model": null,
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "学习者与MIT同伴合作编写AI洞察书籍",
@@ -89428,7 +89428,7 @@
       "model": null,
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "用 LFM3 构建专用多模态模型",
@@ -90607,7 +90607,7 @@
       "claude-code-plugin",
       "Python"
     ],
-    "engagement": 561,
+    "engagement": 564,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -90822,7 +90822,7 @@
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "abliterated DeepSeek 已有 5 家推理服务商",
@@ -91011,7 +91011,7 @@
       "model": null,
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "GPT-6.1 Terra、Anthropic 提交 IPO 文件、智能体原生 git",
@@ -91090,7 +91090,7 @@
       "dsh-plugin",
       "JavaScript"
     ],
-    "engagement": 476,
+    "engagement": 497,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -92893,7 +92893,7 @@
       "gpu",
       "TypeScript"
     ],
-    "engagement": 483,
+    "engagement": 485,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -94331,7 +94331,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94875,7 +94875,7 @@
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94902,7 +94902,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95172,7 +95172,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95338,7 +95338,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95620,7 +95620,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96002,7 +96002,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96191,7 +96191,7 @@
       "model": null,
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98807,7 +98807,7 @@
       "deepagents",
       "JavaScript"
     ],
-    "engagement": 597,
+    "engagement": 601,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -98888,7 +98888,7 @@
       "scoredAt": "2026-10-28T22:53:20.136Z"
     },
     "image": null,
-    "heat": 17,
+    "heat": 18,
     "firstSeen": "2026-10-28T22:53:20.136Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99407,7 +99407,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100503,7 +100503,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100642,7 +100642,7 @@
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100669,7 +100669,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -101387,7 +101387,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -101414,7 +101414,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -101441,7 +101441,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -101468,7 +101468,7 @@
       "model": null,
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102881,7 +102881,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102962,7 +102962,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103016,7 +103016,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103070,7 +103070,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103124,7 +103124,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103340,7 +103340,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103394,7 +103394,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103645,7 +103645,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103819,7 +103819,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104101,7 +104101,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104514,7 +104514,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104842,7 +104842,7 @@
       "model": null,
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105696,7 +105696,7 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 7750,
+    "engagement": 7932,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -105710,7 +105710,7 @@
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105880,7 +105880,7 @@
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106861,7 +106861,7 @@
       "coding-agent",
       "Dart"
     ],
-    "engagement": 16133,
+    "engagement": 17785,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -106875,7 +106875,7 @@
       "scoredAt": "2026-10-30T22:51:41.335Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-30T22:51:41.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -107827,7 +107827,7 @@
       "model": null,
       "scoredAt": "2026-10-31T22:49:38.843Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-10-31T22:49:38.843Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -108960,7 +108960,7 @@
       "chinese",
       "HTML"
     ],
-    "engagement": 511,
+    "engagement": 547,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -108994,7 +108994,7 @@
       "linux",
       "JavaScript"
     ],
-    "engagement": 378,
+    "engagement": 379,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -109008,7 +109008,7 @@
       "scoredAt": "2026-10-31T22:49:38.843Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-10-31T22:49:38.843Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -109029,7 +109029,7 @@
       "ai-coding-assistant",
       "Python"
     ],
-    "engagement": 5287,
+    "engagement": 5548,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
