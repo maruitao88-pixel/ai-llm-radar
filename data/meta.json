@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-11-16T02:12:48.299Z",
-  "count": 789,
+  "fetchedAt": "2026-11-17T04:33:18.201Z",
+  "count": 794,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 113,
+    "hackernews": 112,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -19,7 +19,7 @@
     "rss:apple-ml": 10,
     "rss:bair": 10,
     "rss:mit-news-ai": 20,
-    "rss:msr": 6,
+    "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
@@ -44,11 +44,11 @@
     "rss:qbitai": 10,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
-    "rss:geekpark": 18,
+    "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 10,
-    "rss:sspai": 4,
-    "rss:ithome": 2,
+    "rss:infoq": 11,
+    "rss:sspai": 2,
+    "rss:ithome": 8,
     "arxiv": 20
   },
   "errors": {
