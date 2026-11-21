@@ -36884,7 +36884,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-14T01:14:45.364Z",
     "fetchedAt": null,
     "tier": 2,
@@ -46130,7 +46130,7 @@
       "model": null,
       "scoredAt": "2026-10-15T22:45:46.492Z"
     },
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-10-15T22:45:46.492Z",
     "fetchedAt": null,
     "tier": 2,
@@ -54400,7 +54400,7 @@
       "scoredAt": "2026-10-17T22:40:33.754Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-17T22:40:33.754Z",
     "fetchedAt": null,
     "titleZh": "DeepSeek v4.1 Flash 1017 发布",
@@ -66968,7 +66968,7 @@
       "model": null,
       "scoredAt": "2026-10-21T22:48:04.638Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-21T22:48:04.638Z",
     "fetchedAt": null,
     "titleZh": "用 AI 辅助超声赋能一线孕产护理",
@@ -67898,7 +67898,7 @@
       "model": null,
       "scoredAt": "2026-10-21T22:48:04.638Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-21T22:48:04.638Z",
     "fetchedAt": null,
     "titleZh": "Mistral 携手 NVIDIA 推进工程领域 AI",
@@ -68577,7 +68577,7 @@
       "model": null,
       "scoredAt": "2026-10-21T22:48:04.638Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-21T22:48:04.638Z",
     "fetchedAt": null,
     "titleZh": "东南亚数字经济规模将达 3680 亿美元",
@@ -84187,7 +84187,7 @@
       "coloros",
       "Python"
     ],
-    "engagement": 8456,
+    "engagement": 8543,
     "aiSelected": true,
     "origin": "github",
     "aiNote": "AI智能体操作手机去广告的轻量尝试。",
@@ -85815,7 +85815,7 @@
       "model": null,
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": "Import AI 478：对齐的数学、ProgramBench，以及 Mirendil 展示 RSI 的含义",
@@ -86653,7 +86653,7 @@
       "scoredAt": "2026-10-26T22:50:30.118Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-10-26T22:50:30.118Z",
     "fetchedAt": null,
     "titleZh": "Show HN：Hurston-1 开源 TTS，可说美国南方口音与非裔英语",
@@ -89733,7 +89733,7 @@
       "model": "deepseek/deepseek-v4-flash",
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "Genie 4：新一代世界模拟",
@@ -90822,7 +90822,7 @@
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "abliterated DeepSeek 已有 5 家推理服务商",
@@ -91011,7 +91011,7 @@
       "model": null,
       "scoredAt": "2026-10-27T22:49:18.973Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-27T22:49:18.973Z",
     "fetchedAt": null,
     "titleZh": "GPT-6.1 Terra、Anthropic 提交 IPO 文件、智能体原生 git",
@@ -92893,7 +92893,7 @@
       "gpu",
       "TypeScript"
     ],
-    "engagement": 537,
+    "engagement": 541,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -100642,7 +100642,7 @@
       "scoredAt": "2026-10-29T22:55:09.508Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-29T22:55:09.508Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105696,7 +105696,7 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 9205,
+    "engagement": 9311,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -106861,7 +106861,7 @@
       "coding-agent",
       "Dart"
     ],
-    "engagement": 28325,
+    "engagement": 29064,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -108960,7 +108960,7 @@
       "chinese",
       "HTML"
     ],
-    "engagement": 625,
+    "engagement": 654,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -108974,7 +108974,7 @@
       "scoredAt": "2026-10-31T22:49:38.843Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-31T22:49:38.843Z",
     "fetchedAt": null,
     "titleZh": null,
