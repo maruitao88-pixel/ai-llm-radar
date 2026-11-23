@@ -1043,16 +1043,16 @@
     "origin": "rss:meta-ai",
     "aiNote": null,
     "significance": {
-      "score": 60,
+      "score": 40,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "规则判定（tier1）",
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-01T22:50:02.244Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
-    "heat": 42,
-    "firstSeen": "2026-11-01T22:50:02.244Z",
+    "heat": 32,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1153,22 +1153,22 @@
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6VkJLRkJpUk5KQUJDZGhELWxZRGctaEpzcmdzdXNyam12MGswck56TUM1aGVFWFZQRmtNMUFsRWlsaG1JSmVNNDZoSklTZXdkbno1TWJjUVoyOHpKZVE?oc=5",
     "category": "ai-models",
-    "publishedAt": "2026-11-12T20:20:00.000Z",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
     "image": null,
     "aiSelected": true,
     "origin": "rss:anthropic",
     "aiNote": null,
     "significance": {
-      "score": 90,
+      "score": 70,
       "type": "policy",
-      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
-      "verdict": "milestone",
+      "reason": "规则判定（tier1 + 关键词）",
+      "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-16T02:12:46.537Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
-    "heat": 46,
-    "firstSeen": "2026-11-16T02:12:46.537Z",
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1502,10 +1502,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-01T22:50:02.244Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-01T22:50:02.244Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1529,10 +1529,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-15T01:57:37.580Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-15T01:57:37.580Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1583,10 +1583,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-01T22:50:02.244Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-01T22:50:02.244Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1610,10 +1610,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-01T22:50:02.244Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-01T22:50:02.244Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1664,10 +1664,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-01T22:50:02.244Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-01T22:50:02.244Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1847,16 +1847,16 @@
     "origin": "rss:anthropic",
     "aiNote": null,
     "significance": {
-      "score": 60,
+      "score": 40,
       "type": "other",
-      "reason": "规则判定（tier1 + 热度前10%）",
+      "reason": "规则判定（tier1）",
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-02T22:55:22.209Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 33,
-    "firstSeen": "2026-11-02T22:55:22.209Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -2520,11 +2520,11 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-20T03:24:00.078Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "image": null,
-    "heat": 25,
-    "firstSeen": "2026-11-20T03:24:00.078Z",
+    "heat": 24,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
@@ -3087,7 +3087,7 @@
       "model": null,
       "scoredAt": "2026-11-02T22:55:22.209Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-02T22:55:22.209Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -5592,7 +5592,7 @@
       "claude",
       "Python"
     ],
-    "engagement": 4967,
+    "engagement": 4974,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -6260,10 +6260,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-18T03:43:51.188Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-18T03:43:51.188Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -9512,7 +9512,7 @@
       "model": null,
       "scoredAt": "2026-11-03T22:58:41.939Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-03T22:58:41.939Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -11896,7 +11896,7 @@
       "deepseek-harness",
       "Kotlin"
     ],
-    "engagement": 1032,
+    "engagement": 1033,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -13719,7 +13719,7 @@
       "model": null,
       "scoredAt": "2026-11-05T02:30:49.553Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-05T02:30:49.553Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -14928,7 +14928,7 @@
       "scoredAt": "2026-11-05T02:30:49.553Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-05T02:30:49.553Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -16077,7 +16077,7 @@
       "scoredAt": "2026-11-05T02:30:49.553Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-05T02:30:49.553Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -16814,7 +16814,7 @@
       "scoredAt": "2026-11-05T02:30:49.553Z"
     },
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-11-05T02:30:49.553Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -17315,7 +17315,7 @@
       "homelab",
       "JavaScript"
     ],
-    "engagement": 133,
+    "engagement": 135,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -17329,7 +17329,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -17995,10 +17995,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-12T03:04:56.173Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-12T03:04:56.173Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -19128,7 +19128,7 @@
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -19749,7 +19749,7 @@
       "model": null,
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -20401,7 +20401,7 @@
       "model": null,
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -20679,7 +20679,7 @@
       "model": null,
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -20706,7 +20706,7 @@
       "model": null,
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -22194,7 +22194,7 @@
       "bot",
       "TypeScript"
     ],
-    "engagement": 753,
+    "engagement": 769,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -22613,7 +22613,7 @@
       "autonomous-agents",
       "Python"
     ],
-    "engagement": 2540,
+    "engagement": 2557,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -23331,7 +23331,7 @@
       "model": null,
       "scoredAt": "2026-11-07T01:58:21.335Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-07T01:58:21.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -25308,7 +25308,7 @@
       "model": null,
       "scoredAt": "2026-11-07T01:58:21.335Z"
     },
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-07T01:58:21.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -26825,7 +26825,7 @@
       "ai-engineering",
       "JavaScript"
     ],
-    "engagement": 212,
+    "engagement": 215,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -26839,7 +26839,7 @@
       "scoredAt": "2026-11-07T01:58:21.335Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-11-07T01:58:21.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -26938,7 +26938,7 @@
       "scoredAt": "2026-11-07T01:58:21.335Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-07T01:58:21.335Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -27154,7 +27154,7 @@
       "agents",
       "TypeScript"
     ],
-    "engagement": 410,
+    "engagement": 414,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -27816,7 +27816,7 @@
       "ai-proxy",
       "Go"
     ],
-    "engagement": 259,
+    "engagement": 263,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -27830,7 +27830,7 @@
       "scoredAt": "2026-11-08T01:28:26.944Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-08T01:28:26.944Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -28582,7 +28582,7 @@
       "llm",
       "HTML"
     ],
-    "engagement": 2223,
+    "engagement": 2235,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -28617,7 +28617,7 @@
       "llm-as-judge",
       "Python"
     ],
-    "engagement": 487,
+    "engagement": 489,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -28631,7 +28631,7 @@
       "scoredAt": "2026-11-08T01:28:26.944Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-08T01:28:26.944Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -28936,10 +28936,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-18T03:43:51.188Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-18T03:43:51.188Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -29017,10 +29017,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-15T01:57:37.580Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-15T01:57:37.580Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -29714,7 +29714,7 @@
       "scoredAt": "2026-11-09T01:45:31.687Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-09T01:45:31.687Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -30133,7 +30133,7 @@
       "ffmpeg",
       "JavaScript"
     ],
-    "engagement": 730,
+    "engagement": 741,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -30147,7 +30147,7 @@
       "scoredAt": "2026-11-09T01:45:31.687Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-09T01:45:31.687Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -31389,7 +31389,7 @@
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -33029,7 +33029,7 @@
       "model": null,
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -33056,7 +33056,7 @@
       "model": null,
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -33222,7 +33222,7 @@
       "model": null,
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -35232,7 +35232,7 @@
       "ai-agents",
       "Python"
     ],
-    "engagement": 551,
+    "engagement": 552,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35246,7 +35246,7 @@
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -35299,7 +35299,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 586,
+    "engagement": 593,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35550,10 +35550,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-18T03:43:51.188Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-18T03:43:51.188Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -36123,7 +36123,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -36339,7 +36339,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -36505,7 +36505,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -36841,7 +36841,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -36895,7 +36895,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -37030,7 +37030,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -37327,7 +37327,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -37570,7 +37570,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -37740,7 +37740,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38346,7 +38346,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38427,7 +38427,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38566,7 +38566,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38593,7 +38593,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38674,7 +38674,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42007,7 +42007,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42339,7 +42339,7 @@
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42366,7 +42366,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42478,7 +42478,7 @@
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42613,7 +42613,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -43049,7 +43049,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -43269,7 +43269,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -43435,7 +43435,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -43547,7 +43547,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44391,7 +44391,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44418,7 +44418,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44445,7 +44445,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -45042,7 +45042,7 @@
       "image-generation",
       "Python"
     ],
-    "engagement": 442,
+    "engagement": 448,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -45624,7 +45624,7 @@
       "dsh",
       "JavaScript"
     ],
-    "engagement": 787,
+    "engagement": 820,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -46669,7 +46669,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -46723,7 +46723,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -46943,7 +46943,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47078,7 +47078,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47132,7 +47132,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47186,7 +47186,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47217,7 +47217,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47329,7 +47329,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47414,7 +47414,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47441,7 +47441,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47468,7 +47468,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48116,7 +48116,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48224,7 +48224,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48448,7 +48448,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48853,7 +48853,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48880,7 +48880,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48907,7 +48907,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49015,7 +49015,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49042,7 +49042,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49069,7 +49069,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50020,7 +50020,7 @@
       "chat",
       "TypeScript"
     ],
-    "engagement": 1911,
+    "engagement": 1956,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50034,7 +50034,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50564,7 +50564,7 @@
       "ai",
       "TypeScript"
     ],
-    "engagement": 6457,
+    "engagement": 6571,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -51150,7 +51150,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51544,7 +51544,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51625,7 +51625,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51656,7 +51656,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51687,7 +51687,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51745,7 +51745,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -51826,7 +51826,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -52708,7 +52708,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -52762,7 +52762,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -52986,7 +52986,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53017,7 +53017,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53071,7 +53071,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53457,7 +53457,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53484,7 +53484,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53511,7 +53511,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -54879,7 +54879,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55124,7 +55124,7 @@
       "ios",
       "Go"
     ],
-    "engagement": 2642,
+    "engagement": 2679,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55920,7 +55920,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55954,7 +55954,7 @@
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56022,7 +56022,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56124,7 +56124,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56440,7 +56440,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56529,7 +56529,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56560,7 +56560,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 29,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57081,7 +57081,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57143,7 +57143,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57209,7 +57209,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57425,7 +57425,7 @@
       "model": null,
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57506,7 +57506,7 @@
       "model": null,
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57769,7 +57769,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57804,7 +57804,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57874,7 +57874,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57909,7 +57909,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57944,7 +57944,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57979,7 +57979,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58180,7 +58180,7 @@
       "model": null,
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58369,7 +58369,7 @@
       "model": null,
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58529,7 +58529,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58594,7 +58594,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58615,7 +58615,7 @@
       "claude-code-plugin",
       "Python"
     ],
-    "engagement": 653,
+    "engagement": 656,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -58650,7 +58650,7 @@
       "dsh-plugin",
       "JavaScript"
     ],
-    "engagement": 585,
+    "engagement": 589,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -59077,7 +59077,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59185,7 +59185,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59320,7 +59320,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59486,7 +59486,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59648,7 +59648,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59729,7 +59729,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59976,7 +59976,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60246,7 +60246,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60273,7 +60273,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60300,7 +60300,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60327,7 +60327,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60354,7 +60354,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60381,7 +60381,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60439,7 +60439,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60848,7 +60848,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60875,7 +60875,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60902,7 +60902,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60983,7 +60983,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61693,7 +61693,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61720,7 +61720,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61755,7 +61755,7 @@
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61806,7 +61806,7 @@
       "worktrees",
       "Rust"
     ],
-    "engagement": 276,
+    "engagement": 283,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -61820,7 +61820,7 @@
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 27,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -63521,7 +63521,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -63548,7 +63548,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -63828,7 +63828,7 @@
       "ai-agents",
       "JavaScript"
     ],
-    "engagement": 6456,
+    "engagement": 6824,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64276,7 +64276,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -64550,7 +64550,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -64878,7 +64878,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -64905,7 +64905,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65071,7 +65071,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65295,7 +65295,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65403,7 +65403,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65538,7 +65538,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65619,7 +65619,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65646,7 +65646,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65943,7 +65943,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66078,7 +66078,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66190,7 +66190,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66217,7 +66217,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66244,7 +66244,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66329,7 +66329,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 31,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66481,7 +66481,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 297,
+    "engagement": 298,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -66495,7 +66495,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66549,7 +66549,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66603,7 +66603,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 44,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66688,7 +66688,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 44,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66715,7 +66715,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 46,
+    "heat": 44,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67443,7 +67443,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67497,7 +67497,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67551,7 +67551,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67578,7 +67578,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67695,7 +67695,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67730,7 +67730,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -68593,7 +68593,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 27,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69065,7 +69065,7 @@
       "agents",
       "JavaScript"
     ],
-    "engagement": 283,
+    "engagement": 292,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69079,7 +69079,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69324,7 +69324,7 @@
       "oxlint",
       "TypeScript"
     ],
-    "engagement": 702,
+    "engagement": 708,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69638,7 +69638,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 256,
+    "engagement": 257,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -69652,7 +69652,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69710,7 +69710,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69818,7 +69818,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69997,7 +69997,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 315,
+    "engagement": 316,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -70011,7 +70011,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70200,7 +70200,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70244,7 +70244,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1059,
+    "engagement": 1066,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -70258,7 +70258,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70474,7 +70474,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70609,7 +70609,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70690,7 +70690,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70771,7 +70771,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70933,7 +70933,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70960,7 +70960,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71122,7 +71122,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71166,7 +71166,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 148,
+    "engagement": 149,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -71180,7 +71180,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71435,7 +71435,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71489,7 +71489,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71516,7 +71516,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71651,7 +71651,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71979,7 +71979,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72006,7 +72006,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72033,7 +72033,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72114,7 +72114,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72141,7 +72141,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72168,7 +72168,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72334,7 +72334,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72481,7 +72481,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72920,7 +72920,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 285,
+    "engagement": 287,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -72934,7 +72934,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73089,7 +73089,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73209,7 +73209,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73236,7 +73236,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73263,7 +73263,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73290,7 +73290,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73317,7 +73317,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73408,7 +73408,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 46,
+    "heat": 44,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73439,7 +73439,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 29,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74036,7 +74036,7 @@
       "inference",
       "Python"
     ],
-    "engagement": 1692,
+    "engagement": 1967,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -74050,7 +74050,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74081,7 +74081,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74372,7 +74372,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74932,7 +74932,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74959,7 +74959,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75094,7 +75094,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75121,7 +75121,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75148,7 +75148,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75175,7 +75175,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75202,7 +75202,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75229,7 +75229,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75246,7 +75246,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 374,
+    "engagement": 375,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -75260,7 +75260,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75287,7 +75287,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75399,7 +75399,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75426,7 +75426,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75453,7 +75453,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75507,7 +75507,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75534,7 +75534,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75561,7 +75561,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75588,7 +75588,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75615,7 +75615,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75642,7 +75642,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75696,7 +75696,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75750,7 +75750,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75777,7 +75777,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75831,7 +75831,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75858,7 +75858,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75912,7 +75912,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75939,7 +75939,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75997,7 +75997,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76051,7 +76051,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76132,7 +76132,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76186,7 +76186,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76271,7 +76271,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76342,7 +76342,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1139,
+    "engagement": 1140,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -76356,7 +76356,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 49,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76383,7 +76383,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76410,7 +76410,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76464,7 +76464,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76611,7 +76611,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76974,7 +76974,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77001,7 +77001,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77055,7 +77055,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77495,7 +77495,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 49,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77522,7 +77522,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78321,7 +78321,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 47,
+    "engagement": 48,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -78362,7 +78362,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78389,7 +78389,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78416,7 +78416,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78443,7 +78443,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78470,7 +78470,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78497,7 +78497,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -79614,7 +79614,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -79927,7 +79927,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80012,7 +80012,7 @@
       "claude-code",
       "Swift"
     ],
-    "engagement": 1751,
+    "engagement": 1842,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -80150,10 +80150,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-20T03:24:00.078Z"
+      "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-20T03:24:00.078Z",
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -80179,7 +80179,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80206,7 +80206,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80314,7 +80314,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80341,7 +80341,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80368,7 +80368,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80395,7 +80395,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80422,7 +80422,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80449,7 +80449,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80476,7 +80476,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80503,7 +80503,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80534,7 +80534,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80561,7 +80561,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80588,7 +80588,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80615,7 +80615,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80642,7 +80642,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80696,7 +80696,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80713,7 +80713,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 118,
+    "engagement": 125,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -80727,7 +80727,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80754,7 +80754,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80781,7 +80781,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80808,7 +80808,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80862,7 +80862,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80916,7 +80916,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80943,7 +80943,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80970,7 +80970,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80997,7 +80997,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81024,7 +81024,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81082,7 +81082,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81109,7 +81109,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81136,7 +81136,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81153,7 +81153,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 279,
+    "engagement": 283,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -81167,7 +81167,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81225,7 +81225,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81252,7 +81252,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81306,7 +81306,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81360,7 +81360,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81414,7 +81414,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81435,7 +81435,7 @@
       "llm",
       "TypeScript"
     ],
-    "engagement": 151,
+    "engagement": 148,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -81449,7 +81449,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 30,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81476,7 +81476,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81503,7 +81503,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81547,7 +81547,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 498,
+    "engagement": 527,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -81561,7 +81561,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81615,7 +81615,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 51,
+    "heat": 49,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81642,7 +81642,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81700,7 +81700,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81727,7 +81727,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81785,7 +81785,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 51,
+    "heat": 49,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81897,7 +81897,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81924,7 +81924,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82032,7 +82032,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82059,7 +82059,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82086,7 +82086,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82113,7 +82113,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82140,7 +82140,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82161,7 +82161,7 @@
       "chat",
       "Python"
     ],
-    "engagement": 149,
+    "engagement": 146,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -82175,7 +82175,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 29,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82698,7 +82698,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82718,7 +82718,7 @@
       "blender",
       "blender-addon"
     ],
-    "engagement": 2490,
+    "engagement": 2750,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -82732,7 +82732,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82759,7 +82759,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82790,7 +82790,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82809,7 +82809,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 7,
+    "engagement": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -82823,7 +82823,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82855,7 +82855,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82873,7 +82873,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 18,
+    "engagement": 20,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -82887,7 +82887,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 39,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82905,7 +82905,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 11,
+    "engagement": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -82919,7 +82919,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82931,70 +82931,6 @@
     "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitabl…",
     "source": "HuggingFace Papers",
     "sourceUrl": "https://huggingface.co/papers/2611.26540",
-    "category": "paper",
-    "publishedAt": "2026-11-18T19:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 3,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
-    },
-    "image": null,
-    "heat": 26,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
-    "fetchedAt": null,
-    "titleZh": null,
-    "tier": 2
-  },
-  {
-    "id": "hf-2611.26211",
-    "title": "SpecWM: Turning Verification into Refinement for Streaming World Models",
-    "summary": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their st…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2611.26211",
-    "category": "paper",
-    "publishedAt": "2026-11-18T19:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 2,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
-    },
-    "image": null,
-    "heat": 24,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
-    "fetchedAt": null,
-    "titleZh": null,
-    "tier": 2
-  },
-  {
-    "id": "hf-2611.26511",
-    "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
-    "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, fr…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2611.26511",
     "category": "paper",
     "publishedAt": "2026-11-18T19:00:00.000Z",
     "tags": [
@@ -83015,7 +82951,71 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
+    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.26211",
+    "title": "SpecWM: Turning Verification into Refinement for Streaming World Models",
+    "summary": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their st…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.26211",
+    "category": "paper",
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 7,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-21T03:15:25.210Z"
+    },
+    "image": null,
+    "heat": 31,
+    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.26511",
+    "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+    "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, fr…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.26511",
+    "category": "paper",
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 6,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-21T03:15:25.210Z"
+    },
+    "image": null,
+    "heat": 29,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83033,7 +83033,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 5,
+    "engagement": 7,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83079,7 +83079,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 33,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83097,7 +83097,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 15,
+    "engagement": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83111,7 +83111,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83143,7 +83143,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83175,7 +83175,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83207,7 +83207,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83225,7 +83225,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 42,
+    "engagement": 43,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83239,7 +83239,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 45,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83257,7 +83257,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 5,
+    "engagement": 7,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83303,7 +83303,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83335,7 +83335,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 38,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83353,7 +83353,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 51,
+    "engagement": 54,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83367,7 +83367,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83385,7 +83385,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 15,
+    "engagement": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83399,7 +83399,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83431,7 +83431,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 40,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83463,7 +83463,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83481,7 +83481,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 37,
+    "engagement": 39,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83495,7 +83495,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 46,
+    "heat": 44,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83527,7 +83527,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83559,7 +83559,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83577,7 +83577,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 1,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83591,7 +83591,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83609,7 +83609,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 31,
+    "engagement": 34,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83623,7 +83623,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 43,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83655,7 +83655,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83673,7 +83673,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 44,
+    "engagement": 46,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83687,7 +83687,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83719,7 +83719,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83737,7 +83737,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 35,
+    "engagement": 39,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83751,7 +83751,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83772,7 +83772,7 @@
       "gguf",
       "TypeScript"
     ],
-    "engagement": 150,
+    "engagement": 147,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -83786,7 +83786,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 28,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83807,7 +83807,7 @@
       "embodied-ai",
       "Python"
     ],
-    "engagement": 26,
+    "engagement": 32,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -83821,7 +83821,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83853,7 +83853,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83885,7 +83885,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83917,7 +83917,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83935,7 +83935,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 9,
+    "engagement": 10,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -83949,7 +83949,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83981,7 +83981,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83999,7 +83999,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 15,
+    "engagement": 16,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84013,7 +84013,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 38,
+    "heat": 35,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84031,7 +84031,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 16,
+    "engagement": 18,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84045,7 +84045,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84063,7 +84063,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 13,
+    "engagement": 14,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84077,7 +84077,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84126,9 +84126,105 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 81,
+    "engagement": 82,
     "aiSelected": true,
     "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-21T03:15:25.210Z"
+    },
+    "image": null,
+    "heat": 27,
+    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.22666",
+    "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+    "summary": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model prop…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.22666",
+    "category": "paper",
+    "publishedAt": "2026-11-16T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 11,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-21T03:15:25.210Z"
+    },
+    "image": null,
+    "heat": 32,
+    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.21885",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.21885",
+    "category": "paper",
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 20,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-21T03:15:25.210Z"
+    },
+    "image": null,
+    "heat": 36,
+    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.21053",
+    "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+    "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.21053",
+    "category": "paper",
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 7,
+    "aiSelected": true,
+    "origin": "hf-papers",
     "aiNote": null,
     "significance": {
       "score": 25,
@@ -84147,102 +84243,6 @@
     "tier": 2
   },
   {
-    "id": "hf-2611.22666",
-    "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
-    "summary": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model prop…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2611.22666",
-    "category": "paper",
-    "publishedAt": "2026-11-16T19:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 10,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
-    },
-    "image": null,
-    "heat": 33,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
-    "fetchedAt": null,
-    "titleZh": null,
-    "tier": 2
-  },
-  {
-    "id": "hf-2611.21885",
-    "title": "Language Models Can Rewrite Their Own Weights",
-    "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2611.21885",
-    "category": "paper",
-    "publishedAt": "2026-11-15T19:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 9,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
-    },
-    "image": null,
-    "heat": 31,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
-    "fetchedAt": null,
-    "titleZh": null,
-    "tier": 2
-  },
-  {
-    "id": "hf-2611.21053",
-    "title": "System 1 agents: a method for local, reliable and fast agentic AI",
-    "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a…",
-    "source": "HuggingFace Papers",
-    "sourceUrl": "https://huggingface.co/papers/2611.21053",
-    "category": "paper",
-    "publishedAt": "2026-11-15T19:00:00.000Z",
-    "tags": [
-      "论文",
-      "arXiv"
-    ],
-    "engagement": 6,
-    "aiSelected": true,
-    "origin": "hf-papers",
-    "aiNote": null,
-    "significance": {
-      "score": 25,
-      "type": "other",
-      "reason": "规则判定（tier2）",
-      "verdict": "daily",
-      "method": "rule",
-      "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
-    },
-    "image": null,
-    "heat": 30,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
-    "fetchedAt": null,
-    "titleZh": null,
-    "tier": 2
-  },
-  {
     "id": "hf-2611.20455",
     "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
     "summary": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o…",
@@ -84254,7 +84254,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 9,
+    "engagement": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84286,7 +84286,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 32,
+    "engagement": 34,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84300,7 +84300,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84318,7 +84318,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 53,
+    "engagement": 57,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84332,7 +84332,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84350,7 +84350,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 5,
+    "engagement": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84364,7 +84364,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 25,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84396,7 +84396,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84414,7 +84414,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 11,
+    "engagement": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -84428,7 +84428,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84460,7 +84460,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84568,7 +84568,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84595,7 +84595,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84622,7 +84622,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84757,7 +84757,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84784,7 +84784,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84811,7 +84811,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84838,7 +84838,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84865,7 +84865,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84892,7 +84892,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84919,7 +84919,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84946,7 +84946,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84973,7 +84973,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85000,7 +85000,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85027,7 +85027,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85054,7 +85054,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85081,7 +85081,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85108,7 +85108,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85135,7 +85135,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85243,7 +85243,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85270,7 +85270,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85297,7 +85297,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85314,7 +85314,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 159,
+    "engagement": 174,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -85328,7 +85328,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85355,7 +85355,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85409,7 +85409,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85440,7 +85440,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85575,7 +85575,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85633,7 +85633,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85668,7 +85668,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85979,6 +85979,2496 @@
     },
     "heat": 30,
     "firstSeen": "2026-11-22T02:17:15.126Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:infoq-25123ed1bb",
+    "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-23T09:20:56.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "funding",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-5a13500f32",
+    "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
+    "summary": "IT之家 11 月 23 日消息，据科技媒体 Appleinsider 昨天报道，苹果与谷歌达成的搜索合作协议，带来的收益已不如从前。如今用户的搜索习惯已经改变，导致市场格局生变。 据报道，苹果与谷歌早已就 Safari 默认搜索引擎达成合作关系。谷歌每年向苹果支付 200 亿美元 （IT之家注：现汇率约合 1,336.27 亿元人民币） ，让 iPhone…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/030/783.htm",
+    "category": "industry",
+    "publishedAt": "2026-11-23T02:44:11.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-6502829fb6",
+    "title": "特斯拉 AI4.5 芯片有望明年推出，马斯克称内存太贵、从 32GB 降到 24GB",
+    "summary": "IT之家 11 月 23 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文回复博主 Sawyer Merritt， 升级版 AI4.5 芯片的性能提升较小，主要是将内存升级到 LPDDR5X 。 马斯克表示 AI5 芯片将专属于特斯拉 Optimus 机器人，汽车将继续使用 AI4。Sawyer Merritt 则表示， AI4.5 芯片有望在明…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/030/780.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-11-23T02:31:23.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/11/160e4623-820c-4efa-bb07-72f8d5a7aaed.jpg",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-37d42770b1",
+    "title": "高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场",
+    "summary": "IT之家 11 月 23 日消息，据科技媒体 Wccftech 昨天报道，高通多年来意在摆脱过度依赖智能手机的刻板印象，毕竟在 DRAM 飞速涨价的今天，手机芯片业务面临着较大压力。最新行业数据表明，该公司规模最大的多元化布局正在提前取得成效。 根据最新分析，高通汽车芯片业务年收入已达到 80 亿美元 （IT之家注：现汇率约合 534.51 亿元人民币） ，…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/030/776.htm",
+    "category": "industry",
+    "publishedAt": "2026-11-23T02:22:13.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/11/01136d55-a733-4e57-a249-11273bf64d6e.png",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-1c9b65aa31",
+    "title": "韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机",
+    "summary": "IT之家 11 月 23 日消息，据韩媒报道，韩国第 28 届警卫指导师考试前日开考。据考生所述，本次考试加强了作弊防范力度，去年只要求将手机和手表放在包里，今年全部收走。 考场还要求考生穿上餐馆使用的一次性围裙 ，各处都悬挂着禁止作弊的标语。 受韩国一税务师榜首考生自曝使用 AI 作弊影响，韩国 753 种国家资格考试开始加强反作弊措施。尽管此前已宣布严格…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/030/770.htm",
+    "category": "industry",
+    "publishedAt": "2026-11-23T02:02:34.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/11/c5782bd6-887c-454d-806f-98ad593ad86f.png",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-b84bdc4601",
+    "title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+    "summary": "IT之家 11 月 23 日消息，今日，发改委等四部门印发《“一老一小”服务体系建设实施方案》。 其中提到，支持养老、托育机构应用智能管理服务、智慧消防安防等系统，提升管理水平。推动养老机构配置智能健康监测、辅助器具等设备。 鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品 ，支持在养老机构、社区等场景应用或设置体验区。鼓励有条件的…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/030/769.htm",
+    "category": "industry",
+    "publishedAt": "2026-11-23T02:01:37.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:techcrunch-ai-04504f1c47",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "category": "industry",
+    "publishedAt": "2026-11-23T01:25:53.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:sspai-74f5d6da81",
+    "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+    "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+    "source": "少数派",
+    "sourceUrl": "https://sspai.com/post/119418",
+    "category": "ai-models",
+    "publishedAt": "2026-11-22T23:34:27.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:sspai",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-ba1776dd95",
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "category": "industry",
+    "publishedAt": "2026-11-22T23:12:10Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 165,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:theverge-ai-e709020021",
+    "title": "We haven’t seen the last of the major tech outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chas…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "category": "industry",
+    "publishedAt": "2026-11-22T22:48:02.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:techcrunch-ai-716c53fa8f",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "category": "tip",
+    "publishedAt": "2026-11-22T21:14:07.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-5c8ba62578",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "category": "tip",
+    "publishedAt": "2026-11-22T21:01:16Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 271,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 44,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:marktechpost-fac1fd6dfa",
+    "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+    "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-tr…",
+    "source": "MarkTechPost",
+    "sourceUrl": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+    "category": "paper",
+    "publishedAt": "2026-11-22T18:37:57.000Z",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "aiSelected": true,
+    "origin": "rss:marktechpost",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:techcrunch-ai-74f939e081",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T18:08:43.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-de4d0b1a23",
+    "title": "Harvard CS 2881R AI Safety",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://boazbk.github.io/mltheoryseminar/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T18:01:54Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 48,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 27,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-3ca86cc40d",
+    "title": "财务团队的 AI 蓝图",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-22T17:54:58.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:infoq-d0e67fc25e",
+    "title": "打造 AI 优先的销售与营销运营体系",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-22T17:41:49.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:infoq-5eedbe9e5d",
+    "title": "智能体企业新前沿：驱动高效智能",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-22T17:38:28.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:theverge-ai-265c68ec3a",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "category": "industry",
+    "publishedAt": "2026-11-22T17:25:20.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-7cda752582",
+    "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+    "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on th…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T15:15:48.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-7bb6862f62",
+    "title": "Perplexity&#039;s new Monitor API turns web search from a one-off query into a nonstop watchdog",
+    "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimpor…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+    "category": "ai-products",
+    "publishedAt": "2026-11-22T14:20:28.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/Perplexity-Logo-Silhouette-Nano-Banana-Pro.jpg",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-db49a7dfd4",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/gulivan/worker755",
+    "category": "industry",
+    "publishedAt": "2026-11-22T13:56:58Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 279,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 44,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-5f8d980aa0",
+    "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+    "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acc…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T13:00:43.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:theverge-ai-0f50037c76",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arriv…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "category": "industry",
+    "publishedAt": "2026-11-22T13:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-3d7e58b79f",
+    "title": "AI is becoming a disaster for the climate",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+    "category": "industry",
+    "publishedAt": "2026-11-22T12:19:46Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 108,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 35,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-08ae7c88a3",
+    "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+    "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds o…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T12:07:56.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-fa9fd258db",
+    "title": "Lean and Mathlib community officially confirms Levent Alpöge&#039;s proof of the Riemann hypothesis is correct",
+    "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T11:08:31.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:wired-ai-31c3365412",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+    "aiSelected": true,
+    "origin": "rss:wired-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:marktechpost-3e3659d6d4",
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in…",
+    "source": "MarkTechPost",
+    "sourceUrl": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+    "category": "paper",
+    "publishedAt": "2026-11-22T10:36:17.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:marktechpost",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:marktechpost-c907589fe7",
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+    "summary": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API reque…",
+    "source": "MarkTechPost",
+    "sourceUrl": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "category": "ai-models",
+    "publishedAt": "2026-11-22T10:03:54.000Z",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+    "aiSelected": true,
+    "origin": "rss:marktechpost",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "model-release",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-c4e40287f1",
+    "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+    "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T09:41:37.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-766e193adc",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T08:57:34Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 903,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 51,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-5a5efc229d",
+    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+    "summary": "用葡萄糖发电控制血糖。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511904.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-22T06:21:47.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-d1f67c5edc",
+    "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511870.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-22T06:03:54.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:jiqizhixin-7efa8efa4a",
+    "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
+    "summary": "一次前向推理，同时预测物体位姿、尺寸与完整三维形状。",
+    "source": "机器之心",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075704&idx=2&sn=3b3303aa11937d51386964ec70bf1eff",
+    "category": "ai-products",
+    "publishedAt": "2026-11-22T05:21:00.000Z",
+    "image": "https://wechat2rss.xlab.app/img-proxy/?k=08506e77&amp;u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2F5L8bhP5dIqER0HCibWvIsKW9FwLqq8dOsLVZd7C35hnGjRSuaOjV2bRDoLhLBGRib1jd2fDIkGQSunISbUFWrIe95GOqHIicOmVBg4MV3LNQHM%2F0%3Fwx_fmt%3Djpeg",
+    "aiSelected": true,
+    "origin": "rss:jiqizhixin",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "capability",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-960c393571",
+    "title": "AI Supply Chain Security: What Canary Tokens Found",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "category": "industry",
+    "publishedAt": "2026-11-22T05:11:43Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 101,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 34,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-d9ae042821",
+    "title": "Together.ai: Prompt Leakage for Requests",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+    "category": "industry",
+    "publishedAt": "2026-11-22T03:07:27Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 48,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 26,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-c0ded9a985",
+    "title": "The Mythology of Conscious AI",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "category": "industry",
+    "publishedAt": "2026-11-22T02:10:02Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 170,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 39,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:openai-de5cd1a6d5",
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+    "category": "ai-models",
+    "publishedAt": "2026-11-22T00:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:openai",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 52,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "hn-2ec2a78e4a",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.pandex.io",
+    "category": "industry",
+    "publishedAt": "2026-11-21T20:47:41Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 139,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 36,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-christinesoft17-claude-desktop-app-win",
+    "title": "christinesoft17/claude-desktop-app-win",
+    "summary": "Anthropic Claude Desktop App - AI assistant application for conversational interaction, document analysis and task automation on Windows 10/11",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/christinesoft17/claude-desktop-app-win",
+    "category": "ai-products",
+    "publishedAt": "2026-11-21T15:49:48Z",
+    "tags": [
+      "agents",
+      "avalonia",
+      "browser-automation",
+      "claude"
+    ],
+    "engagement": 366,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 36,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-0256f71b45",
+    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511855.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-21T14:14:09.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-e01ed0ee19",
+    "title": "中国计算，走出新的登峰之路",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511849.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-21T14:09:59.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-7f1a3b20b9",
+    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511841.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-21T11:40:11.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-ab3cbf28ed",
+    "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511830.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-21T11:34:18.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-e6d6279bda",
+    "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/511791.html",
+    "category": "ai-models",
+    "publishedAt": "2026-11-21T11:24:29.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "opensource",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "gh-redroman-omni-h3",
+    "title": "RedRoman/Omni-H3",
+    "summary": "Omni-H3: Unifying Blind All-in-One Image Restoration in Frozen Foundation Models via Constrained Posterior Projection",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/RedRoman/Omni-H3",
+    "category": "ai-products",
+    "publishedAt": "2026-11-20T11:07:03Z",
+    "tags": [
+      "all-in-one-image-restoration",
+      "computer-vision",
+      "diffusion-models",
+      "image-restoration",
+      "Python"
+    ],
+    "engagement": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 23,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "arxiv-2611.27206v1",
+    "title": "LingSante-Pulse: Unified Physiological Pretraining through Random-Feature Prediction and Cross-Modal Alignment",
+    "summary": "Clinical monitoring and wearable devices capture complementary physiological signals, but their partially overlapping modality coverage makes within-signal information and cross-modal relationships di…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27206v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:45:57.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27203v1",
+    "title": "Improved Accuracy Scaling with Problem Complexity in LLM Arithmetic Reasoning Using Executable Symbolic Representations",
+    "summary": "High accuracy on mathematical benchmarks does not establish whether reasoning remains reliable as problem complexity increases. We examine how executable symbolic representations change accuracy scali…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27203v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:43:42.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27201v1",
+    "title": "Backbone-Specific LoRA Geometry: Orthogonality, Superposition, and Provenance",
+    "summary": "Sharing one low-rank adaptation (LoRA) update across pretrained models simplifies deployment. Composition methods typically combine updates from a common backbone, while cross-model transfer transform…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27201v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:37:10.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27198v1",
+    "title": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
+    "summary": "State-of-the-art multimodal sentiment analysis (MSA) models rely on large pretrained encoders, yet typically process every modality to its full depth, regardless of its computational cost or predictiv…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27198v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:33:07.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27196v1",
+    "title": "EDAGoat: An EDA-Aware Agent for Project-Level GPU Optimization",
+    "summary": "GPU acceleration has transformed electronic design automation (EDA), yet further improving expert-engineered GPU tools still demands substantial manual effort. Automating this work calls for coding ag…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27196v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:31:08.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27193v1",
+    "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "summary": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polyto…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27193v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:26:11.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27192v1",
+    "title": "How Much of a Calculation-Error Rate Is Not Arithmetic: Auditing the FinReason Cup 2026 Task 3 Metric with a Deterministic Rule System",
+    "summary": "Task 3 of the FinReason Cup 2026 scores a system on two values per case, the one an XBRL filing reports and the one its own calculation relationships imply, and labels each failure as structural, extr…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27192v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:24:55.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27191v1",
+    "title": "Lift Out, Kick In: Decoupling Event Effects for Time Series Forecasting",
+    "summary": "Real-world time series are often shaped by exogenous events whose effects are superimposed on the system's underlying temporal dynamics. Historical observations therefore entangle persistent dynamics…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27191v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:24:06.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27189v1",
+    "title": "A Frugal AI Framework for India: Responsible and Right-sized AI",
+    "summary": "India's AI debate often swings between two insufficient options: replicating the compute-intensive, capital-heavy foundation-model programmes of the United States or China, or remaining a downstream a…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27189v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:21:57.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27186v1",
+    "title": "What Does Matching a Human Intervention Effect Establish? Benchmark Checks for LLM Simulations",
+    "summary": "LLM simulations are validated by equivalence with human effects, yet a zero reference passes whenever the human 90 percent interval lies inside the margin, as the human benchmark shows before simulati…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27186v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:18:57.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27183v1",
+    "title": "GEG-SAM: Gaze Exploration-Guided Segment Anything Model for Weakly Supervised Polyp Segmentation",
+    "summary": "Endoscopist gaze offers an unobtrusively acquired record of lesion-oriented visual exploration during routine clinical inspection, providing relevant supervision for tasks. However, existing methods t…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27183v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:15:49.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "funding",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27180v1",
+    "title": "Learning Adaptive Defense Strategies: Fine-Tuned LLMs for Network Security Games under Network Mobility",
+    "summary": "Large language models(LLM) show promise for strategic reasoning, yet their ability to compute game-theoretic equilibria under dynamic conditions remains largely unexplored. This work investigates whet…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27180v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:10:59.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27175v1",
+    "title": "Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data",
+    "summary": "Fully Homomorphic Encryption (FHE) enables non-interactive, privacy-preserving transformer fine-tuning, protecting highly sensitive data as inputs to large language models. Prior work has predominantl…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27175v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T06:02:35.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27170v1",
+    "title": "FedQCal: Quadratic Programming with Dual-Space Calibration for One-Shot Federated Learning",
+    "summary": "One-shot federated learning must combine heterogeneous client models after a single upload. Different local class distributions make it difficult to decide which client updates to retain. We propose F…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27170v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:57:10.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27167v1",
+    "title": "BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers",
+    "summary": "Hyperbolic neural networks excel on hierarchical graph data, yet existing hyperbolic Transformers largely adapt conventional attention without explicitly exploiting the ideal boundary, a geometric str…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27167v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:53:38.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27162v1",
+    "title": "Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation",
+    "summary": "Predicting holo-like protein conformations from apo structures is essential in structure-based drug design. Most existing apo-to-holo models operate in Cartesian space and achieve strong global accura…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27162v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:47:46.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27159v1",
+    "title": "From Acting to Learning: Experience Selection toward Continually Learning Agents",
+    "summary": "Successful agent interactions provide training data, but success alone does not determine which records a student should learn from. We examine experience selection for a 4B language agent as a compon…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27159v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:45:48.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27158v1",
+    "title": "FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation",
+    "summary": "Foundation models have advanced SAR image interpretation but created a heterogeneous, fragmented model ecosystem. Existing models differ substantially in their input, training data, objectives, archit…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27158v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:44:24.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27156v1",
+    "title": "Co-Evolving Behavioral Agents and Detectors for Adaptive Information Operations",
+    "summary": "Detectors of state-sponsored information operations (IOs) are trained on campaigns that platforms have already taken down. They lose much of their accuracy on an actor they have not seen, even though…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27156v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:41:17.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "arxiv-2611.27155v1",
+    "title": "The Vulnerability Window: Decision Instability in Quantized Reward Models",
+    "summary": "Reward models and LLM judges are routinely quantized to 4 bits so that scoring many candidates stays affordable, and the usual check is that benchmark accuracy barely moves. That check is close to bli…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.27155v1",
+    "category": "paper",
+    "publishedAt": "2026-11-20T05:39:34.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 90,
+      "type": "capability",
+      "reason": "规则判定（tier1 + 关键词 + 热度前10%）",
+      "verdict": "milestone",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "gh-ink-q-agy-fast",
+    "title": "INK-Q/agy-fast",
+    "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affec…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/INK-Q/agy-fast",
+    "category": "ai-products",
+    "publishedAt": "2026-11-19T04:58:46Z",
+    "tags": [
+      "ai-agent",
+      "ai-coding",
+      "antigravity",
+      "antigravity-cli",
+      "TypeScript"
+    ],
+    "engagement": 566,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 40,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-win4r-runwright",
+    "title": "win4r/runwright",
+    "summary": "Self-hosted runtime for LLM agents: crash-safe durable runs, approvals and spend caps, checked learning, and typed workflows. One SQLite file, zero runtime depe…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/win4r/runwright",
+    "category": "ai-products",
+    "publishedAt": "2026-11-17T05:45:08Z",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "anthropic",
+      "durable-execution",
+      "TypeScript"
+    ],
+    "engagement": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 21,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.22343",
+    "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+    "summary": "Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.22343",
+    "category": "paper",
+    "publishedAt": "2026-11-16T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 21,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-domush-antigravity-plugin-context-mode",
+    "title": "Domush/antigravity-plugin-context-mode",
+    "summary": "Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. I…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Domush/antigravity-plugin-context-mode",
+    "category": "ai-products",
+    "publishedAt": "2026-11-14T19:48:07Z",
+    "tags": [
+      "agy",
+      "agy-plugin",
+      "agy-skill",
+      "antigravity",
+      "JavaScript"
+    ],
+    "engagement": 125,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 24,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-tonephorepair-ai-manus2-0",
+    "title": "Tonephorepair/ai--manus2.0",
+    "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Tonephorepair/ai--manus2.0",
+    "category": "ai-products",
+    "publishedAt": "2026-11-14T19:25:15Z",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic"
+    ],
+    "engagement": 365,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 28,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-xinatian-mroffice",
+    "title": "XinaTian/MROffice",
+    "summary": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Cop…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/XinaTian/MROffice",
+    "category": "ai-products",
+    "publishedAt": "2026-11-10T17:54:07Z",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "TypeScript"
+    ],
+    "engagement": 2228,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 35,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-yeyinglab-wizard",
+    "title": "YeyingLab/Wizard",
+    "summary": "[arXiv 2026] Wizard: Manipulate Any World in Real Time via Agentic Control",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/YeyingLab/Wizard",
+    "category": "ai-products",
+    "publishedAt": "2026-11-01T15:39:58Z",
+    "tags": [
+      "agents",
+      "diffusion-models",
+      "game-generation",
+      "real-time",
+      "Python"
+    ],
+    "engagement": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 15,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:meta-ai-79e1d5c216",
+    "title": "Meta Business Agent: AI customer support | AI at Meta",
+    "summary": "Meta Business Agent: AI customer support | AI at Meta AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PNzlKN09rRGo1UzFTb195NjM2ZmRJbWJtQkJLazFoNFlaN0pHM3FSZFU3MjViQnI4Wk45T1lyZVZEM19CeHBIeFZBdkM2eThJeXc?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-11-01T09:11:04.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 33,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-9261237943",
+    "title": "Request a demo of Meta Business Agent & stay up to date",
+    "summary": "Request a demo of Meta Business Agent & stay up to date AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eElQLWM1MS1uTFhWdTZZNV9LQk43dTJmWE16M3AxbjAxUlZtMGkxY0tXVzM1dFBHOGdOVlFEYzMyUE8wUEo0T3p2VWt4VFppbEwxaDBlR3lpT2pLYWlZ?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-10-27T06:51:21.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 32,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "hn-9e5726920c",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "summary": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African…",
+    "source": "Hacker News",
+    "sourceUrl": "https://huggingface.co/destined/hurston-1",
+    "category": "industry",
+    "publishedAt": "2026-10-25T01:30:13Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 68,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 18,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-9082628811",
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+    "source": "Hacker News",
+    "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "category": "industry",
+    "publishedAt": "2026-10-23T16:59:08Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 1096,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "opensource",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "image": null,
+    "heat": 31,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:meta-ai-f61aef9999",
+    "title": "AI agents explained: What they are and how they work",
+    "summary": "AI agents explained: What they are and how they work AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ld1JocDN4VjZSeWFmVFJSek1kUFRlaTV3aU1FU20yemxQbUphLVJIbkhRVjhEaVBTY3NwY1M3OC01MktMR1lUU3kwVThXcmNBNWFMMXIzbw?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:anthropic-b53f06c277",
+    "title": "Formalizing Fermat's Last Theorem",
+    "summary": "Formalizing Fermat's Last Theorem Anthropic",
+    "source": "Anthropic",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-09-04T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:anthropic",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:anthropic-95a653850d",
+    "title": "The Riemann zeta function",
+    "summary": "The Riemann zeta function Anthropic",
+    "source": "Anthropic",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-08-10T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:anthropic",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-3fc4c921e1",
+    "title": "AIRA₂: Overcoming Bottlenecks in AI Research Agents",
+    "summary": "AIRA₂: Overcoming Bottlenecks in AI Research Agents AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpmaklESXlJNGszTk0wMWxkdkFXeFVCYlBnWnVHY0dXM3B4X3gwODlZZjFpM3lzYkZ5M2FEM3hmbjBCOUpPZFpmTDZkazJBaktDdHM1QUhQRm5yN2d3WGh6MkRKYmE4bU8zZGd0OFNxQ0dydWVrQlBDdEctOHpJYk5HUF9iTF8wX1BfUDFhVVV1TjV1a1dj?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-04-16T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:anthropic-b9a501b5b2",
+    "title": "Code execution with MCP for efficient agents",
+    "summary": "Code execution with MCP for efficient agents Anthropic",
+    "source": "Anthropic",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mdERMSE1GS1ZjU056TnlQY2M5ODlVY1pEbkFrc00wM0lObkdmM1NMcTI4UnNfTDkwTmxZSHRpNlpHLUZiWmZXc2x5Nk1nNkMtTXo3dzJITkVMSVhCMmRZMU9zdzdUNFdYd2c?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2025-11-04T08:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:anthropic",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:meta-ai-b375fb5543",
+    "title": "Publications",
+    "summary": "Publications AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EdGlCWnc5LWQ5ZWhieFRSYXl5Y1NEQXN4dnFWZl9GdEl5RjA3eHY3ZXRSMW1ZMGVzSFluXzgzRUktUWhQRTVKMVh3cFdFckhlTkR3dFNoVlBqVUZtQmZaazViZlVndXhR?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2025-09-06T01:15:05.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:anthropic-4117b08314",
+    "title": "Contextual retrieval in AI systems",
+    "summary": "Contextual retrieval in AI systems Anthropic",
+    "source": "Anthropic",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVzlJaUJlak9FUTNnN1B1ZTQtazBsT2NhU3VBSERRRDFKTjRTT1NPRG9uVXZnU0s4eElRT3FnZmh2NUZKakNSZjNVZi1fNmlUWWRoclp1QTlKZzJGd2VkLV9nODQ0QQ?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2024-09-19T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:anthropic",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-23T02:50:55.354Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
