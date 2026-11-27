@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-11-26T04:11:25.124Z",
-  "count": 788,
+  "fetchedAt": "2026-11-27T04:17:57.397Z",
+  "count": 805,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 124,
+    "hackernews": 126,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 10,
-    "rss:nvidia": 12,
+    "rss:nvidia": 11,
     "rss:hf-blog": 20,
     "rss:mistral": 20,
     "rss:cohere": 0,
@@ -24,7 +24,7 @@
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
     "rss:venturebeat-ai": 0,
-    "rss:arstechnica-ai": 0,
+    "rss:arstechnica-ai": 20,
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
@@ -32,7 +32,7 @@
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 9,
+    "rss:simonwillison": 10,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -46,13 +46,12 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 14,
     "rss:36kr": 0,
-    "rss:infoq": 15,
-    "rss:sspai": 3,
-    "rss:ithome": 5,
+    "rss:infoq": 8,
+    "rss:sspai": 5,
+    "rss:ithome": 6,
     "arxiv": 20
   },
   "errors": {
-    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:arstechnica-ai": "This operation was aborted"
+    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/"
   }
 }
