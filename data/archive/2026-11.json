@@ -928,7 +928,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -1167,7 +1167,7 @@
       "model": null,
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -1475,10 +1475,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1556,10 +1556,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-19T03:34:31.864Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-19T03:34:31.864Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -1837,7 +1837,7 @@
   {
     "id": "rss:anthropic-af23c4bb52",
     "title": "Anthropic Residency: applications open for established technical leaders",
-    "summary": "Anthropic Residency: applications open for established technical leaders Anthropic Alignment Science blog",
+    "summary": "Anthropic Residency: applications open for established technical leaders Anthropic Alignment Science Blog",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
     "category": "ai-models",
@@ -1853,10 +1853,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-26T04:11:23.562Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 32,
-    "firstSeen": "2026-11-26T04:11:23.562Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -2523,7 +2523,7 @@
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -3087,7 +3087,7 @@
       "model": null,
       "scoredAt": "2026-11-02T22:55:22.209Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-02T22:55:22.209Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -7370,7 +7370,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -7451,7 +7451,7 @@
       "model": null,
       "scoredAt": "2026-11-03T22:58:41.939Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-03T22:58:41.939Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -9512,7 +9512,7 @@
       "model": null,
       "scoredAt": "2026-11-03T22:58:41.939Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-03T22:58:41.939Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -12278,10 +12278,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-09T01:45:31.687Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-09T01:45:31.687Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -12305,10 +12305,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -12386,10 +12386,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -12413,10 +12413,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -12467,10 +12467,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -12494,10 +12494,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -16077,7 +16077,7 @@
       "scoredAt": "2026-11-05T02:30:49.553Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-05T02:30:49.553Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -17315,7 +17315,7 @@
       "homelab",
       "JavaScript"
     ],
-    "engagement": 139,
+    "engagement": 141,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -17329,7 +17329,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -19128,7 +19128,7 @@
       "scoredAt": "2026-11-06T02:30:40.141Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-11-06T02:30:40.141Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -22194,7 +22194,7 @@
       "bot",
       "TypeScript"
     ],
-    "engagement": 924,
+    "engagement": 932,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -22613,7 +22613,7 @@
       "autonomous-agents",
       "Python"
     ],
-    "engagement": 2667,
+    "engagement": 2683,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -26825,7 +26825,7 @@
       "ai-engineering",
       "JavaScript"
     ],
-    "engagement": 225,
+    "engagement": 227,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -27816,7 +27816,7 @@
       "ai-proxy",
       "Go"
     ],
-    "engagement": 277,
+    "engagement": 279,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -28582,7 +28582,7 @@
       "llm",
       "HTML"
     ],
-    "engagement": 2346,
+    "engagement": 2376,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -28617,7 +28617,7 @@
       "llm-as-judge",
       "Python"
     ],
-    "engagement": 504,
+    "engagement": 505,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -30133,7 +30133,7 @@
       "ffmpeg",
       "JavaScript"
     ],
-    "engagement": 778,
+    "engagement": 789,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -30234,10 +30234,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -31389,7 +31389,7 @@
       "scoredAt": "2026-11-10T04:09:28.438Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-10T04:09:28.438Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -35232,7 +35232,7 @@
       "ai-agents",
       "Python"
     ],
-    "engagement": 561,
+    "engagement": 562,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35299,7 +35299,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 633,
+    "engagement": 635,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35469,10 +35469,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-20T03:24:00.078Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
-    "heat": 32,
-    "firstSeen": "2026-11-20T03:24:00.078Z",
+    "heat": 31,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -35550,10 +35550,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-23T02:50:55.354Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-23T02:50:55.354Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -36505,7 +36505,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -36841,7 +36841,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -37030,7 +37030,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38427,7 +38427,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38566,7 +38566,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -38674,7 +38674,7 @@
       "model": null,
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -40445,7 +40445,7 @@
       "scoredAt": "2026-11-11T01:57:58.365Z"
     },
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-11-11T01:57:58.365Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -40562,7 +40562,7 @@
       "llm",
       "Python"
     ],
-    "engagement": 1664,
+    "engagement": 1663,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -42007,7 +42007,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42366,7 +42366,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42478,7 +42478,7 @@
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -42613,7 +42613,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -43547,7 +43547,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44391,7 +44391,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44418,7 +44418,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -44445,7 +44445,7 @@
       "model": null,
       "scoredAt": "2026-11-12T03:04:56.173Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-12T03:04:56.173Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -45042,7 +45042,7 @@
       "image-generation",
       "Python"
     ],
-    "engagement": 473,
+    "engagement": 478,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -45429,7 +45429,7 @@
       "claude-code",
       "TypeScript"
     ],
-    "engagement": 191,
+    "engagement": 185,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -45624,7 +45624,7 @@
       "dsh",
       "JavaScript"
     ],
-    "engagement": 961,
+    "engagement": 986,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -46943,7 +46943,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47217,7 +47217,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -47414,7 +47414,7 @@
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -48907,7 +48907,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49015,7 +49015,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -49042,7 +49042,7 @@
       "model": null,
       "scoredAt": "2026-11-13T02:39:34.728Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-13T02:39:34.728Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -50020,7 +50020,7 @@
       "chat",
       "TypeScript"
     ],
-    "engagement": 2072,
+    "engagement": 2085,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50412,11 +50412,11 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-13T02:39:34.728Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "image": null,
     "heat": 19,
-    "firstSeen": "2026-11-13T02:39:34.728Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
@@ -51656,7 +51656,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -52762,7 +52762,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -53071,7 +53071,7 @@
       "model": null,
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55124,7 +55124,7 @@
       "ios",
       "Go"
     ],
-    "engagement": 2815,
+    "engagement": 2843,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55138,7 +55138,7 @@
       "scoredAt": "2026-11-14T02:29:23.892Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 33,
     "firstSeen": "2026-11-14T02:29:23.892Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55569,10 +55569,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -55886,7 +55886,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55920,7 +55920,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -55954,7 +55954,7 @@
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56124,7 +56124,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56158,7 +56158,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56216,7 +56216,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56440,7 +56440,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -56529,7 +56529,7 @@
       "scoredAt": "2026-11-15T01:57:37.580Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-15T01:57:37.580Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57206,11 +57206,11 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-21T03:15:25.210Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "image": null,
     "heat": 18,
-    "firstSeen": "2026-11-21T03:15:25.210Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
@@ -57288,10 +57288,10 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-18T03:43:51.188Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "heat": 30,
-    "firstSeen": "2026-11-18T03:43:51.188Z",
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 1
@@ -57734,7 +57734,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57769,7 +57769,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57804,7 +57804,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57825,7 +57825,7 @@
       "chatgpt",
       "Makefile"
     ],
-    "engagement": 464,
+    "engagement": 451,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57836,11 +57836,11 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-24T06:06:51.367Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "image": null,
-    "heat": 32,
-    "firstSeen": "2026-11-24T06:06:51.367Z",
+    "heat": 30,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
@@ -57874,7 +57874,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57895,7 +57895,7 @@
       "chatgpt",
       "Makefile"
     ],
-    "engagement": 452,
+    "engagement": 453,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57909,7 +57909,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57944,7 +57944,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -57979,7 +57979,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58180,7 +58180,7 @@
       "model": null,
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58430,7 +58430,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -58464,7 +58464,7 @@
       "scoredAt": "2026-11-16T02:12:46.537Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-16T02:12:46.537Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59320,7 +59320,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59486,7 +59486,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -59976,7 +59976,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60273,7 +60273,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60300,7 +60300,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60327,7 +60327,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60354,7 +60354,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60381,7 +60381,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -60902,7 +60902,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61720,7 +61720,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61755,7 +61755,7 @@
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -61806,7 +61806,7 @@
       "worktrees",
       "Rust"
     ],
-    "engagement": 303,
+    "engagement": 314,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63521,7 +63521,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -63548,7 +63548,7 @@
       "model": null,
       "scoredAt": "2026-11-17T04:33:15.070Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-17T04:33:15.070Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -63729,7 +63729,7 @@
       "knowledge-graph",
       "Cypher"
     ],
-    "engagement": 137,
+    "engagement": 138,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63743,7 +63743,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -64878,7 +64878,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -64905,7 +64905,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65538,7 +65538,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65619,7 +65619,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65646,7 +65646,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -65943,7 +65943,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66078,7 +66078,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66190,7 +66190,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66244,7 +66244,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66495,7 +66495,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -66549,7 +66549,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67443,7 +67443,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -67578,7 +67578,7 @@
       "model": null,
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -68593,7 +68593,7 @@
       "scoredAt": "2026-11-18T03:43:51.188Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-18T03:43:51.188Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69652,7 +69652,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 30,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -69710,7 +69710,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70200,7 +70200,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70258,7 +70258,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70474,7 +70474,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70609,7 +70609,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70690,7 +70690,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70771,7 +70771,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70933,7 +70933,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -70960,7 +70960,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71122,7 +71122,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71180,7 +71180,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71435,7 +71435,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71516,7 +71516,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71651,7 +71651,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -71979,7 +71979,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72006,7 +72006,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72033,7 +72033,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72114,7 +72114,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72141,7 +72141,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72481,7 +72481,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -72934,7 +72934,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73089,7 +73089,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73263,7 +73263,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73290,7 +73290,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73408,7 +73408,7 @@
       "model": null,
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -73439,7 +73439,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74036,7 +74036,7 @@
       "inference",
       "Python"
     ],
-    "engagement": 2830,
+    "engagement": 2886,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -74081,7 +74081,7 @@
       "scoredAt": "2026-11-19T03:34:31.864Z"
     },
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-11-19T03:34:31.864Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -74372,7 +74372,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75175,7 +75175,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75202,7 +75202,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75229,7 +75229,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75260,7 +75260,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75287,7 +75287,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75399,7 +75399,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75426,7 +75426,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75453,7 +75453,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75615,7 +75615,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75642,7 +75642,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75750,7 +75750,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75831,7 +75831,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75858,7 +75858,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75939,7 +75939,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75970,7 +75970,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -75997,7 +75997,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76186,7 +76186,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76342,7 +76342,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1146,
+    "engagement": 1147,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -76356,7 +76356,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 40,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76383,7 +76383,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76410,7 +76410,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76611,7 +76611,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -76974,7 +76974,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77055,7 +77055,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77495,7 +77495,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -77522,7 +77522,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78362,7 +78362,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78389,7 +78389,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78416,7 +78416,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78443,7 +78443,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -78470,7 +78470,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -79614,7 +79614,7 @@
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 20,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -79927,7 +79927,7 @@
       "model": null,
       "scoredAt": "2026-11-20T03:24:00.078Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-20T03:24:00.078Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80012,7 +80012,7 @@
       "claude-code",
       "Swift"
     ],
-    "engagement": 2154,
+    "engagement": 2200,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -80314,7 +80314,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80341,7 +80341,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80368,7 +80368,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80422,7 +80422,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80449,7 +80449,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80476,7 +80476,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80503,7 +80503,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80534,7 +80534,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80561,7 +80561,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80588,7 +80588,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80615,7 +80615,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80642,7 +80642,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80696,7 +80696,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80754,7 +80754,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -80970,7 +80970,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81024,7 +81024,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81167,7 +81167,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 32,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81306,7 +81306,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81547,7 +81547,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 531,
+    "engagement": 532,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -81561,7 +81561,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81785,7 +81785,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -81897,7 +81897,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82032,7 +82032,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82059,7 +82059,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82086,7 +82086,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82113,7 +82113,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -82140,7 +82140,7 @@
       "model": null,
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83772,7 +83772,7 @@
       "gguf",
       "TypeScript"
     ],
-    "engagement": 200,
+    "engagement": 159,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -83786,7 +83786,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 25,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -83821,7 +83821,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84140,7 +84140,7 @@
       "scoredAt": "2026-11-21T03:15:25.210Z"
     },
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-21T03:15:25.210Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84595,7 +84595,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -84757,7 +84757,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85355,7 +85355,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85575,7 +85575,7 @@
       "model": null,
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -85668,7 +85668,7 @@
       "scoredAt": "2026-11-22T02:17:15.126Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-22T02:17:15.126Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -86224,7 +86224,7 @@
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -86865,7 +86865,7 @@
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 42,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -87066,7 +87066,7 @@
       "model": null,
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -87301,7 +87301,7 @@
       "scoredAt": "2026-11-23T02:50:55.354Z"
     },
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-11-23T02:50:55.354Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -87942,7 +87942,7 @@
       "antigravity-cli",
       "TypeScript"
     ],
-    "engagement": 1758,
+    "engagement": 2013,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -88044,7 +88044,7 @@
       "antigravity",
       "JavaScript"
     ],
-    "engagement": 150,
+    "engagement": 152,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -88113,7 +88113,7 @@
       "codex",
       "TypeScript"
     ],
-    "engagement": 4618,
+    "engagement": 5123,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -88148,7 +88148,7 @@
       "real-time",
       "Python"
     ],
-    "engagement": 8,
+    "engagement": 9,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -88162,7 +88162,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -88656,7 +88656,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -88791,7 +88791,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89007,7 +89007,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89034,7 +89034,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89119,7 +89119,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 38,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89227,7 +89227,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89281,7 +89281,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89308,7 +89308,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89335,7 +89335,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89433,7 +89433,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 90,
+    "engagement": 91,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -89447,7 +89447,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89663,7 +89663,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89852,7 +89852,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89879,7 +89879,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89906,7 +89906,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -89964,7 +89964,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 24,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90018,7 +90018,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90045,7 +90045,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90207,7 +90207,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90342,7 +90342,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90423,7 +90423,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90494,7 +90494,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 195,
+    "engagement": 196,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -90508,7 +90508,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90620,7 +90620,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 35,
+    "heat": 33,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90728,7 +90728,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -90786,7 +90786,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91541,7 +91541,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91568,7 +91568,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91680,7 +91680,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91707,7 +91707,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91734,7 +91734,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -91761,7 +91761,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -92207,7 +92207,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -92298,7 +92298,7 @@
       "model": null,
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -92831,7 +92831,7 @@
       "image-generation",
       "Python"
     ],
-    "engagement": 45,
+    "engagement": 53,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -92845,7 +92845,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93089,7 +93089,7 @@
       "android",
       "Python"
     ],
-    "engagement": 2534,
+    "engagement": 2628,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -93298,7 +93298,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93386,7 +93386,7 @@
       "agents",
       "JavaScript"
     ],
-    "engagement": 384,
+    "engagement": 456,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -93400,7 +93400,7 @@
       "scoredAt": "2026-11-24T06:06:51.367Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 29,
     "firstSeen": "2026-11-24T06:06:51.367Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93535,7 +93535,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93755,7 +93755,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93782,7 +93782,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93809,7 +93809,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93836,7 +93836,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93863,7 +93863,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93890,7 +93890,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93917,7 +93917,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93944,7 +93944,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -93971,7 +93971,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94025,7 +94025,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94079,7 +94079,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94106,7 +94106,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94164,7 +94164,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 29,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94191,7 +94191,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94218,7 +94218,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94245,7 +94245,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94272,7 +94272,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94299,7 +94299,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94380,7 +94380,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94407,7 +94407,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94434,7 +94434,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94451,7 +94451,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 225,
+    "engagement": 226,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -94465,7 +94465,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94554,7 +94554,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -94705,7 +94705,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95390,7 +95390,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95417,7 +95417,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95498,7 +95498,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95552,7 +95552,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95606,7 +95606,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95650,7 +95650,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 433,
+    "engagement": 434,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -95664,7 +95664,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 41,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95691,7 +95691,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 49,
+    "heat": 48,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95708,7 +95708,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1030,
+    "engagement": 1032,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -95722,7 +95722,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95776,7 +95776,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95830,7 +95830,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 49,
+    "heat": 47,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95857,7 +95857,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -95884,7 +95884,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96135,7 +96135,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96162,7 +96162,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96189,7 +96189,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96216,7 +96216,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96385,7 +96385,7 @@
   {
     "id": "rss:anthropic-1489442383",
     "title": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections",
-    "summary": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections Anthropic Alignment Science blog",
+    "summary": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections Anthropic Alignment Science Blog",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51RURTZW9Mc2ZrRWI5bDFKYnpkeThPVFFKQ3hVamlUWUZ2akJBOVNEaTA0WjFPR2pRUEtNdEllSFBJRjhNXzRVbUxYNndSQW9SVnNpN0xMNXVIRkVfNGRkZGs2OC1TRlI1?oc=5",
     "category": "ai-models",
@@ -96403,7 +96403,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96412,7 +96412,7 @@
   {
     "id": "rss:anthropic-d6183822f3",
     "title": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications",
-    "summary": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications Anthropic Alignment Science blog",
+    "summary": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications Anthropic Alignment Science Blog",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5",
     "category": "ai-models",
@@ -96430,7 +96430,7 @@
       "model": null,
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
-    "heat": 48,
+    "heat": 46,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -96767,7 +96767,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 25,
+    "engagement": 27,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -96781,7 +96781,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 41,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -97377,7 +97377,7 @@
       "ai-assistant",
       "TypeScript"
     ],
-    "engagement": 659,
+    "engagement": 681,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -97391,7 +97391,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -97678,7 +97678,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 34,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -97933,7 +97933,7 @@
       "scoredAt": "2026-11-25T04:55:05.476Z"
     },
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-11-25T04:55:05.476Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98589,7 +98589,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98616,7 +98616,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98643,7 +98643,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98670,7 +98670,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98687,7 +98687,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 229,
+    "engagement": 235,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -98701,7 +98701,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98728,7 +98728,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98745,7 +98745,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 550,
+    "engagement": 563,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -98759,7 +98759,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 48,
+    "heat": 45,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98776,7 +98776,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 659,
+    "engagement": 679,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -98790,7 +98790,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 49,
+    "heat": 46,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98871,7 +98871,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98898,7 +98898,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98925,7 +98925,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -98979,7 +98979,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99141,7 +99141,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99168,7 +99168,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99195,7 +99195,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99212,7 +99212,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 55,
+    "engagement": 56,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -99226,7 +99226,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99280,7 +99280,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99361,7 +99361,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99388,7 +99388,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99469,7 +99469,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99604,7 +99604,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99631,7 +99631,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99793,7 +99793,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -99820,7 +99820,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100494,7 +100494,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100575,7 +100575,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 51,
+    "heat": 49,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100602,7 +100602,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100683,7 +100683,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100710,7 +100710,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100727,7 +100727,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 222,
+    "engagement": 223,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -100741,7 +100741,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100789,7 +100789,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 133,
+    "engagement": 137,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -100803,7 +100803,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100847,7 +100847,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 104,
+    "engagement": 105,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -100861,7 +100861,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 30,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100888,7 +100888,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 50,
+    "heat": 48,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100915,7 +100915,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 37,
+    "heat": 35,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -100946,7 +100946,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -101037,7 +101037,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 49,
+    "heat": 48,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102237,7 +102237,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 465,
+    "engagement": 468,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -102251,7 +102251,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 39,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102278,7 +102278,7 @@
       "model": null,
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102408,7 +102408,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102489,7 +102489,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1347,
+    "engagement": 1348,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -102503,7 +102503,7 @@
       "scoredAt": "2026-11-26T04:11:23.562Z"
     },
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-11-26T04:11:23.562Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102524,7 +102524,7 @@
       "deepseek",
       "Python"
     ],
-    "engagement": 170,
+    "engagement": 177,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -102594,7 +102594,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 1136,
+    "engagement": 1169,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -102605,11 +102605,11 @@
       "verdict": "daily",
       "method": "rule",
       "model": null,
-      "scoredAt": "2026-11-26T04:11:23.562Z"
+      "scoredAt": "2026-11-28T03:56:48.017Z"
     },
     "image": null,
-    "heat": 32,
-    "firstSeen": "2026-11-26T04:11:23.562Z",
+    "heat": 31,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
@@ -102829,7 +102829,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102856,7 +102856,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102910,7 +102910,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -102964,7 +102964,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103018,7 +103018,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103072,7 +103072,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103251,7 +103251,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 42,
+    "engagement": 56,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103265,7 +103265,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 27,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103292,7 +103292,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103319,7 +103319,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 40,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103336,7 +103336,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 422,
+    "engagement": 1107,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103350,7 +103350,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 51,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103377,7 +103377,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103404,7 +103404,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103431,7 +103431,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103448,7 +103448,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 306,
+    "engagement": 321,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103462,7 +103462,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 44,
+    "heat": 41,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103479,7 +103479,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 306,
+    "engagement": 440,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103510,7 +103510,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 57,
+    "engagement": 61,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103524,7 +103524,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103541,7 +103541,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 41,
+    "engagement": 61,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103555,7 +103555,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103582,7 +103582,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103609,7 +103609,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103636,7 +103636,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103663,7 +103663,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103680,7 +103680,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 92,
+    "engagement": 301,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103694,7 +103694,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 41,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103802,7 +103802,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 53,
+    "heat": 51,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103883,7 +103883,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103937,7 +103937,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 39,
+    "heat": 37,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103954,7 +103954,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 279,
+    "engagement": 420,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -103968,7 +103968,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 43,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -103995,7 +103995,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104039,7 +104039,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 304,
+    "engagement": 356,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -104053,7 +104053,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104080,7 +104080,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104107,7 +104107,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 53,
+    "heat": 51,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104124,7 +104124,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 52,
+    "engagement": 110,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -104138,7 +104138,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 32,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104155,7 +104155,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 473,
+    "engagement": 509,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -104169,7 +104169,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104196,7 +104196,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104223,7 +104223,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104250,7 +104250,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 38,
+    "heat": 37,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104281,7 +104281,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104312,7 +104312,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104343,7 +104343,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104374,7 +104374,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104405,7 +104405,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104436,7 +104436,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104467,7 +104467,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104498,7 +104498,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104529,7 +104529,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104560,7 +104560,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104591,7 +104591,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104622,7 +104622,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104653,7 +104653,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104684,7 +104684,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104715,7 +104715,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104746,7 +104746,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104777,7 +104777,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104808,7 +104808,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104839,7 +104839,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 52,
+    "heat": 50,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104866,7 +104866,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 38,
+    "heat": 36,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104893,7 +104893,7 @@
       "model": null,
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
-    "heat": 37,
+    "heat": 36,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104925,7 +104925,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104943,7 +104943,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 32,
+    "engagement": 104,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -104957,7 +104957,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 48,
+    "heat": 47,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -104975,7 +104975,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 22,
+    "engagement": 24,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -104989,7 +104989,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 45,
+    "heat": 43,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105007,7 +105007,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 13,
+    "engagement": 27,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105021,7 +105021,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 41,
+    "heat": 44,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105039,7 +105039,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 4,
+    "engagement": 60,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105053,7 +105053,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 47,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105071,7 +105071,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 16,
+    "engagement": 19,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105103,7 +105103,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 31,
+    "engagement": 36,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105117,7 +105117,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 48,
+    "heat": 45,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105135,7 +105135,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 50,
+    "engagement": 128,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105149,7 +105149,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 49,
+    "heat": 48,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105199,7 +105199,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 26,
+    "engagement": 34,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105213,7 +105213,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 47,
+    "heat": 45,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105231,7 +105231,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 4,
+    "engagement": 10,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105245,7 +105245,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 40,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105263,7 +105263,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 9,
+    "engagement": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105277,7 +105277,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 39,
+    "heat": 41,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105309,7 +105309,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 33,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105341,7 +105341,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 32,
+    "heat": 33,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105391,7 +105391,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 18,
+    "engagement": 19,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105405,7 +105405,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 43,
+    "heat": 42,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105423,7 +105423,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105437,7 +105437,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 28,
+    "heat": 33,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105468,11 +105468,12 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 36,
+    "heat": 24,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2611.34420",
@@ -105809,7 +105810,7 @@
       "diffusion-models",
       "Python"
     ],
-    "engagement": 37,
+    "engagement": 47,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -105840,7 +105841,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 134,
+    "engagement": 148,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -105854,7 +105855,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105872,7 +105873,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 4,
+    "engagement": 7,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105886,7 +105887,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 35,
+    "heat": 38,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -105936,7 +105937,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -105950,7 +105951,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 35,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106014,7 +106015,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106064,7 +106065,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 5,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106078,7 +106079,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 31,
+    "heat": 37,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106110,7 +106111,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 28,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106128,7 +106129,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 19,
+    "engagement": 22,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106142,7 +106143,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106224,7 +106225,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106238,7 +106239,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 26,
+    "heat": 30,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106256,7 +106257,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 4,
+    "engagement": 5,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106270,7 +106271,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 34,
+    "heat": 36,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106333,11 +106334,12 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 22,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
-    "tier": 2
+    "tier": 2,
+    "engagement": 1
   },
   {
     "id": "hf-2611.29259",
@@ -106364,7 +106366,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106382,7 +106384,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 3,
+    "engagement": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106396,7 +106398,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 27,
+    "heat": 31,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106449,7 +106451,7 @@
       "diffusion-models",
       "Python"
     ],
-    "engagement": 27,
+    "engagement": 70,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -106463,7 +106465,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 22,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106484,7 +106486,7 @@
       "mysql",
       "Rust"
     ],
-    "engagement": 217,
+    "engagement": 246,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -106530,7 +106532,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 22,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106548,7 +106550,7 @@
       "论文",
       "arXiv"
     ],
-    "engagement": 2,
+    "engagement": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "aiNote": null,
@@ -106562,7 +106564,7 @@
       "scoredAt": "2026-11-27T04:17:55.489Z"
     },
     "image": null,
-    "heat": 21,
+    "heat": 26,
     "firstSeen": "2026-11-27T04:17:55.489Z",
     "fetchedAt": null,
     "titleZh": null,
@@ -106648,9 +106650,9 @@
       "avx512",
       "cpu-inference",
       "edge-ai",
-      "C++"
+      "Python"
     ],
-    "engagement": 1791,
+    "engagement": 2215,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -106762,5 +106764,1905 @@
     "fetchedAt": null,
     "titleZh": null,
     "tier": 2
+  },
+  {
+    "id": "rss:infoq-11901084f3",
+    "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-28T11:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:infoq-84507fc93a",
+    "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-28T10:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:infoq-6787015b1b",
+    "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-28T08:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:latentspace-81d5f7e4ac",
+    "title": "[AINews] Inside the exploding Coding Data Market",
+    "summary": "November 27, 2026 — How frontier labs buy training data.",
+    "source": "Latent Space",
+    "sourceUrl": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+    "category": "tip",
+    "publishedAt": "2026-11-28T03:45:59.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:latentspace",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:ithome-91050d7a64",
+    "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+    "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/033/824.htm",
+    "category": "industry",
+    "publishedAt": "2026-11-28T03:22:22.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/7/186b2b15-0252-4eeb-9ae2-8fd1132b32a9.png",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "funding",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-ffe5f6068f",
+    "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+    "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ult…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/033/822.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-11-28T03:18:23.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/11/46d82ae9-4fa1-4167-a3fa-169cbf949cd5.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:ithome-a1a218ca38",
+    "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+    "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/033/810.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-11-28T02:16:13.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-f72340dff4",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "category": "industry",
+    "publishedAt": "2026-11-28T01:32:56Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 86,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 33,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:latentspace-dfb4c570b4",
+    "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+    "summary": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells s…",
+    "source": "Latent Space",
+    "sourceUrl": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+    "category": "tip",
+    "publishedAt": "2026-11-27T22:19:18.000Z",
+    "image": "https://i.ytimg.com/vi/lCtMq8jegvo/maxresdefault.jpg",
+    "aiSelected": true,
+    "origin": "rss:latentspace",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 40,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-29096c9d5d",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/skeeto/prospero",
+    "category": "industry",
+    "publishedAt": "2026-11-27T20:23:14Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 42,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-cd0cf05e9f",
+    "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T19:56:26.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:thedecoder-dfe2badd46",
+    "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+    "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just t…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T19:38:37.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_apple.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-359e70c5cd",
+    "title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T18:53:18.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:thedecoder-a590fc975e",
+    "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+    "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloom…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T18:27:02.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/jensen_huang_china.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-c412ff24c0",
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if th…",
+    "source": "Hacker News",
+    "sourceUrl": "https://dragdropmath.com/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T17:56:28Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 113,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 34,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-355cb1f0f3",
+    "title": "I'm Scared of AI",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://thesoapbox.email/archive/3",
+    "category": "industry",
+    "publishedAt": "2026-11-27T17:45:31Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 206,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-ee0e28b34a",
+    "title": "Three studies from Meta and AMI Labs back Yann LeCun&#039;s bet on JEPA world models over large language models",
+    "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that capture…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T16:58:56.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/lecun_wireframe.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-5661f95bf2",
+    "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T16:15:06.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:thedecoder-7591243f5e",
+    "title": "Hackers breached the US Air Force&#039;s flagship Cloud One platform, report says",
+    "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T16:06:43.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/XQ-58-Testflight-scaled.jpg",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-07fea5b0e7",
+    "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+    "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions fo…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T16:05:23.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:thedecoder-2aeb5c7ea9",
+    "title": "Rockstar&#039;s AI dilemma: Can GTA 6&#039;s staggered release model survive coding agents?",
+    "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T15:37:47.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/Rockstar-logo-reihe.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "funding",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-85d881b9ce",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-se…",
+    "source": "Hacker News",
+    "sourceUrl": "https://bouncemarket.minhanhday.com/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T15:01:50Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 339,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 44,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-3c1b462acc",
+    "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T15:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:thedecoder-880d4f99a3",
+    "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+    "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to…",
+    "source": "The Decoder",
+    "sourceUrl": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T14:57:25.000Z",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/05/SAP-Logo-Silouette.png",
+    "aiSelected": true,
+    "origin": "rss:thedecoder",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-6aa339a9d5",
+    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513352.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T14:07:33.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:theverge-ai-2464471310",
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for th…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "category": "industry",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:infoq-f60ff44c67",
+    "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T13:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-8309cfc535",
+    "title": "Kimi for Science: More scientific ideas, made possible",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.kimi.ai/news/kimi-for-science-program",
+    "category": "industry",
+    "publishedAt": "2026-11-27T12:03:11Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 182,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 38,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-005b7c4e65",
+    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513346.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T11:18:24.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-579b06a6d9",
+    "title": "AI on brink of making online security useless, mathematicians fear",
+    "summary": "https://archive.ph/4hRp8",
+    "source": "Hacker News",
+    "sourceUrl": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+    "category": "industry",
+    "publishedAt": "2026-11-27T11:09:04Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 118,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 34,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:jiqizhixin-8aafc805ff",
+    "title": "NeurIPS 2026｜基模告别重训！港科大、混元开源Rosetta：终结基模「学新忘旧」",
+    "summary": "只要在已有基模上「长新能力」，都可以用这套通解。",
+    "source": "机器之心",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076720&idx=2&sn=d375259d0dfaea462ea23093a9ae08bd",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T09:00:00.000Z",
+    "image": "https://wechat2rss.xlab.app/img-proxy/?k=7e41632b&amp;u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2F5L8bhP5dIqFNaTmwmH0NKVnZ8BDK958BFWJoVLuM6vhqXWwYlBkiaVMGDNr75MCmUIXXvVAlc6q8ZQGhWHIWH06Ipzb3DABD0KHyAa7Ihajc%2F0%3Fwx_fmt%3Djpeg",
+    "aiSelected": true,
+    "origin": "rss:jiqizhixin",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "opensource",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "hn-368d0fe8fc",
+    "title": "Claude sabotaging ML research tasks?",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "category": "industry",
+    "publishedAt": "2026-11-27T08:28:08Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 636,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-cc54ca76b8",
+    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+    "summary": "淡泊名利，实至名归🎉",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513320.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T07:39:18.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-4d9d55e7b3",
+    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+    "summary": "网页App双端亮出聊天账单",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513305.html",
+    "category": "ai-models",
+    "publishedAt": "2026-11-27T07:29:10.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-44a871db65",
+    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+    "summary": "地图能随时修，记忆能跨任务用",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513227.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T07:01:20.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "opensource",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:wired-ai-3c1d86a549",
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T07:00:00.000Z",
+    "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+    "aiSelected": true,
+    "origin": "rss:wired-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 39,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-fad74836d4",
+    "title": "Group chat where your AI talks behind your back",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://construct22.com/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T06:44:34Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 689,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 49,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-9610e511c9",
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "category": "industry",
+    "publishedAt": "2026-11-27T04:56:18Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 188,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 38,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:qbitai-22df109b65",
+    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+    "summary": "企业需要有用的 AI",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513194.html",
+    "category": "industry",
+    "publishedAt": "2026-11-27T04:05:56.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:qbitai-755aa823de",
+    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+    "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513211.html",
+    "category": "ai-products",
+    "publishedAt": "2026-11-27T04:05:18.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "model-release",
+      "reason": "规则判定（tier3 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:infoq-f2d85f0d23",
+    "title": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-11-27T00:21:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "aiNote": null,
+    "significance": {
+      "score": 15,
+      "type": "other",
+      "reason": "规则判定（tier3）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 3
+  },
+  {
+    "id": "rss:hf-blog-2d7f8b4f84",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": null,
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/video-trainium3",
+    "category": "tip",
+    "publishedAt": "2026-11-27T00:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:hf-blog",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 52,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:tldr-ai-dda121ef52",
+    "title": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+    "summary": null,
+    "source": "TLDR AI",
+    "sourceUrl": "https://tldr.tech/ai/2026-11-27",
+    "category": "industry",
+    "publishedAt": "2026-11-27T00:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:tldr-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 38,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-df011204c7",
+    "title": "Top-cited AI scientists at four US companies compared",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+    "category": "industry",
+    "publishedAt": "2026-11-26T19:44:31Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 44,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-906c29f71f",
+    "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+    "category": "industry",
+    "publishedAt": "2026-11-26T14:38:57Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 46,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 24,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "arxiv-2611.34923v1",
+    "title": "Mixture-of-Loops Transformer",
+    "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism conne…",
+    "source": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2611.34923v1",
+    "category": "paper",
+    "publishedAt": "2026-11-25T18:58:53.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "arxiv",
+    "aiNote": null,
+    "significance": {
+      "score": 60,
+      "type": "other",
+      "reason": "规则判定（tier1 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 50,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "gh-alesha-pro-llm-asm",
+    "title": "alesha-pro/llm.asm",
+    "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly.…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/alesha-pro/llm.asm",
+    "category": "ai-products",
+    "publishedAt": "2026-11-25T07:28:51Z",
+    "tags": [
+      "assembly",
+      "avx2",
+      "bare-metal",
+      "llm",
+      "Assembly"
+    ],
+    "engagement": 2286,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 47,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-2c25cbd7fa",
+    "title": "Show HN: Analysis of Hacker News predictions since 2008",
+    "summary": "I've always been curious about market and technology predictions so I made HN Predictions. I made it (prompted) in Antigravity using Gemini 4 Neon (High) orchestrator, and it took…",
+    "source": "Hacker News",
+    "sourceUrl": "https://hnpredictions.com/",
+    "category": "industry",
+    "publishedAt": "2026-11-24T19:46:54Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 63,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 27,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.33885",
+    "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+    "summary": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.33885",
+    "category": "paper",
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 35,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.34782",
+    "title": "Generation as Reverse Encoding",
+    "summary": "Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.34782",
+    "category": "paper",
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 29,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-zrn59-comfyui-gguf-next",
+    "title": "Zrn59/ComfyUI-GGUF-Next",
+    "summary": "GGUF loader nodes for ComfyUI: all 35 ggml quant types in torch, more diffusion models and text encoders. Fork of city96/ComfyUI-GGUF.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Zrn59/ComfyUI-GGUF-Next",
+    "category": "ai-products",
+    "publishedAt": "2026-11-24T04:42:25Z",
+    "tags": [
+      "comfyui",
+      "comfyui-custom-nodes",
+      "comfyui-nodes",
+      "diffusion-models",
+      "Python"
+    ],
+    "engagement": 8,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 22,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.30025",
+    "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+    "summary": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integrat…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.30025",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 27,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.30723",
+    "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+    "summary": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced to…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.30723",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 27,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.30494",
+    "title": "Revisiting LLMs as Context Engineers",
+    "summary": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.30494",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 4,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 34,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.31516",
+    "title": "InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion",
+    "summary": "Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.31516",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 22,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.31155",
+    "title": "So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes",
+    "summary": "A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matric…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.31155",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 33,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.31491",
+    "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+    "summary": "Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation mode…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.31491",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 22,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.31619",
+    "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+    "summary": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.31619",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 57,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 45,
+      "type": "other",
+      "reason": "规则判定（tier2 + 热度前10%）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 43,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.30483",
+    "title": "When an AI agent makes a mistake in a database, what decides the damage?",
+    "summary": "AI agents now run statements against production databases, and several of the incidents that followed deleted production data, which came back only through backups or the provider's help. We ask what…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.30483",
+    "category": "paper",
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 4,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 34,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.28849",
+    "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+    "summary": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.28849",
+    "category": "paper",
+    "publishedAt": "2026-11-20T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "engagement": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 55,
+      "type": "capability",
+      "reason": "规则判定（tier2 + 关键词）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 25,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "hf-2611.27112",
+    "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+    "summary": "Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question:…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2611.27112",
+    "category": "paper",
+    "publishedAt": "2026-11-19T19:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 30,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-trinity-works-frostwind",
+    "title": "trinity-works/frostwind",
+    "summary": "A nature-grounded world compiler for pixel art. Real physics, imaginary worlds.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/trinity-works/frostwind",
+    "category": "ai-products",
+    "publishedAt": "2026-11-19T09:09:22Z",
+    "tags": [
+      "agents",
+      "claude-code",
+      "gamedev",
+      "pixel-art",
+      "JavaScript"
+    ],
+    "engagement": 96,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 23,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "gh-imsai-sh-fish-pocket",
+    "title": "imsai-sh/fish-pocket",
+    "summary": "DSH iOS 移动版：在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生，不连电脑和服务器。Run DSH (DeepSeek Harness) natively on iPhone and iPad: no computer, no server.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/imsai-sh/fish-pocket",
+    "category": "ai-products",
+    "publishedAt": "2026-11-05T01:10:38Z",
+    "tags": [
+      "ai-agent",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "Swift"
+    ],
+    "engagement": 460,
+    "aiSelected": true,
+    "origin": "github",
+    "aiNote": null,
+    "significance": {
+      "score": 25,
+      "type": "other",
+      "reason": "规则判定（tier2）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "image": null,
+    "heat": 28,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 2
+  },
+  {
+    "id": "rss:meta-ai-b28781733a",
+    "title": "SAM Audio - AI at Meta",
+    "summary": "SAM Audio AI at Meta",
+    "source": "Meta AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2026-01-31T06:52:11.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:meta-ai",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
+  },
+  {
+    "id": "rss:anthropic-fb5836ea28",
+    "title": "Emergent introspective awareness in LLMs",
+    "summary": "Emergent introspective awareness in LLMs Anthropic",
+    "source": "Anthropic",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdkxHVmExaHJQQnJWcW81NlpkUExfZGVhc2tybXNhV0FIejd3eHdHVHJLSERkaHlQRXk3UlRUSU13WV91MThxaW1peE1QWVk1REgxN09CSjUyaUV3?oc=5",
+    "category": "ai-models",
+    "publishedAt": "2025-10-29T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:anthropic",
+    "aiNote": null,
+    "significance": {
+      "score": 40,
+      "type": "other",
+      "reason": "规则判定（tier1）",
+      "verdict": "daily",
+      "method": "rule",
+      "model": null,
+      "scoredAt": "2026-11-28T03:56:48.017Z"
+    },
+    "heat": 30,
+    "firstSeen": "2026-11-28T03:56:48.017Z",
+    "fetchedAt": null,
+    "titleZh": null,
+    "tier": 1
   }
 ]
